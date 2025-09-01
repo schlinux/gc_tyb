@@ -1,0 +1,32 @@
+[Top]
+BookGuid=bb9e39199b8770c1c29e295f8bcd97cd
+WindowCount=1
+
+[Window 1]
+PageCount=2
+FirstPage=1
+PageOrder=2;1;
+WindowPosition=37;116;
+WindowGeometry=800;600;
+WindowMaximized=false
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Accounts
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Liabilities:Credit Card
+OpenAccount1=Liabilities
+NumberOfOpenAccounts=1
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=Credit Card
+RegisterType=Account
+AccountName=Liabilities:Credit Card
+RegisterStyle=Ledger
+DoubleLineMode=false

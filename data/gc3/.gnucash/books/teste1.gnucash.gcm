@@ -1,0 +1,110 @@
+[Top]
+BookGuid=111ac632bacf2fb3eddcc48448b439d7
+WindowCount=1
+
+[Register 9d9c66f4a42d3949fa54b0938c9e9d6d]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register f2aba085ea8df12dbaebf72aa8022879]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=false
+
+[Window 1]
+PageCount=3
+FirstPage=1
+PageOrder=3;1;2;
+WindowPosition=0;0;
+WindowGeometry=1364;715;
+WindowMaximized=false
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Assets:Current Assets:Checking Account
+OpenAccount1=Assets
+OpenAccount2=Assets:Current Assets
+OpenAccount3=Equity
+OpenAccount4=Expenses
+OpenAccount5=Income
+NumberOfOpenAccounts=5
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=Bank Service Charge
+RegisterType=Account
+AccountName=Expenses:Bank Service Charge
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 3]
+PageType=GncPluginPageRegister
+PageName=Checking Account
+RegisterType=Account
+AccountName=Assets:Current Assets:Checking Account
+RegisterStyle=Ledger
+DoubleLineMode=false

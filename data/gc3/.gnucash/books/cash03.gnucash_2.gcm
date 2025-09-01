@@ -1,0 +1,22 @@
+[Top]
+BookGuid=b59fea84d123a23cd53876e05b23df3e
+WindowCount=1
+
+[Window 1]
+PageCount=1
+FirstPage=1
+PageOrder=1;
+WindowPosition=0;0;
+WindowGeometry=1350;650;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Accounts
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+NumberOfOpenAccounts=0

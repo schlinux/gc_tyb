@@ -1,0 +1,62 @@
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=6
+FirstPage=1
+PageOrder=1;2;3;6;5;4;
+WindowPosition=0;25;
+WindowGeometry=1280;604;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Passivos
+OpenAccount1=A Receber
+OpenAccount2=Passivos
+OpenAccount3=Passivos:Contas a Pagar
+OpenAccount4=Receitas
+NumberOfOpenAccounts=4
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=Gráfico de Receitas/Despesas
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Income/Expense Chart"))) (let ((option (gnc:lookup-option options "Display" "Show table"))) ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1283310000 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1301626800 . 0)))) option)) (gnc:restore-report 0 "Income/Expense Chart" options))
+
+[Page 3]
+PageType=GncPluginPageReport
+PageName=Gráfico de Barras de Valor Líquido
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Net Worth Barchart"))) (let ((option (gnc:lookup-option options "Display" "Show table"))) ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1288576800 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1301626800 . 0)))) option)) (gnc:restore-report 5 "Net Worth Barchart" options))
+
+[Page 4]
+PageType=GncPluginPageRegister
+PageName=Credicard-1102
+RegisterType=Account
+AccountName=Passivos:Contas a Pagar:Credicard-1102
+RegisterStyle=Auto Ledger
+DoubleLineMode=true
+
+[Page 5]
+PageType=GncPluginPageRegister
+PageName=Contas a Pagar
+RegisterType=Account
+AccountName=Passivos:Contas a Pagar
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 6]
+PageType=GncPluginPageRegister
+PageName=A Receber
+RegisterType=Account
+AccountName=A Receber
+RegisterStyle=Ledger
+DoubleLineMode=true

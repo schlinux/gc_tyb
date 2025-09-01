@@ -1,0 +1,250 @@
+[dialogs/edit_prices]
+column_order=security;currency;date;source;type;price;
+currency_visible=true
+date_visible=true
+source_visible=true
+type_visible=true
+price_visible=true
+
+[dialogs/edit_commodities]
+sort_column=symbol
+column_order=namespace;symbol;name;printname;user_symbol;uniquename;cusip_code;fraction;quote_flag;quote_source;quote_timezone;
+symbol_visible=true
+name_visible=true
+printname_visible=false
+printname_width=0
+user_symbol_visible=true
+uniquename_visible=false
+uniquename_width=0
+cusip_code_visible=true
+fraction_visible=true
+quote_flag_visible=false
+quote_source_visible=false
+quote_source_width=0
+quote_timezone_visible=true
+
+[Register 0a7b22dfed15d7c9713c730449dc7882]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 81f31f925b0e986be768630c987ff70b]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 12a3900dd14b0a17124d3d0be2cb9225]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=91
+debit_width=61
+credit_width=79
+
+[Register 3594d6d2b6ec8e9c06d3268864d0e685]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 6eb352761e1c4aecf493bef40f4c50e2]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Top]
+BookGuid=cf8db96f5d12ca933cc6f601e8706f81
+WindowCount=1
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=false
+name_width=220
+
+[Register a0d2c88af6d126b933109f26512db897]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register e8f341c5f73c80c31aaa6658d10a8f9f]
+date_width=82
+num_width=40
+reconcile_width=17
+balance_width=70
+transfer_width=186
+debit_width=70
+credit_width=70
+
+[Register 3506ecf5ee7444fe8ef4e871bec058ab]
+date_width=82
+num_width=40
+reconcile_width=17
+balance_width=70
+transfer_width=186
+debit_width=70
+credit_width=70
+
+[Register f61b22ba638299cb879f4cf3d6e28b5a]
+date_width=82
+num_width=40
+reconcile_width=17
+balance_width=70
+transfer_width=186
+debit_width=70
+credit_width=70
+
+[Window 1]
+PageCount=7
+FirstPage=1
+PageOrder=7;1;6;3;5;4;2;
+WindowPosition=0;0;
+WindowGeometry=1366;716;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Ativos:PesoAtv:2018Peso
+OpenAccount1=Ativos
+OpenAccount2=Ativos:HrTrab
+OpenAccount3=Ativos:PesoAtv
+OpenAccount4=Despesas
+OpenAccount5=Despesas:E030Fin
+OpenAccount6=Despesas:E030Fin:GC
+OpenAccount7=Despesas:E050Plj
+OpenAccount8=Despesas:E050Plj:CeciliaH2
+OpenAccount9=Despesas:E050Plj:Log
+OpenAccount10=Despesas:PesoDeb
+OpenAccount11=Liabilities
+OpenAccount12=Receita
+OpenAccount13=Receita:HE
+OpenAccount14=Receita:HT
+OpenAccount15=Receita:PesoRec
+NumberOfOpenAccounts=15
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=10805HrTrab
+RegisterType=Account
+AccountName=Ativos:HrTrab:10805HrTrab
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 3]
+PageType=GncPluginPageReport
+PageName=Contas de Despesas
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Price Source")))   ((lambda (option) (if option ((gnc:option-setter option) 'pricedb-nearest))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1527735600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1525143600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report's currency")))   ((lambda (option) (if option ((gnc:option-setter option) "XXX"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Show Accounts until level")))   ((lambda (option) (if option ((gnc:option-setter option) '3))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("61b69533753d85712ed2bc8b54fb5206" "1a287e6802ad51c3579ff3df180c8c51" "dd17287dc51d723f2e469a924c3e5ee3" "6ff3aceb8b7e2a12a95b19a54dcabb09" "060d1f9ae0961716764b4a106b8b58fb" "f61b22ba638299cb879f4cf3d6e28b5a" "136e6bd0e0808cdf0fc5833ae0984f02" "cf49b7aaf14450816853d3fa7e2706e6" "d4a0c1fd6c242acdaa5cd935b5b36b5c" "688a86fc8f8d12263e3ca2aaa229f119" "89580a5278b86b7f34341a188cda22fe" "e9097572d48bd94b9835b51ad6a5e2dc" "725d9aff99610697f7cf0bab823afdb1" "de8dd18a1680b8fb4c6ae6d4d283ceb8" "3fe9bec5662dcd56b6c5daeee2ee5a7f" "999009d0dccd15324ab0935c4befef02" "0a7b22dfed15d7c9713c730449dc7882" "dd0937bb046d17cacd11b60e211cb1ba" "2fdf5f85d8d4e96001ae5287ea90750a" "af9e864b7f536454b69282896ce1dde1" "9b46160c6ed151321165ea22c9cda5b2" "6f4ab5ba3ce50e39205cefb88174cca6" "1a590da47474be7d4e89a5c2714ed9b6" "e8f341c5f73c80c31aaa6658d10a8f9f" "3594d6d2b6ec8e9c06d3268864d0e685" "6eb352761e1c4aecf493bef40f4c50e2" "c661dfc38f9e8a27f878ad3783aafe37" "05a3ae89ea9c9fa928496cfa0b260271" "e1b72ded782e7ea402668eff35262988" "1d99fd0b2713a39db572c3dce3ce8ad5" "ac2aed069e71f71205a443db5f932273" "3506ecf5ee7444fe8ef4e871bec058ab" "56065cb15cd2131f0975768dcb52a1a8" "6ec820374bd35ee50aecc97c79b51e9c" "4bfc87938dbb5292318bef2a2c4ae948" "511ea44b5ffdcae349981595e8c70341" "622f364d700d8617fec92be5148c9cfe" "4f4bc1c6f3fdba60d30127a806e2e710" "3b7ff589f6ac33a9e295a7f8e1f06f80" "ea1ca24468e60c49881947167689f117" "1f0b7f37aacdd372b003e9752fda2f70" "45c950f487bde1ff7038a95bf55c4efa")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 450.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Maximum Slices")))   ((lambda (option) (if option ((gnc:option-setter option) 11.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" "" options)   (gnc:restore-report-by-guid 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" options)) )
+
+[Page 4]
+PageType=GncPluginPageReport
+PageName=Contas de Receitas
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1527735600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1525143600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report's currency")))   ((lambda (option) (if option ((gnc:option-setter option) "XXX"))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("4bd3562539f8e7abee6b74ccc79a674a" "4ac251922bfda49a82d2b85d3d47f411" "81f31f925b0e986be768630c987ff70b" "be625f7cef62dfc629c2ab06df0205c9" "12a3900dd14b0a17124d3d0be2cb9225")))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 1 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" "" options)   (gnc:restore-report-by-guid 1 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" options)) )
+
+[Page 5]
+PageType=GncPluginPageReport
+PageName=Despesas em função de Dia de Semana
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "dde49fed4ca940959ae7d01b72742530" "Expenses vs. Day of Week"))) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1527735600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1525143600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report's currency")))   ((lambda (option) (if option ((gnc:option-setter option) "XXX"))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 93 "dde49fed4ca940959ae7d01b72742530" "Expenses vs. Day of Week" "" options)   (gnc:restore-report-by-guid 93 "dde49fed4ca940959ae7d01b72742530" "Expenses vs. Day of Week" options)) )
+
+[Page 6]
+PageType=GncPluginPageRegister
+PageName=2018PesoRec
+RegisterType=Account
+AccountName=Receita:PesoRec:2018PesoRec
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 7]
+PageType=GncPluginPageRegister
+PageName=2018Peso
+RegisterType=Account
+AccountName=Ativos:PesoAtv:2018Peso
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Register f8e19b6600ef45b7cc9b30df810e4062]
+date_width=82
+num_width=40
+reconcile_width=17
+balance_width=70
+transfer_width=186
+debit_width=70
+credit_width=70
+
+[Register 817dd6685949d85f31935d021f7df6f9]
+date_width=82
+num_width=40
+reconcile_width=17
+balance_width=70
+transfer_width=186
+debit_width=70
+credit_width=70

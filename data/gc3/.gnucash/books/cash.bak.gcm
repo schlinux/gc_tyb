@@ -1,0 +1,43 @@
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=3
+FirstPage=1
+PageOrder=2;1;3;
+WindowPosition=0;0;
+WindowGeometry=1362;621;
+WindowMaximized=false
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Ativos:Fin50%:Bancos:2012CCBB
+OpenAccount1=Ativos
+OpenAccount2=Ativos:Fin50%
+OpenAccount3=Ativos:Fin50%:Bancos
+NumberOfOpenAccounts=3
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=2012CCBB
+RegisterType=Account
+AccountName=Ativos:Fin50%:Bancos:2012CCBB
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 3]
+PageType=GncPluginPageRegister
+PageName=ResTec3$
+RegisterType=Account
+AccountName=Ativos:Fin50%:Dinheiro em Cash:ResTec3$
+RegisterStyle=Ledger
+DoubleLineMode=false

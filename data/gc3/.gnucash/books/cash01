@@ -1,0 +1,86 @@
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=10
+FirstPage=1
+PageOrder=7;10;1;9;8;4;6;3;2;5;
+WindowPosition=0;26;
+WindowGeometry=1366;602;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Ativos:Dinheiro em Cash:Carteira 2-Rz12
+OpenAccount1=Ativos
+OpenAccount2=Ativos:Dinheiro em Cash
+NumberOfOpenAccounts=2
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=G.R.D.
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Income/Expense Chart"))) (let ((option (gnc:lookup-option options "Display" "Show table"))) ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options "Display" "Plot Width"))) ((lambda (option) (if option ((gnc:option-setter option) 800.0))) option)) (let ((option (gnc:lookup-option options "General" "Report name"))) ((lambda (option) (if option ((gnc:option-setter option) "G.R.D."))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1280631600 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1333162800 . 0)))) option)) (gnc:restore-report 0 "Income/Expense Chart" options))
+
+[Page 3]
+PageType=GncPluginPageReport
+PageName=Saldo Médio
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Average Balance"))) (let ((option (gnc:lookup-option options "Display" "Show table"))) ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options "Display" "Plot Width"))) ((lambda (option) (if option ((gnc:option-setter option) 800.0))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1283310000 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1333162800 . 0)))) option)) (gnc:restore-report 6 "Average Balance" options))
+
+[Page 4]
+PageType=GncPluginPageReport
+PageName=Fluxo de Caixa
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Cash Flow"))) (let ((option (gnc:lookup-option options "Accounts" "Account"))) ((lambda (option) (if option ((gnc:option-setter option) '("3b3b97524bb3d4ea241c5832c964e015" "2ac111edee5e0152da32c265a1808457" "7f39265a2b7909c9825db98b66a2a31d" "b437739ceaa3838c2e10c8829a46a37a" "77511dc4174028b6639f8ac0ef18307a" "b0a9305db85af130f41378e7f81e9b8c" "a641c02a01737fce295e33f186f52c29" "f616d2dfd14c5614283125b76ffa806c" "75e68fef76fc56a0bd5d00d0a4899d07" "2c9d762cfa71c6ef8b6cc1dc9afe1fa9" "89317fa9e06052c4f520d440bf6aa3cc" "94f5a34e99d2c8fc8925c557c5477b16" "fb263f9589b3ced940c79d758192333e" "8df0d72b5744c8e2f2193107ef7dfc3f" "3028392012bbc0d04c221a1ff4fd66d6" "6f442f442c62446e7f695192df4f8938" "092b311eca0dd1eea49b9643c81ad2c8" "afa1d2b49dbdbf4e175f74f9c1b9ab06" "a4aee64a22a3c64c71c100325b99d1da" "73c7a7580067495c5716a05f08e3c219" "4a1639c4535081e3165fefd2b1b608e3" "c02c8184d009a110284b2a49533fa975" "2c1d54e1128291c3f806c9c8ba2b94af" "3e4cddedd71e97713108ad2eaa12e95c" "0e5eb6bd67ff4ba53f1e46b531b66d8d" "89d48a0fddeb6291bc5f2a28c09c269c" "e25dd04b2d3b3749baa8a31d389daa12" "29689a4499dfd7fa4cc1bea565c683ef" "323e16d55dc35835338993881f7df6e3" "708edd6bbc18e2acecc5b335b9470a9c" "733bc5e7a5964b0c32d4988e16392242" "d64064a565f2eeb0c1ef580e221e74fe" "c8c070991cd47cd7fb482a791ea5dbff" "8cb0e2dcd9350624fd9fec4fbc2a4630" "cf39152fc292d4b52d103d2a583dfbe4" "ad42bac03a4dce73c761a0ef9c08d4b0" "cfbb15f2cc34aa6c3988374439ad4d3c" "f314eff350f16c9a4f1028a8728907bb" "6742f223a3b646386150cc2c45b6f7ce" "470cf28910d78015acda38ad6cfe3a4a" "6cb9a5183e95b48eb6995ca087b215bd" "4a72eec56d2655551cee5248bd01c9b0" "d61a341a2b1f19d7b0235c66cd2762d1" "2bbd32aa94216e51143514df3e4302dc" "a7bec861355bba0271f038488e0def2c" "f974b99f198c4ea40d7347e79479c35c" "a494e7d0f3edf0b76e864ccfb3664569" "89f566c9f8eeccdcc9dab93089eedc5d" "b3942ace6b222963e78bbc7605f2c234" "8c99111533b08f2f2b9555b7dac09058" "74a474ad1b4e93dda24ed4db8d5b8b6f" "e2e1dd6d49452dfb2d900d071b598aba" "2326b80f6886a2c7aa845944b550ba97" "d8cf16c9aa6083382682fc80f7addfca" "22ecd8b4b99efe7099aad54aeda419b5" "d372b93c66f0a4573dd2970acd85da39" "9c02291fec3cdc9322b2d6b5ec5c0c66" "230c0c7653d2065e99674cd49ff76619" "bbb1f157fe174dafaab859ad836c17f2" "6f02b96612a29d30204b2208f1ed7d51" "75791e6c7c0b1dc041fcbded657e81ad" "4cd2994084773302e580918333980dc4" "d69bbe0369829ace1214ddccb858de90" "38985d4dde18fcb81113acb5cfc522f1" "a8d250f1650639aa7001089719a77db1" "90272af89c1201c24714e75902415887" "0fb9d86e9486e0a60b1ef1ee91a03396" "bcd4dc081617638241e185ebacdd0d20" "1847b7bb94e8da83fbf4c254cbcab755" "870bec18421c800139dcc7aae2d0292f" "4704dc7dbfd07ae1ffc2bfe807f9b588" "03e993869b7dd2a27d95b211ed1ffa1b" "cb9c677cb9cf6cd6f0982d8cadf13b4d" "8d4badbcae694a31586f95c614df2b2a" "4cde9814be0609d24815ccef2588d485" "bb484fc6a5103d00ae1d350bf7e5a5e0" "7042876972ee96de74caf2af214725d2" "df4dc95281e8d3f84df7999da16bad38" "8b90a4c4d428a5fbf84fe692ab9c4a78" "ac500740d444ab264968e9329640e368" "706b0b17921c151e5daf40ad4f6fea5c" "3bc40be8d23384b061ba54631d473212" "0a1aa0202a57ca204d2e7522f76e5959")))) option)) (let ((option (gnc:lookup-option options "Accounts" "Account Display Depth"))) ((lambda (option) (if option ((gnc:option-setter option) '6))) option)) (let ((option (gnc:lookup-option options "Accounts" "Always show sub-accounts"))) ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options "General" "Stylesheet"))) ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1325383200 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1327975200 . 0)))) option)) (gnc:restore-report 10 "Cash Flow" options))
+
+[Page 5]
+PageType=GncPluginPageReport
+PageName=Agenda_Financeira
+SchemeOptions=(let ((options (gnc:report-template-new-options/name "Agenda_Financeira"))) (let ((option (gnc:lookup-option options "General" "Account"))) ((lambda (option) (if option ((gnc:option-setter option) '"0d6fb1ca9a04729cfde78ae896b0523d"))) option)) (let ((option (gnc:lookup-option options "General" "Company"))) ((lambda (option) (if option ((gnc:option-setter option) '(4 . "fe261bf03ab71426ab12a359051fee2a")))) option)) (let ((option (gnc:lookup-option options "General" "Report name"))) ((lambda (option) (if option ((gnc:option-setter option) "Agenda_Financeira"))) option)) (let ((option (gnc:lookup-option options "General" "From"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1322704800 . 0)))) option)) (let ((option (gnc:lookup-option options "General" "To"))) ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1356919200 . 0)))) option)) (gnc:restore-report 4 "Agenda_Financeira" options))
+
+[Page 6]
+PageType=GncPluginPageRegister
+PageName=Contas a Pagar
+RegisterType=Account
+AccountName=Passivos:Contas a Pagar
+RegisterStyle=Auto Ledger
+DoubleLineMode=true
+
+[Page 7]
+PageType=GncPluginPageRegister
+PageName=Conta Corrente BB-CNPJ 00.000.000/5304-09-Rz12
+RegisterType=Account
+AccountName=Ativos:Bancos:Conta Corrente BB-CNPJ 00.000.000/5304-09-Rz12
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 8]
+PageType=GncPluginPageRegister
+PageName=Credicard-1202
+RegisterType=Account
+AccountName=A Receber:Credicard-1202
+RegisterStyle=Ledger
+DoubleLineMode=true
+
+[Page 9]
+PageType=GncPluginPageRegister
+PageName=BBFIX-RESGAUT-Rz12
+RegisterType=Account
+AccountName=Ativos:Bancos:BBFIX-RESGAUT-Rz12
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 10]
+PageType=GncPluginPageRegister
+PageName=Carteira 2-Rz12
+RegisterType=Account
+AccountName=Ativos:Dinheiro em Cash:Carteira 2-Rz12
+RegisterStyle=Ledger
+DoubleLineMode=false

@@ -1,0 +1,195 @@
+[Top]
+BookGuid=93dd2f43178f31546b5d7969e7f16915
+WindowCount=1
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=false
+
+[Register 928e81f411460325a4e3f43d44cde451]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 085b98aa51f41f66be2a66d410468de5]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 089ba21ea1afd2f6f9019e18ebc305f2]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 3dae72f4708a4533ddbeb03815f4f8be]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register d177c8ee4b4daab213d59c8d3867ac38]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register ca17f162ae927c60b03420d9cf7aa041]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Window 1]
+PageCount=11
+FirstPage=1
+PageOrder=2;1;11;10;9;8;7;6;5;4;3;
+WindowPosition=0;0;
+WindowGeometry=1360;716;
+WindowMaximized=false
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+NumberOfOpenAccounts=0
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=2014MatPerm
+RegisterType=Account
+AccountName=Despesas:Material Permanente:2014MatPerm
+RegisterStyle=Ledger
+DoubleLineMode=true
+
+[Page 3]
+PageType=GncPluginPageRegister
+PageName=2014Sv3o
+RegisterType=Account
+AccountName=Despesas:Servicos Terceirizados:2014Sv3o
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 4]
+PageType=GncPluginPageReport
+PageName=Cronograma de Desembolso - Desenvolvimento
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time"))) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 400.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Show table")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1300.0))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("840a5921ad3aa0df89e0b330f2f5914a" "875cae2a0572a2cbba1043eb70fa7678" "f4fcb0331bd9fe45f57f8306dc38c258" "d52dcac1f87fb6efed9cda488300abb8" "bbe84c09892b0648709b47232d3af882" "61e8ab617744627a6d9374d3887a3058" "b6b4bdfaf6871efa62f2448104e64114" "1bb9adb2a11094bfd94cd3edecc0797c" "b2d1a7816c9e4cfef08f03c37f65a63d" "8ab806652d7988b1ff0db1e26ea09e72" "88aad4017944bb4741566cb31fff5201" "ca9ae87b686154d861adf4acced4f4fb" "0806c1c7bbde1ebc28fb9b3c3207a0bd" "b8d14d0bcee332526ff43304b153537a" "b284e95237c423fa69ab230b9385d41f" "9587fcfc05eafae0a509e8ff50cc0968" "d177c8ee4b4daab213d59c8d3867ac38" "3dae72f4708a4533ddbeb03815f4f8be" "bf0ab310f05d428f4ab6101920a06996" "9ba4e0b7662c59a89c4852df680cc6a3" "6b72f1e68cf37000c46e74c2dec3241a" "3bcd2940193346028f5f3e533f59f764" "7e32535710e663a8d27508ac6ca8af81" "74116d2c7b4f48bb38949308f5625fe4" "5324d0b8de3971d8e02a8aba93798b4d" "150b7407a479c90f2a352bb69210a1dc" "928e81f411460325a4e3f43d44cde451" "cdc6f7f9db737a536eb8023d773d2340" "5328234c7611fe5344576deda2a7bfb6" "089ba21ea1afd2f6f9019e18ebc305f2" "0a67e06770de8f71ca54bd35921b81b4" "72c6df8b1c0069b8e1a09edfcec16526" "e3e64ed6778ec56a06bb6af78b4005fc" "636ecfb676e6ca9e2c46362b7082381b" "4144926fc3e1d5dc9cabd89b869c0465" "8e32ec931f946e28a812f127a87ed04d" "4e773b0d486f3b63170c08b84b858e7a" "085b98aa51f41f66be2a66d410468de5" "8e59c8bb9e2e13489b074e2b552e692d" "ca17f162ae927c60b03420d9cf7aa041" "db063fb81dc600582c4bf0bcd0087e6d" "1805165eab2475271029f1363d92a29c" "60c35f9bae590e41c87abe2b80768993" "a8b2646a42b95ac3b56490dc14dbbd06" "d3801e96fb6cc4c3785cc911551f1300")))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "Cronograma de Desembolso - Desenvolvimento"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1430362800 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1417399200 . 0)))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 3 "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time" "" options)   (gnc:restore-report-by-guid 3 "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time" options)) )
+
+[Page 5]
+PageType=GncPluginPageReport
+PageName=Cronograma de Desembolso - Operação
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time"))) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 390.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Show table")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1250.0))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("840a5921ad3aa0df89e0b330f2f5914a" "875cae2a0572a2cbba1043eb70fa7678" "f4fcb0331bd9fe45f57f8306dc38c258" "d52dcac1f87fb6efed9cda488300abb8" "bbe84c09892b0648709b47232d3af882" "61e8ab617744627a6d9374d3887a3058" "b6b4bdfaf6871efa62f2448104e64114" "1bb9adb2a11094bfd94cd3edecc0797c" "b2d1a7816c9e4cfef08f03c37f65a63d" "8ab806652d7988b1ff0db1e26ea09e72" "88aad4017944bb4741566cb31fff5201" "ca9ae87b686154d861adf4acced4f4fb" "0806c1c7bbde1ebc28fb9b3c3207a0bd" "b8d14d0bcee332526ff43304b153537a" "b284e95237c423fa69ab230b9385d41f" "9587fcfc05eafae0a509e8ff50cc0968" "d177c8ee4b4daab213d59c8d3867ac38" "3dae72f4708a4533ddbeb03815f4f8be" "bf0ab310f05d428f4ab6101920a06996" "9ba4e0b7662c59a89c4852df680cc6a3" "6b72f1e68cf37000c46e74c2dec3241a" "3bcd2940193346028f5f3e533f59f764" "7e32535710e663a8d27508ac6ca8af81" "74116d2c7b4f48bb38949308f5625fe4" "5324d0b8de3971d8e02a8aba93798b4d" "150b7407a479c90f2a352bb69210a1dc" "928e81f411460325a4e3f43d44cde451" "cdc6f7f9db737a536eb8023d773d2340" "5328234c7611fe5344576deda2a7bfb6" "089ba21ea1afd2f6f9019e18ebc305f2" "0a67e06770de8f71ca54bd35921b81b4" "72c6df8b1c0069b8e1a09edfcec16526" "e3e64ed6778ec56a06bb6af78b4005fc" "636ecfb676e6ca9e2c46362b7082381b" "4144926fc3e1d5dc9cabd89b869c0465" "8e32ec931f946e28a812f127a87ed04d" "4e773b0d486f3b63170c08b84b858e7a" "085b98aa51f41f66be2a66d410468de5" "8e59c8bb9e2e13489b074e2b552e692d" "ca17f162ae927c60b03420d9cf7aa041" "db063fb81dc600582c4bf0bcd0087e6d" "1805165eab2475271029f1363d92a29c" "60c35f9bae590e41c87abe2b80768993" "a8b2646a42b95ac3b56490dc14dbbd06" "d3801e96fb6cc4c3785cc911551f1300")))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "Cronograma de Desembolso - Operação"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1448848800 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1430449200 . 0)))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 0 "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time" "" options)   (gnc:restore-report-by-guid 0 "b1f15b2052c149df93e698fe85a81ea6" "Expense Over Time" options)) )
+
+[Page 6]
+PageType=GncPluginPageRegister
+PageName=Pagamento Pessoal
+RegisterType=Account
+AccountName=Despesas:Pagamento Pessoal
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 7]
+PageType=GncPluginPageRegister
+PageName=DiariasPsgMAS
+RegisterType=Account
+AccountName=Despesas:Diarias e Passagens:DiariasPsgMAS
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 8]
+PageType=GncPluginPageRegister
+PageName=DiariasPsgLHG
+RegisterType=Account
+AccountName=Despesas:Diarias e Passagens:DiariasPsgLHG
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 9]
+PageType=GncPluginPageRegister
+PageName=Nuvem
+RegisterType=Account
+AccountName=Despesas:Servicos Terceirizados:Nuvem
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 10]
+PageType=GncPluginPageInvoice
+PageName=Ver Cobrança - 002-14
+InvoiceType=VIEW_INVOICE
+InvoiceGUID=b90b9aa3e2ceb5a4650fb3edc44b03c0
+OwnerType=gncVendor
+OwnerGUID=21b69101269cb64fd8d037c2d58c4d8c
+
+[Page 11]
+PageType=GncPluginPageReport
+PageName=Fatura para Impressão
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "5123a759ceb9483abf2182d01c140e8d" "Printable Invoice"))) (let ((option (gnc:lookup-option options                                  "Display"                                  "Today Date Format")))   ((lambda (option) (if option ((gnc:option-setter option) "%e-%b-%Y"))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Extra Notes")))   ((lambda (option) (if option ((gnc:option-setter option) ""))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Invoice Number")))   ((lambda (option) (if option ((gnc:option-setter option) '"b90b9aa3e2ceb5a4650fb3edc44b03c0"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Custom Title")))   ((lambda (option) (if option ((gnc:option-setter option) "SPEEDY"))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 8 "5123a759ceb9483abf2182d01c140e8d" "Printable Invoice" "" options)   (gnc:restore-report-by-guid 8 "5123a759ceb9483abf2182d01c140e8d" "Printable Invoice" options)) )

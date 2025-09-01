@@ -1,0 +1,36 @@
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=2
+FirstPage=1
+PageOrder=2;1;
+WindowPosition=0;0;
+WindowGeometry=1364;626;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Ativos:Fin50%:BBFIXRz12
+OpenAccount1=2011Atv
+OpenAccount2=Ativos
+OpenAccount3=Ativos:Fin50%
+OpenAccount4=Ativos:Fin50%:Dinheiro em Cash
+NumberOfOpenAccounts=4
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=BBFIXRz12
+RegisterType=Account
+AccountName=Ativos:Fin50%:BBFIXRz12
+RegisterStyle=Ledger
+DoubleLineMode=false

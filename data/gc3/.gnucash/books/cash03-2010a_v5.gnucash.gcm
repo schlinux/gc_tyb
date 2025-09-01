@@ -1,0 +1,165 @@
+[Register 00000000000000000000000000000000]
+date_width=92
+num_width=45
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+reconcile_width=17
+
+[Register 9c02291fec3cdc9322b2d6b5ec5c0c66]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register fa64a96664664552ac098dc6035bf7ba]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=6
+FirstPage=1
+PageOrder=1;2;6;5;4;3;
+WindowPosition=0;0;
+WindowGeometry=1366;713;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=true
+ShowZeroTotal=true
+SelectedAccount=Despesas
+OpenAccount1=2010Atv
+OpenAccount2=Despesas
+OpenAccount3=Receitas
+NumberOfOpenAccounts=3
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=FBMai18
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "FBMai18"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1293760800 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1262311200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("57e4033421a288e1ba83481ac32f20f8" "a56e4f6fedb93a6d8be522f31f652145" "a53d3c89a91acae04183bab75f46c13f" "30a445237f0278200f4a35da18a33f8f" "f34c09b5c38b987640a827e8d4232290" "29689a4499dfd7fa4cc1bea565c683ef" "708edd6bbc18e2acecc5b335b9470a9c" "833527e56414e3dfa716d219064f8ec3" "3028392012bbc0d04c221a1ff4fd66d6" "6f442f442c62446e7f695192df4f8938" "7a4c4acf9a2149b4f3ea24d054f650ed" "5dfc24a6a072792b5a4d1a6afcffadd9" "45b4f65f62707b7b6e2a6c20856f8fb8" "64e101d0794c372603fc5694eb620498" "53e13067988b1a3a5fe27783853354f5" "934b8dc4ab6b3cf0ed8915fc543d27eb" "a0d7bec3dc29f820327883ca67777b4c" "6eae6e0985ff747eb132f69069c43b34" "17944d4722d87dc53ded4e1c6645c247" "6e0f8994cb6a13c9c14e1725946877dd" "7b4c4ddbf5d901e24aa84a091f582f3e" "f06d4ec15af690795c7fdccc21731b71" "fa64a96664664552ac098dc6035bf7ba" "9c02291fec3cdc9322b2d6b5ec5c0c66" "49b4a55ac65d2c1cfe73a0a4a2bb095f" "ea147cf83eb586823782b4e4ba7f4b0c" "2294dc2734b1ae766660620f859d35af" "10b50f482cd143c35ca5908f479cc995" "90272af89c1201c24714e75902415887" "7042876972ee96de74caf2af214725d2" "df4dc95281e8d3f84df7999da16bad38" "8b90a4c4d428a5fbf84fe692ab9c4a78" "79bea32989eb950add6c499b394e3e05" "9c90d6a830d31b3cf33954f403745754" "673f81ce0e83000a9c773dc4821e81de" "f9eb41969d6fe0cb150967843c06c76a" "dfe5c486211ba8e77b4fa3ce7e92817c" "02a53f1c3e3fa130cd86d7d1c1a612f2" "4a15d1640c2c807bbe60ecaa984206ea" "7b90f18a955501a1f14bf1bf15f58665" "c02df7b73dab26c5516324bbcd83f1ec" "d7fe079d4e96ddd408f4157cdc635503" "0d09ffd215d51bdc6e7b063e6c35afec" "8e6923113fe119d9dfe40339c6210a3b" "df698a1a47511b40e0624578239c74e5" "3edb009f8aa3cc2e9d044357eaeb6927" "c98459fe8022bf68db44eedb653cdd52" "33cf8500a497a9d806cc8ed738397357" "82937479e54d7a99e320a721e2d4f93b" "42cb3bf797f90d74fa9d6233e9150e07" "dcd63a085f577bbd14af55dee00d602a" "275fe708af441f7a5214ebcad2cd121c" "214eb924518c2a0f951cbceedee61424" "839b0e453bdd24f15e4b64328b185bad" "b01433d9e809cd1559aad12f2f08a9a6" "8bc09c63b8363a56b95692b298bedc40" "e3ca5fa8885176c525e939db894f0d95" "7404c0338bc0b97786488119f56f7231" "f09c974000dcf008da5eac7bd8ed3601" "4f1f440acfdea76da6fe0dd522dce57b" "6706cbe729fda821c0c9a585c19fb992" "26c8b35a0760b22bc37dc6d0d58809b9" "12552673f48e34142c94ed533a3b0521" "1658104b182694e7fdf5830d6cc94ea9" "e8222175892974f0ba00bde26d2f03d8" "c18609f932ded3f04c93bf294611ffce" "98a55d4e052e2949fd5873111f7ff593" "7081bfa69b3e54d1c6b624e79113c0bd" "978fbf8f24cb29d2b1823946f6871d1a" "ecba05cd1d2ef2fd900a4b90f0098f3f" "0e1c66813b4498393dac88937a0f8605" "78cf3c8e281981378d0908dc5c5b45bd" "c797c298ab4fa56396edb1079b401d66" "c2c721c05f1d3926e01411dc31d9044d" "1a887e6be8314cbc86209c0c465a1703" "5af1f660b2e46f610b8eaa9b96ef5b84" "e468b6969f3287d8982316dfec4fb375" "8d4badbcae694a31586f95c614df2b2a" "97f2929e5a1fbf81d6675be295839a9c" "0d56b0bbcafc563674924a3a8c3078e7" "f2dc19f868cdd29cd5f7335c27cf2be9" "fc266cd7ad2a723ee39c6925e9c103b6" "9c30b4bb84f3a33376723b38a03baed7" "27fab60b093617bba34cfa19956711eb" "3df6de4c3fce6512f88db1cf8021bc41" "ef47909d47ee29409b9144e2a93c609e" "657ac3d53ebb19d4c52222e1a0a2a8ed" "4df1fda5bc0b370855c723801a491aeb" "b45c9ebe86c0c4d6d102b191583e176b" "204b18c809dd8ba2320508ab1ee35cd4" "270501a8ba5ce7452575ae989a91c4b3" "395ccccc09e232863a520a6610bc313c" "6af47e73a4b43a8c6f78fe19d1b35217" "4bbe36a1bef4402fcabe674414019a7d" "2f9905df0a07231e6a64d87a79b1188f" "d14d5af0d683da58aa30da1ec5d56b70" "2d0a969ef2bb12605eb2d32be63bc3a9" "4fe9e5c142d3e4195efe9d67dca3b4ee" "e02d4e8a6c0fac5c871db7f2eb64ea6a" "267586d454bfc2ca72471fb590054c2e" "17081e7162193915a1a81cc54fcf1188" "a4f0d9613f16f5f140510dbb646bb724" "dbf4202bfcb1e13a35bfb91255d1338f" "b2c541aee5ac19d31ac4d0e96862e29e" "9ed9b08806b3a25e600d4611c332d87f" "503de6aac8c21c62e3d427d058ddd098" "21afeb114761e57eb409e0fcf4ccf59d" "d46a28cf75ef7e4f0fca6cb6f892bd98" "c05c5d67a33e6ad48ae5382d9111d12b" "79e3d087735a3c3dc20e677961015a39" "0e2c1bfea19f2d006bd355b2f4dcae8a" "31cd6d44287a9d4f7120ea5673a20065" "8efc1532d295f285ccd3116d1f854f25" "1dd6352e2d02fe8caf9580b7377ed7e4" "a8d6e5bdfe07af08e7fec65a02fcacef" "e8f125bc2d3c8fa63ac320f0016c6dd9" "41923227f4edd6fde5c140bbb4f7eeef" "81743d02e9b91794eac77a8c3c57b6a8" "15bea89d32e1f77fe0ce60a03a7f340a" "e67c44783bd59ccba1f10f44437cafdf" "1d7ea75d43a3c46f30576d11804a48d4" "64d10c8a8661ff710dd476a354386636" "1de2702beff5166dc417a592aa2d994a" "657283a8fdb5f42cff4ba404822bce44" "c87b35670b36758cddbbe3c46f8c84b7" "bbc162f6fcb27ab76b14870f8ccc7992" "f93b9cf8ed369472828a54d0ccf6b931" "b2177dffb942c22577c4377d3f7ccf18" "a4b6bcd7eb9bc38b725d25c77818f74c" "b2afaae37f7e2136868736e05dec2db4" "c23274aebde2519583bf68504ac2c1c6" "b36881b52ff35c75f24f4037436cd7f7" "2b5a9300e46362359e78944896fb131f" "c8e8f2bb14d0467d34fb39bc540041d0" "4073a878e28722c150688e90a204aa5e" "18152cb05dfbb8b570bc1c6d5a5529f2" "72306ddcdce849e3036978b653b1f08b" "ea6d01c1915cf1a75269fbae104e75fa" "201b5e47751a2f42e269d71c56e87f12" "280e789c80c63b0bc0910dd3d5652625" "1738559b682723978954c25c3e5f1923" "ad1bc19260b7949fcbf9480512ec6713" "a195aa812f6983992f21c30871383b1f" "e469ebb820925060a419efc92507957c" "7f52997a1c4af6a57e5350b3cf3bff29" "c080901c03ba20beaea1b4e2ddd83084" "33bccad6ea4a6d67cde3ff70ecf6187c" "514abf23c4433764226a03f33203a787" "e17999610100bd743de35f33bc54b528" "61773f4ea14b9be77fffd3c399aeb6a6" "99a55d5fe500d64dd72b9966a3f7aa20" "b796b188e56b6b06775b1b35f1f4ad36" "95bf2c6e4cf31bda7c454b492b73196a" "015f0d3538b5ebecc48f879bca6170e4" "bea0519add68031c202c855e958595cd" "5489f9e0acbd34f6735d76f09ce78ea8" "e207f5a4124c706738f9a680791bf896" "708de3719eec141475686c50a0f92a87" "a0e3aafd7f2406f449c6298540d24ffc" "e7eaf881ebe2ad5068e15ba373be989d" "3057a002742585eff67859da9c625223" "8c62bbd2c59180907144d8cd1923198e" "6fc8033e17307f49cb801e523be04d33" "25fc1a6a8a7573a0077796f1bd3f4e41" "f65076e1b814933aa18cd5d4b1727efb")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Always show sub-accounts")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Include Trading Accounts in report")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 0 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "71f299e589d02cf6a674e4fbd6d60de0" options)   (gnc:restore-report-by-guid 0 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 3]
+PageType=GncPluginPageRegister
+PageName=Desequilíbrio-BRL
+RegisterType=Account
+AccountName=Desequilíbrio-BRL
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 4]
+PageType=GncPluginPageRegister
+PageName=Desequilíbrio-USD
+RegisterType=Account
+AccountName=Desequilíbrio-USD
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 5]
+PageType=GncPluginPageRegister
+PageName=USD
+RegisterType=Account
+AccountName=Comércio:CURRENCY:USD
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 6]
+PageType=GncPluginPageRegister
+PageName=2010US$
+RegisterType=Account
+AccountName=2010Atv:2010US$
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=true
+
+[Register 49b4a55ac65d2c1cfe73a0a4a2bb095f]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register ea147cf83eb586823782b4e4ba7f4b0c]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7c935a8eacae825fdf48fae4c09ffbb4]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79

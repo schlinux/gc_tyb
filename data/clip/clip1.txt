@@ -1,0 +1,72 @@
+Em 29Abr25: 2503211802b_DAS_mar25_recibo.pdf.
+Em 29Abr25: 2504290915a_DAS_abr25.pdf.
+Em 29Abr25: 2504291004a_mai25-cmsp.pdf.
+2503310836a_047-boleto_recibo.pdf
+2504291909a_pix_asaas_bradmas.pdf
+2504300445a_credicard.pdf
+2505010434a_jardim_cecilia_mai25.pdf
+2504271246a_pix_ag_honorarios_adv_wellington_3_5parcelas.pdf
+2504271309a_mensalidade_ferracioli_mai25.pdf
+2505050444a_credicard.pdf
+2505050445a_credicard.pdf
+2505050514a_Fatura_Mastercard_05-2025.pdf
+2505040702a_pix_doacao_n_sra_ipiranga.pdf
+2505060541a_fatura_claro_net_mai25.pdf
+2505080431a_pix_bradcls_nubank.pdf
+2505101530a_pix_doacao_n_sra_ipiranga.pdf
+Honorarios Wellington -3P - fechado- pg - 2505200601a_pix_ag_honorarios_adv_wellington_4_5parcelas.pdf
+2505200627a_mensalidade_ferracioli_jun25.pdf
+2505011103a_048-boleto_recibo.pdf
+2505230634a_assungui575_jun25.pdf
+2505280612a_contracheque_mai25.pdf
+2505270544a_DAS_mai25.pdf
+2505270612a_23_parcela_judas.pdf
+2505270640a_DAS_mai25.pdf
+2405280934a_boleto_inscricao_enem2025.pdf
+Amortizacao 1 - -BradCLS -   Itaucard Jun25 - FECHADO - PG - 2505300842a_itaucard.pdf
+2506010419a_jun25-cmsp.pdf
+2506020828a_taxa_entrada_lalamove.pdf
+2506030506a_jardim_cecilia_jun25.pdf
+2506040545a_credicard.pdf
+2506040612a_Fatura_Mastercard_06-2025.pdf
+2506040710a_ficha_resultado_psicotecnico_exercer_atividade_remunerada.pdf
+2506170610a_fatura_claro_net_jun25.pdf
+2506210759a_DAS_jun25.pdf
+2506210833a_agendamento_mensalidade_ferracioli_jul25.pdf
+2506210843a_assungui575_jul25.pdf
+2506210903a.pdf
+2506210920a_pix_ag_honorarios_adv_wellington_5_5parcelas.pdf
+2506231605a_contracheque_jun25.pdf
+2505270612a_23_parcela_judas.pdf
+2506260607a_24_parcela_judas.pdf
+34191.75595 78093.602528 50451.630003 5 00000000000000
+2506291641a_049-boleto_recibo.pdf
+2506291654a_pix_asaas_bradmas.pdf
+2506291703a_pix_nsraipiranga.jpg
+2506291713a_pix_bradmas_nubank.pdf
+2506291717a_itaucard.pdf
+2506301048a_pix_bradcls_kilma.pdf
+2507040543a_Fatura_Mastercard_07-2025.pdf
+2507151936a_pix_quitacao_claro_netcombo.pdf
+2507241101a_recibo_parcela_1a_3_venda_notebook_sabrina.pdf
+2507251652a_contracheque_jul25.pdf
+2507251736a_assungui575_ago25
+sudo zfs destroy -R -f schpool-te5@SNAP_ONLINE_BACKUP_HOME_WORK_TGR  2>&1
+2507011039a_jardim_cecilia_jul25.pdf
+2507311027a_jardim_cecilia_ago25.pdf
+2507310735a_itaucard.pdf
+ 2507311153a_mensalidade_ferracioli_ago25.pdf
+2507310737a_ago25-cmsp.pdf
+2507251000a_DAS_jul25.pdf
+2508021744a_itaucard.pdf
+2507281730a_boleto_kilma_1_recibo.pdf
+2508050831a_Fatura_Mastercard_08-2025.pdf
+2508050823a_itaucard.pdf
+2508050820a_itaucard.pdf
+2508051241a_recibo_parcela_1b_3_venda_notebook_sabrina.pdf
+2508081721a_pix_asaas_bradmas.pdf
+2506291757a_050-boleto_recibo.pdf
+2508191853a_pix_quitacao_claro_netcombo.pdf
+2508211551a_DAS_ago25.pdf
+2508260625a_contracheque_ago25.pdf
+

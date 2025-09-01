@@ -1,0 +1,1222 @@
+[Top]
+BookGuid=3b3ff2fccc430c5edec22da2f80cf565
+WindowCount=1
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=true
+balance_visible=false
+balance_width=0
+balance_report_visible=true
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=true
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=true
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=true
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=true
+name_width=395
+description_width=273
+
+[Register 140c270674720194fdeb368929a2c654]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register cc0affd45872a0d69a74933766404b32]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2fd9fc1a8d576e1521311a5faa1c5be6]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 23f7d1a53fe0133b75a3c438c70eaad0]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 4ec93f886212e0353f63722c36402d1a]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register efdbdee312f96f9f7be31384f7a064fc]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 55bddbbd809fd0d5cf64c2e249d02001]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 00000000000000000000000000000000]
+date_width=92
+reconcile_width=17
+transfer_width=200
+trans-num_width=50
+debit_width=88
+credit_width=88
+reg-run-balance_width=88
+
+[Register d3049f6af8dbb6188d0640501b773931]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[dialogs/import/generic_matcher/account_matcher]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;online_id;
+type_visible=true
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=false
+description_width=0
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=false
+total_width=0
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=false
+online_id_visible=true
+name_width=300
+
+[Register 7c88d79663254fd56d4de79c48fef996]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 68a3d298354a57b59d78f253f4caf14e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b094219948e684c1c6a617f52a93dbe1]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7e07147b897262046086e7e2c27ab203]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 4aabc00dc884eb14a6d5e4ae736caa83]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2d1f8ffee0472691098c37ba437b793d]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 572a7a581d1e56fa1a0adc70e4d56b9e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c66e4a9062f3a0de3eab9859d64c43e1]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8e4ca59e22bd22f022adec72760c9b64]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b9815bd719e9624e3a7552df25d82b2c]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 558de230e312c622697189d1e679ea4e]
+date_width=92
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+num_width=45
+balance_width=79
+
+[Register 04b48f599d4355f7acdea9a492a69c18]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register dabb29db7892e350c654a7d52670b24b]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register f8b3c9d13d38e1188349524a7b6a320e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 16d1411501327a5a983367ee45b85817]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register e3028ca29f138282745df7ae5bc5bcb3]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 5aff57eab3c75d5f8e1cdf30ae5f10e4]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2867d787f814c9ba61be31c807ca2731]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8bc4ee61155c14c9c133d5a3bf7b4458]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register a0480fcb0900b73b41921394895d5065]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 88b3ef532325589f10a2c72b3743ecb3]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 06b0d107dbf8d6d47675c801e1f03579]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c1c2d128bb1f519fbdf3b6082a7db854]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register fffcbbaa9f73f38e9ea07527a98f9781]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 6e34dc055b4af422b35f2ea19028d63a]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register aee7817eaeb5e7ac8185b7ff1e12a1af]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 479f3cbb87f78f03cb6b414b827c4929]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register de7ac0478acce0234d5b19cb1ebf73f8]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2ba7c75e9a5dd72743ea93c663aa4b35]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register aaa8f45fc3085d5cb9ccbbf313afacda]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 0b393b4bfd44baec13874052e9db998d]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 62ce7f52f65c4305f6178dd340be1264]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 64a02c3c6fb22c7301a2a589c332bb01]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b9573b233d546a16ee39012e216ca18c]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 73e6a00c1bcbfd81fa36ce7a8eb3c6b9]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c4e00c36a5b12d5780332818cd0857b5]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 18039ef68e5b1415fb45660a1f963dea]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7e62aec0559387fe9b64a468b5378927]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register e58d7925e0aa243edf0d41cc48e85d72]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 3f7ef34f87bb10090d8efea00efe6f41]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c8224cc9fd1235cf688b4b315b4fa5bb]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register e2a904499db5885bef7a3fd93ab083cb]
+date_width=92
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+trans-num_width=45
+reg-run-balance_width=79
+
+[Register 32f90b04cc3408d1fd87908827998651]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 04f2e7f655cf01b5d1653e3d297aaeba]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 68063cf4a34e40cfb631555fa7795573]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c105859b56f66f426e7de7475638fa8a]
+date_width=92
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+num_width=45
+balance_width=79
+
+[Register 59deff021fa9ae71e32a824c12d397ef]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 35b67369faad041113de39d0485707a7]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register f8e3f19ebf839ea885036d768c504b56]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 4ca72a2c6c95b360efb4955c11619540]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8a688b0eac1b518233c9feb9f1399057]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 19d77a1c5f24b4bb230206e29ee590ae]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7f8b199f37a0804c8972f90e5482b567]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 42622012e8300affe54e52b71b2e36a1]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register fdfb1a869746e98341dad527dd92e1b0]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 10b1ae01760299fcd3a9d1518538e1a8]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 10e80b3aaf0626049d3c52b7bfc4279f]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 5cb6b6b9892ea5998957deaedf433378]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 3e77873c15df0d3c1ed4ca1ddfb21646]
+date_width=92
+trans-num_width=45
+reconcile_width=17
+transfer_width=200
+debit_width=79
+credit_width=79
+reg-run-balance_width=79
+
+[Register 452a7b75a01f985ec9987e097049c70b]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 33ecfff59c5fb60b5bd62329c99317c3]
+date_width=92
+num_width=86
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b96dca49f2794eda7339d4e29ad7324a]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register a7343b0d3fe87fe9945509d6d541ab37]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register f73efd3a840b6adb626f3cd64ffb1e6d]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register cc6762516b2f3c3a069f07e4d11ce438]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 69fd5ee8f20a1ec7cc3ef1f41580d2da]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 533d31e1779da7b6cca4894c252f73f9]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 1c49393b34fe1fb09ec777914b4fc7a9]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register dd5d24234214e8a8ba8f223f5038596e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 22ba314f213d436a1c153cd4e08bfb62]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8cb3d65d17aa2149557ffb5117f89465]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 5bd0e54c05edcec3f9bb40cdc4411f35]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 83eb79425bd308c19c2f43b9a969a795]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 9f669850bb1a489478e41013247f7d41]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8e36d5af1c82081dd6a316a7862d5b99]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7e7f035a88b55b3f7af595778796b996]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register ef89302bfb2c92d72c246d8ec6e711e6]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register fb91e18bd623099b6e36f708bf391560]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 1715ad755dd3aa61814450aa89a439b9]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register e92df249a09472bef44404b81bef554c]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 1f689542644e5dda1a09395e83277fa5]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 698af5233b699a2a54596c7d2f3fa1a1]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register fedd969e9af8712bf5d7defd2b93e80b]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register d0e42e62a854bec737cc1331621094cf]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register f30bbc01ee973828a831db75bf89e513]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register e65625110237e75ef5b2a7f43fd510a8]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 3810b9f5da4f165062831a5188dc0cd1]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register b950a487c2f8b68293a1cd6eec3fa1d0]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[SX Transaction List]
+column_order=name;enabled;frequency;last-occur;next-occur;
+name_width=403
+enabled_visible=true
+frequency_visible=true
+last-occur_visible=true
+next-occur_visible=true
+sort_order=descending
+
+[Register d4ecc6b55a8f25c78c45c7e29531686f]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 3cee8de78d8cc38a1cea84898e4e0d9b]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 434d6433084b01c09898bc046b30b284]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 59166254dbf728e97c19b67b3732564e]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 6ed0565d2e99932b12f4ee77f3ae8a80]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register a7f2526efe74b7622638f29efa3d7d19]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register a177eb30ab0376a2e1c7bf13a7e63a30]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register a318ecfd0074d4a2ff1f679ceca18ead]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 443542ed955e19465dbcfca1352d025e]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register 71b55faa19767a9551cdefa99ad465c2]
+date_width=98
+num_width=50
+reconcile_width=18
+balance_width=90
+transfer_width=209
+debit_width=90
+credit_width=90
+
+[Register a5ca28ba6d1cb2588c099eb31ca65beb]
+date_width=101
+num_width=50
+reconcile_width=18
+balance_width=88
+transfer_width=213
+debit_width=88
+credit_width=88
+
+[Window 1]
+PageCount=18
+FirstPage=1
+PageOrder=18;1;9;16;15;12;8;17;11;10;6;14;13;7;5;4;3;2;
+WindowPosition=0;0;
+WindowGeometry=1366;713;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Ativos:ResCPrz:InvestMAS:2020InvestMAS:2020InvestMASAtvFat04
+OpenAccount1=Ativos
+OpenAccount2=Ativos:ResCPrz
+OpenAccount3=Ativos:ResCPrz:Cash
+OpenAccount4=Ativos:ResCPrz:Cash:ResRST1
+OpenAccount5=Ativos:ResCPrz:Cash:ResRST2
+OpenAccount6=Ativos:ResCPrz:IntMast
+OpenAccount7=Ativos:ResCPrz:InvestMAS
+OpenAccount8=Ativos:ResCPrz:InvestMAS:2020InvestMAS
+OpenAccount9=Ativos:ResEmgAtv
+OpenAccount10=Despesas
+NumberOfOpenAccounts=10
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=HRecRST101-18
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "HRecRST101-18"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546221600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1514772000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Show Accounts until level")))   ((lambda (option) (if option ((gnc:option-setter option) '3))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("10e80b3aaf0626049d3c52b7bfc4279f" "3e77873c15df0d3c1ed4ca1ddfb21646" "4ec93f886212e0353f63722c36402d1a" "5cb6b6b9892ea5998957deaedf433378" "187b56e308c863360e169de0a8f89d0b" "56cdc37371bd756809b536291aa849a2" "07e676030c89ad6c672da4d50e416568" "fa9b17c203a025dee3ca2f0fdd887d42" "687de18bb847aeab192953c0cc7cddc1" "a43bb86baf301057107c279765f43638" "90ee135c8be703003506050f0c03da2f" "fefd0c5055199a7a24821edfd0c6d4c3" "e8908110a39298f66d2f786aa61afd1e" "d2c1767cd7d4f03343d585b4e94a6800" "21284a9f8e1503afaa2d29da528d2d35" "a0e5c5f6d6b698fb222a426f08f5dcdc" "27da992523955e8cc7b0a548508604ce" "f177a1b19319ccbb1efbe1702b667eda" "88558af21f9efb9205478769684cfbcc" "ee893f8ac455210ab597ef49966748e4" "6c27eda5bee7b5ad6f395f38d53c0bb9" "3b6535e74df90776974ca4e95b9a24ff" "d191cf444091e2a81f746af0c398cbca" "f50be98fdc6ec6225b404a23afd632f1" "79a18cff3c565a1c448beb5f2900f8ba" "d8df31e722ffafb7c402f7c5487ea3dd" "b9937e77bbf52f23e15e58b68aac8b22" "0887e8752919b52de5a8827edc505739" "98393100737034ec0154c681b77b15ce" "1453fd14a8a45446d8c4638c05e2707d" "c025ba6db145699afbe9a5d6e75ab771" "12ada1c8e88f4bf5c24d8ba7ae7066d0" "75faefed9d7baae295b2ffe7753fbd23" "cffa4e95853591ec683c46f6d0b96135" "c11703ee170f26013cb8a49e1502e6b9" "acd96c6585cabab0dee4b2733d0ba704" "596448d3bd3ad6146388eb8a1ee73950" "560737160d89f97a5d4b06c61517781b" "7b145bf344abd81abdb885be1d89137d" "c45e18a3b2bcf631fc516733de424832" "de224aecdbbdac6677e62687e09ed95a" "d190cfdb687c2b75c92213b68a5e3f37" "7853c4c7504314071298c6b8411ca666" "3f5334cbaa0ddd139272bfb809a6221e" "62a8503822580e3c9dc6f10f0eb1beb7" "c79704b3cd9661dc679b1f32a2d27344" "a21c83cb4ce3ee217836909a54ad2c56" "462524e72980f2e0ea23bd5252c3d278" "7c06046bc1d490ed784869314a3b379d" "6e565799c9d72b11509c50519a87f6b2" "f8b39b239d222c633da0d0d39a60bf66" "11a1061f0b5c1bfe007db3e318bd0185" "9fd381277f67daab0d9e86e0ea271080" "02a831a030630083cbd146f085ec2d9c" "4032b6d5a8d72a668bba1a624d01efce" "ae19ff0b19499a0a52052085a403ee5e" "1f9abebe836881c899d431348e039903" "ed353039c5a6817113c3435374f546d7" "32ab890f3934ec3b622af8087ea1f8f2" "a62a46e35c8f04bf22a69c4694c4b83a" "1d63139de3d37bf1cb8025d4377bef9e" "6ac717e42700a8281ea53214f46f7a4a" "eecde21cd76221508f51cf284831a248" "063cebe9237225d4239747ef22465a38" "97ec7da0afcc471378d53c1d11017180" "67157cd0ff1c18e879fc511428ac5434" "36f8dd1dfb645c2b4fa1715b2afffc38" "7894e73fdf5489186f88d2e3ebc66ced" "a49f053d253c33941f243885f4aa3bac" "aaacd7ff9ee794ffd4a52a991515942d" "7bd9df23a76c7e6ca2f3020ed4b66158" "2f683b0c6d90dbd2959ab6707a1a125d" "aee35070448896f714d6841b284301bd" "54cc92d9b5282a0a67ae96004a020e96" "3447bd3a676d06a72cbe1013aa66ef4d" "68a3d298354a57b59d78f253f4caf14e" "c99b70a6149f4929e54579e3f6e53438" "50d6b7154d480982ca1e2138c8472bb7" "d04357ddba28fcbf1779671afbb77023" "e407ce00e803de42d0bba4f0fd5a6148" "dafbe742fe758cf4b0712a7037bea2cc" "19ccae46796193ad64c27580562f98a1" "6f6ed7427e5991ec8c3965220b7af27c" "16a614d6fb3a3f780cf771b688ca7a46" "96f5b127f4d04e4ef8a2a8ec030feffd" "30aa3fa5d6ec82d4e82265b550d1bcfb" "aa07e7db70671863628d4fccab5f0268" "5bd38c59f2e40815e180ecb10fb06033" "7189d38bce05cdb2801aecdeec842bb9" "2c769d6db7de15b2e728245a2ff8db5e" "63adf919bb36b12c84c80cb981dd6c83" "d803d12a125539f8b7f9ce5594fefae6" "90066b55045dcc7a855654d63a072af8" "33960703c1af8fd12cd0eccb46f6306f" "a850a97618d72c22c03341aeb703c8c3" "d43c53c1e0af1e07dd72ca97409527c6" "9e318e269439e554a7df1adbdf5c0d07" "22851d4003cb54253b94cfb584d68441" "c1932a41fe3a9f05c9c7af5319de66cc" "aaf6f87c945f04c748a4f19e81d17863" "31305677b4ebb31792d80d9a3bb412a1" "f83f7bd25375bfbafe11e012da9b6965" "6ddaba47572720ce5de5b8fd74f87d85" "d33759ff4cb7e1e0fc33c844e1d506ee" "4c59dd88f334540c0af6fa0d4c2b2974" "d5fcd017155c15631a24e92c32f3bca4" "3f5f280371ff013e1c63d89ece307416" "20aa0aa142d496f004b5fa7b5649f480" "b66a3144ba9dd599a2bfd646ff183457" "9fd0d4682cf8cc6d904029fd8bdee965" "f3d7e21b5ad10b74eb0836f475cdd595" "2df55ff1c76772cc608cedc5abff8414" "00a72e16fdf3ffd1c3344e7548bac7a0" "b4d8defa8216f9edf5672ba63cb0c44f" "ba0f6ac9c8e0a11c33627342df9497d2" "3bffdc8496792e37f7737af55523e776" "adf45e6b427ed16e3276b82b7eaf8189" "81dd74b6db222b2d19a3ae9d7b2292c1" "80e2c4151959de3984b0c8bce23f8cab" "fb86d22e871f4248596078f5ad6bd39a" "00ae3757b3845892e4079ab89fd9389b" "1316ad04a6e09cae4d1580220af961eb" "917b7865e597129ea90b5b87a063c2f3" "5bf3101eacd5f1a9c74acca18aca46ff" "4c97c0a6cea185da492f9964b968760d" "0d0417f1d2c9bfe1041a05e31ef7a9d2" "1f7ba448b1713f3b86cfd61410a92771" "8e7ab1d391af5d1d105c1c83d5256d98" "eeb3abbb2a1e2a0d443a988b18a466fe" "245c52d0233f917e6a04bf0979216525" "a077b5a9b4f12e0c7b671ef926fedb9b" "5efe7532405e0c36157453477ec9123b" "ebc5b80e661ddfc6be635d99b3c6a76a" "6cd4da280891fa299c40408e4763cff6" "30b9da5c0753410398403937d3213fc5" "d880c31c51a0aa1733f46681d33e31a5" "f13834a56eef73dd5e78f6b6954bf144" "1e63bcfcd6cf471e99aca5c891e317eb" "4954a4ae2cf602d02cb2fe0d5704f2d6" "4b433160204838bdd770b84eb665e3d9" "2464f768a42a6fe5185a4ca6d6741e6c" "8e33a9e12e1e849208da01d030b26ea4" "615a68d68f9f74501b96a967f98039b3" "225a2887ebf659b854866e66cd12f430" "60c9e3ab672da6ef6730b52523d9e7fd" "94dfd086e47b5546c5473c90abd5481f" "da04433d5202739b7c3f3c584a068d02" "77a14e54225a339fb85e69039489aedd" "49d55e2c92fa50ca5b06429aa87a600b" "1974830cf926a1421368e30c301392bb" "08e62152f52e9f033fc7fe6f524e9520" "a5b3d2efec90ecc0596f3add0d6a1a7d" "494df8f81f88665b9c35ab3b8be3b316" "59af9774b3ae1cdd4a2cea972819b62b" "bf3ecceb5e478cd5378463cbff8cbec7" "866fb4430b15b59f7a08db9ea9f5731d" "12701d890037d66a12cbc39de9fa854e" "1c815463f0b844bbec24db22955cd473" "cb1d8b23dc19fa7b290de53faf22f7a5" "07bee24e9aa6324703f461665f880170" "b2bf3a5ea99f188e854c92d52e07dfaa" "b40b6956fe74f8353dd4d56c687b2dfd" "5bd0e54c05edcec3f9bb40cdc4411f35" "a15e4a595351baed449c561ec4fa0f53" "ffd7935a0ba77e053a3ba1ef81ed8293" "e0b5e6f198560cd4ac3655ec191203aa" "832d664bbb562534b59ea21a19214f1d" "bf7d03482cdc9406134ad04da03a1cb4" "219af7924e1d3e98500dd5e9eb638e33" "99a964f9c7fb55dfeabf4fca7a8baba4" "4ec5f8aecd805ddfaef3190073ae4935" "10b1ae01760299fcd3a9d1518538e1a8")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 400.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 25 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" "4588f684899500db944c77f25a72e7dd" options)   (gnc:restore-report-by-guid 25 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" options)) )
+
+[Page 3]
+PageType=GncPluginPageReport
+PageName=HRecRST101-19
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "HRecRST101-19"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1564542000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546308000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Show Accounts until level")))   ((lambda (option) (if option ((gnc:option-setter option) '3))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("10e80b3aaf0626049d3c52b7bfc4279f" "3e77873c15df0d3c1ed4ca1ddfb21646" "4ec93f886212e0353f63722c36402d1a" "5cb6b6b9892ea5998957deaedf433378" "187b56e308c863360e169de0a8f89d0b" "56cdc37371bd756809b536291aa849a2" "07e676030c89ad6c672da4d50e416568" "fa9b17c203a025dee3ca2f0fdd887d42" "687de18bb847aeab192953c0cc7cddc1" "a43bb86baf301057107c279765f43638" "90ee135c8be703003506050f0c03da2f" "fefd0c5055199a7a24821edfd0c6d4c3" "e8908110a39298f66d2f786aa61afd1e" "d2c1767cd7d4f03343d585b4e94a6800" "21284a9f8e1503afaa2d29da528d2d35" "a0e5c5f6d6b698fb222a426f08f5dcdc" "27da992523955e8cc7b0a548508604ce" "f177a1b19319ccbb1efbe1702b667eda" "88558af21f9efb9205478769684cfbcc" "ee893f8ac455210ab597ef49966748e4" "6c27eda5bee7b5ad6f395f38d53c0bb9" "3b6535e74df90776974ca4e95b9a24ff" "d191cf444091e2a81f746af0c398cbca" "f50be98fdc6ec6225b404a23afd632f1" "79a18cff3c565a1c448beb5f2900f8ba" "d8df31e722ffafb7c402f7c5487ea3dd" "b9937e77bbf52f23e15e58b68aac8b22" "0887e8752919b52de5a8827edc505739" "98393100737034ec0154c681b77b15ce" "1453fd14a8a45446d8c4638c05e2707d" "c025ba6db145699afbe9a5d6e75ab771" "12ada1c8e88f4bf5c24d8ba7ae7066d0" "75faefed9d7baae295b2ffe7753fbd23" "cffa4e95853591ec683c46f6d0b96135" "c11703ee170f26013cb8a49e1502e6b9" "acd96c6585cabab0dee4b2733d0ba704" "596448d3bd3ad6146388eb8a1ee73950" "560737160d89f97a5d4b06c61517781b" "7b145bf344abd81abdb885be1d89137d" "c45e18a3b2bcf631fc516733de424832" "de224aecdbbdac6677e62687e09ed95a" "d190cfdb687c2b75c92213b68a5e3f37" "7853c4c7504314071298c6b8411ca666" "3f5334cbaa0ddd139272bfb809a6221e" "62a8503822580e3c9dc6f10f0eb1beb7" "c79704b3cd9661dc679b1f32a2d27344" "a21c83cb4ce3ee217836909a54ad2c56" "462524e72980f2e0ea23bd5252c3d278" "7c06046bc1d490ed784869314a3b379d" "6e565799c9d72b11509c50519a87f6b2" "f8b39b239d222c633da0d0d39a60bf66" "11a1061f0b5c1bfe007db3e318bd0185" "9fd381277f67daab0d9e86e0ea271080" "02a831a030630083cbd146f085ec2d9c" "4032b6d5a8d72a668bba1a624d01efce" "ae19ff0b19499a0a52052085a403ee5e" "1f9abebe836881c899d431348e039903" "ed353039c5a6817113c3435374f546d7" "32ab890f3934ec3b622af8087ea1f8f2" "a62a46e35c8f04bf22a69c4694c4b83a" "1d63139de3d37bf1cb8025d4377bef9e" "6ac717e42700a8281ea53214f46f7a4a" "eecde21cd76221508f51cf284831a248" "063cebe9237225d4239747ef22465a38" "97ec7da0afcc471378d53c1d11017180" "67157cd0ff1c18e879fc511428ac5434" "36f8dd1dfb645c2b4fa1715b2afffc38" "7894e73fdf5489186f88d2e3ebc66ced" "a49f053d253c33941f243885f4aa3bac" "aaacd7ff9ee794ffd4a52a991515942d" "7bd9df23a76c7e6ca2f3020ed4b66158" "2f683b0c6d90dbd2959ab6707a1a125d" "aee35070448896f714d6841b284301bd" "54cc92d9b5282a0a67ae96004a020e96" "3447bd3a676d06a72cbe1013aa66ef4d" "68a3d298354a57b59d78f253f4caf14e" "c99b70a6149f4929e54579e3f6e53438" "50d6b7154d480982ca1e2138c8472bb7" "d04357ddba28fcbf1779671afbb77023" "e407ce00e803de42d0bba4f0fd5a6148" "dafbe742fe758cf4b0712a7037bea2cc" "19ccae46796193ad64c27580562f98a1" "6f6ed7427e5991ec8c3965220b7af27c" "16a614d6fb3a3f780cf771b688ca7a46" "96f5b127f4d04e4ef8a2a8ec030feffd" "30aa3fa5d6ec82d4e82265b550d1bcfb" "aa07e7db70671863628d4fccab5f0268" "5bd38c59f2e40815e180ecb10fb06033" "7189d38bce05cdb2801aecdeec842bb9" "2c769d6db7de15b2e728245a2ff8db5e" "63adf919bb36b12c84c80cb981dd6c83" "d803d12a125539f8b7f9ce5594fefae6" "90066b55045dcc7a855654d63a072af8" "33960703c1af8fd12cd0eccb46f6306f" "a850a97618d72c22c03341aeb703c8c3" "d43c53c1e0af1e07dd72ca97409527c6" "9e318e269439e554a7df1adbdf5c0d07" "22851d4003cb54253b94cfb584d68441" "c1932a41fe3a9f05c9c7af5319de66cc" "aaf6f87c945f04c748a4f19e81d17863" "31305677b4ebb31792d80d9a3bb412a1" "f83f7bd25375bfbafe11e012da9b6965" "6ddaba47572720ce5de5b8fd74f87d85" "d33759ff4cb7e1e0fc33c844e1d506ee" "4c59dd88f334540c0af6fa0d4c2b2974" "d5fcd017155c15631a24e92c32f3bca4" "3f5f280371ff013e1c63d89ece307416" "20aa0aa142d496f004b5fa7b5649f480" "b66a3144ba9dd599a2bfd646ff183457" "9fd0d4682cf8cc6d904029fd8bdee965" "f3d7e21b5ad10b74eb0836f475cdd595" "2df55ff1c76772cc608cedc5abff8414" "00a72e16fdf3ffd1c3344e7548bac7a0" "b4d8defa8216f9edf5672ba63cb0c44f" "ba0f6ac9c8e0a11c33627342df9497d2" "3bffdc8496792e37f7737af55523e776" "adf45e6b427ed16e3276b82b7eaf8189" "81dd74b6db222b2d19a3ae9d7b2292c1" "80e2c4151959de3984b0c8bce23f8cab" "fb86d22e871f4248596078f5ad6bd39a" "00ae3757b3845892e4079ab89fd9389b" "1316ad04a6e09cae4d1580220af961eb" "917b7865e597129ea90b5b87a063c2f3" "5bf3101eacd5f1a9c74acca18aca46ff" "4c97c0a6cea185da492f9964b968760d" "0d0417f1d2c9bfe1041a05e31ef7a9d2" "1f7ba448b1713f3b86cfd61410a92771" "8e7ab1d391af5d1d105c1c83d5256d98" "eeb3abbb2a1e2a0d443a988b18a466fe" "245c52d0233f917e6a04bf0979216525" "a077b5a9b4f12e0c7b671ef926fedb9b" "5efe7532405e0c36157453477ec9123b" "ebc5b80e661ddfc6be635d99b3c6a76a" "6cd4da280891fa299c40408e4763cff6" "30b9da5c0753410398403937d3213fc5" "d880c31c51a0aa1733f46681d33e31a5" "f13834a56eef73dd5e78f6b6954bf144" "1e63bcfcd6cf471e99aca5c891e317eb" "4954a4ae2cf602d02cb2fe0d5704f2d6" "4b433160204838bdd770b84eb665e3d9" "2464f768a42a6fe5185a4ca6d6741e6c" "8e33a9e12e1e849208da01d030b26ea4" "615a68d68f9f74501b96a967f98039b3" "225a2887ebf659b854866e66cd12f430" "60c9e3ab672da6ef6730b52523d9e7fd" "94dfd086e47b5546c5473c90abd5481f" "da04433d5202739b7c3f3c584a068d02" "77a14e54225a339fb85e69039489aedd" "49d55e2c92fa50ca5b06429aa87a600b" "1974830cf926a1421368e30c301392bb" "08e62152f52e9f033fc7fe6f524e9520" "a5b3d2efec90ecc0596f3add0d6a1a7d" "494df8f81f88665b9c35ab3b8be3b316" "59af9774b3ae1cdd4a2cea972819b62b" "bf3ecceb5e478cd5378463cbff8cbec7" "866fb4430b15b59f7a08db9ea9f5731d" "12701d890037d66a12cbc39de9fa854e" "1c815463f0b844bbec24db22955cd473" "cb1d8b23dc19fa7b290de53faf22f7a5" "07bee24e9aa6324703f461665f880170" "b2bf3a5ea99f188e854c92d52e07dfaa" "b40b6956fe74f8353dd4d56c687b2dfd" "5bd0e54c05edcec3f9bb40cdc4411f35" "a15e4a595351baed449c561ec4fa0f53" "ffd7935a0ba77e053a3ba1ef81ed8293" "e0b5e6f198560cd4ac3655ec191203aa" "832d664bbb562534b59ea21a19214f1d" "bf7d03482cdc9406134ad04da03a1cb4" "219af7924e1d3e98500dd5e9eb638e33" "99a964f9c7fb55dfeabf4fca7a8baba4" "4ec5f8aecd805ddfaef3190073ae4935" "10b1ae01760299fcd3a9d1518538e1a8" "22ba314f213d436a1c153cd4e08bfb62")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 400.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 66 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" "4588f684899500db944c77f25a72e7dd" options)   (gnc:restore-report-by-guid 66 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" options)) )
+
+[Page 4]
+PageType=GncPluginPageReport
+PageName=DespRST101-18
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "DespRST101-18"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546221600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1514772000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Show Accounts until level")))   ((lambda (option) (if option ((gnc:option-setter option) '3))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("e58d7925e0aa243edf0d41cc48e85d72" "8a688b0eac1b518233c9feb9f1399057" "35b67369faad041113de39d0485707a7" "c8224cc9fd1235cf688b4b315b4fa5bb" "b3a06adf6e0a95f43a2909561ea1663b" "2d1f8ffee0472691098c37ba437b793d" "19d77a1c5f24b4bb230206e29ee590ae" "55bddbbd809fd0d5cf64c2e249d02001" "2fd9fc1a8d576e1521311a5faa1c5be6" "572a7a581d1e56fa1a0adc70e4d56b9e" "3f7ef34f87bb10090d8efea00efe6f41" "479f3cbb87f78f03cb6b414b827c4929" "4ca72a2c6c95b360efb4955c11619540" "fffcbbaa9f73f38e9ea07527a98f9781" "140c270674720194fdeb368929a2c654" "27940a5eaae4bc51fda6eb44378f684b" "68063cf4a34e40cfb631555fa7795573" "a5f6ec85c6da04d1a5efe74f223c0f04" "e9248d5cb4aecc0b778e7823a6529401" "09552981182b59082e3ec97f729e5310" "c135b66526d769f03f93c1440bee3e96" "69fd5ee8f20a1ec7cc3ef1f41580d2da" "2b7d568d826dbf74a0a7292a751cb121" "6b62cbd4c39793e862dfbe17f7b075db" "911704b3382df277d714864466d4d8a2" "de4e4d15ea79dbb4e7522e70e93f0247" "ebf1540f965ca4622d1cb85069e61651" "53e0f0fa257cf0a7d7cfb7eadd563390" "fceeefa2c070626874a3ade77f31d47b" "9f669850bb1a489478e41013247f7d41" "4ddbcc330bb6a98c483c19cbecafa78f" "6e11754e8dac7d8d44a229bf8a914ecf" "4a9d58ce14394619073194c08f2a9e6a" "3f7d11c56337dda73817a255eb0bfa78" "f6204184403b360dfb7037ceb4f93737" "1ee69ee706ca49cae9e6ad7bedab6381" "607fba3e95e24e57f7463c8c4c33510f" "4c4ea6fd8b68fdad2765302a603bd66e" "adbb860c1808911147a2a1a177088804" "b725250ea5b45ca139347e347af283a4" "2d7ba1b568288318cbdb81ab3cf44b71" "c7189ffe18dc4432668759008bca5a92" "f5a23215a07e771b80ebcea8fa73ace5" "52d958d2fd3da495a36bd45d7b2567e3" "e3a7c7cc04dfc00993848b4bf705fe59" "3430129d35a106a8a5c15983754b9323" "df3fb9e57e85ce28012020eb319d0e00" "fab7550204eba7fe23a27886b74cae26" "9f289d615d884446895880970cb4189b" "98688891ea090efc47366556647e61a7" "4df955885ce52daf5e66ec5817db7e8a" "96b22ae528f7db909a6414e34e429b53" "b61a728ae3888cfbc6c3bca523e72151" "78aa589e5f63a37b60f8b673ad9db33d" "4eccedd865b39b0ae2a6a73b2a4f386d" "be9e3111f98e54c4908e7002943a45cd" "4993628708060ecb123821d49e502477" "1096abcf5bc0889ff5d3f8071dbe8326" "ba5a7db5d7a26a3a27cb560c19b855c4" "00b5204e79471109f5080e122064464a" "90eda1b6a4c4c70d6b948d49d9fac0a0" "bb339ea4b9aad72b70bef3451e601202" "ba42cd303c0fe6ec4f7eeddf222ab6e1" "c28191c78ee35e1a9ffbb768494c846f" "0af950981cec14ada16f12dbb41b4239" "458718eb7fbdc7c2a8fa21a0e28768d5" "ad05971eb39d0e2db9bff2cb0f86157c" "8e79061e933ee3de23e018b90df7d55d" "e7d82d72413674c31de20d1d9733bfc9" "f8020645bd0787a500de106c18d1b9ab" "9a6bbc6fd0218d6ee673565b6c9a4440" "af2c5c465369260eda47c5538c4e0625" "73541c88925eeb51cb061eaff3253535" "e88e0598f11116533fed189c224f116e" "e8c4467b0670deb0e44f20b6166325bf" "7cee54d3211c35d697d420bb040c713f" "7260ccc7fcdd1849ab85e48ceef33f36" "c12e72f8585866803c2c111fc1d317cd" "bcf9ee6d4c96966ca53923cd0505c6ea" "239ca8f1f702e31d11a61965f76c5672" "041b29d2323b56ebca0eb4130dc54f0a" "40a366181b227babd42b4b0ca400749d" "23c07af5e4936e40095e8a61bdd65fc3" "08e212e3e4dcf1f062e039b714597424" "c9e81be06f57a6417557bc467c5b855b" "71d85a5430483c6758aa2bddfc0aba15" "55b6145c084b6eeaedbc1db72878e409" "38720134c4f949707e037e7164e0d922" "c41f8d7b4aa27f2420885facaa085e22" "0b639f349e657c86be92424c0b1de4c8" "8ed96dde77813b541927a435f34cc499" "85ebab0b3f8c3cfef49c61453101896c" "f6a2d0e9d3fc183c3579dd4b5f1f0ce3" "5037a27c1bbc6ba85c1e7361e9438e91" "436e5f612ea55d59e6d181b9a49c5cb9" "98543fd71cf56f79e0fdd16b681f0350" "a0e450b19d5b0b52200edb613740fe61" "176dffbb3818b1cd99380781ad286228" "cc0affd45872a0d69a74933766404b32" "31b318acc4e37c3d736c9339ebeeaaf6" "b6ca2b1f8835ea39f37a87f424cd90ec" "16d1411501327a5a983367ee45b85817" "8dbd65eb43c2c05af654b00a10e81249" "80576d126a9da03f07a69ac89ee1efce" "90e0e9b97ef1345ed778ec716574a8e8" "e3140692f87f85fd2805f6f4b260d1db" "5124bb2feccd9689ca22608439f04fc1" "abf93784c013da9177bd2fcfc4873936" "2fc317981de4d55d4d8bba402e10510b" "550286595444cc708fd586abb514fa5e" "e69805f129321ef82ef569157a18662f" "6286143dabbed9f0669574ff01dca5dd" "94f883d3f1580b4afe7acdb607ffc456" "c80445f2dd46f29d416d015c72f05d63" "363d2d39eaba72e28ef5851921547a76" "28ded2e5b3f16ae44a52b149369f2961" "2fc0204e7e0b43152a0a28c13d9c89b8" "83eb79425bd308c19c2f43b9a969a795" "148e537b2944c62bb1475b25f4eeeb91" "e65625110237e75ef5b2a7f43fd510a8" "1c763fd509e78553421e1efe39490336" "23f7d1a53fe0133b75a3c438c70eaad0" "d60bae2815af8779aa314f18c5aa5252" "9ba612461b8f9e547f0abc4d686ced3f" "08ebe97c907cc990cd72243da8de86cf" "f8e3f19ebf839ea885036d768c504b56" "fc813c06dedc89dacc30d6b1bafbc0c8" "87d64836d794ec089a225743c4ea3963" "444b42e5ea3bc8b002dc8d1023f6738a" "9076cec378e6f1adc1a0e5768350b817" "c7f710f3ba9684e66a402015f2fdf63c")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 450.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Maximum Slices")))   ((lambda (option) (if option ((gnc:option-setter option) 11.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" "ccf56c6913d39bee9b2ad0de2004c771" options)   (gnc:restore-report-by-guid 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" options)) )
+
+[Page 5]
+PageType=GncPluginPageReport
+PageName=DespRST101-19
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "DespRST101-19"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1564542000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546308000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Show Accounts until level")))   ((lambda (option) (if option ((gnc:option-setter option) '3))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("e58d7925e0aa243edf0d41cc48e85d72" "8a688b0eac1b518233c9feb9f1399057" "35b67369faad041113de39d0485707a7" "c8224cc9fd1235cf688b4b315b4fa5bb" "b3a06adf6e0a95f43a2909561ea1663b" "2d1f8ffee0472691098c37ba437b793d" "19d77a1c5f24b4bb230206e29ee590ae" "55bddbbd809fd0d5cf64c2e249d02001" "2fd9fc1a8d576e1521311a5faa1c5be6" "572a7a581d1e56fa1a0adc70e4d56b9e" "3f7ef34f87bb10090d8efea00efe6f41" "479f3cbb87f78f03cb6b414b827c4929" "4ca72a2c6c95b360efb4955c11619540" "fffcbbaa9f73f38e9ea07527a98f9781" "140c270674720194fdeb368929a2c654" "27940a5eaae4bc51fda6eb44378f684b" "68063cf4a34e40cfb631555fa7795573" "a5f6ec85c6da04d1a5efe74f223c0f04" "e9248d5cb4aecc0b778e7823a6529401" "09552981182b59082e3ec97f729e5310" "c135b66526d769f03f93c1440bee3e96" "69fd5ee8f20a1ec7cc3ef1f41580d2da" "2b7d568d826dbf74a0a7292a751cb121" "6b62cbd4c39793e862dfbe17f7b075db" "911704b3382df277d714864466d4d8a2" "de4e4d15ea79dbb4e7522e70e93f0247" "ebf1540f965ca4622d1cb85069e61651" "53e0f0fa257cf0a7d7cfb7eadd563390" "fceeefa2c070626874a3ade77f31d47b" "9f669850bb1a489478e41013247f7d41" "4ddbcc330bb6a98c483c19cbecafa78f" "6e11754e8dac7d8d44a229bf8a914ecf" "4a9d58ce14394619073194c08f2a9e6a" "3f7d11c56337dda73817a255eb0bfa78" "f6204184403b360dfb7037ceb4f93737" "1ee69ee706ca49cae9e6ad7bedab6381" "607fba3e95e24e57f7463c8c4c33510f" "4c4ea6fd8b68fdad2765302a603bd66e" "adbb860c1808911147a2a1a177088804" "b725250ea5b45ca139347e347af283a4" "2d7ba1b568288318cbdb81ab3cf44b71" "c7189ffe18dc4432668759008bca5a92" "f5a23215a07e771b80ebcea8fa73ace5" "52d958d2fd3da495a36bd45d7b2567e3" "e3a7c7cc04dfc00993848b4bf705fe59" "3430129d35a106a8a5c15983754b9323" "df3fb9e57e85ce28012020eb319d0e00" "fab7550204eba7fe23a27886b74cae26" "9f289d615d884446895880970cb4189b" "98688891ea090efc47366556647e61a7" "4df955885ce52daf5e66ec5817db7e8a" "96b22ae528f7db909a6414e34e429b53" "b61a728ae3888cfbc6c3bca523e72151" "78aa589e5f63a37b60f8b673ad9db33d" "4eccedd865b39b0ae2a6a73b2a4f386d" "be9e3111f98e54c4908e7002943a45cd" "4993628708060ecb123821d49e502477" "1096abcf5bc0889ff5d3f8071dbe8326" "ba5a7db5d7a26a3a27cb560c19b855c4" "00b5204e79471109f5080e122064464a" "90eda1b6a4c4c70d6b948d49d9fac0a0" "bb339ea4b9aad72b70bef3451e601202" "ba42cd303c0fe6ec4f7eeddf222ab6e1" "c28191c78ee35e1a9ffbb768494c846f" "0af950981cec14ada16f12dbb41b4239" "458718eb7fbdc7c2a8fa21a0e28768d5" "ad05971eb39d0e2db9bff2cb0f86157c" "8e79061e933ee3de23e018b90df7d55d" "e7d82d72413674c31de20d1d9733bfc9" "f8020645bd0787a500de106c18d1b9ab" "9a6bbc6fd0218d6ee673565b6c9a4440" "af2c5c465369260eda47c5538c4e0625" "73541c88925eeb51cb061eaff3253535" "e88e0598f11116533fed189c224f116e" "e8c4467b0670deb0e44f20b6166325bf" "7cee54d3211c35d697d420bb040c713f" "7260ccc7fcdd1849ab85e48ceef33f36" "c12e72f8585866803c2c111fc1d317cd" "bcf9ee6d4c96966ca53923cd0505c6ea" "239ca8f1f702e31d11a61965f76c5672" "041b29d2323b56ebca0eb4130dc54f0a" "40a366181b227babd42b4b0ca400749d" "23c07af5e4936e40095e8a61bdd65fc3" "08e212e3e4dcf1f062e039b714597424" "c9e81be06f57a6417557bc467c5b855b" "71d85a5430483c6758aa2bddfc0aba15" "55b6145c084b6eeaedbc1db72878e409" "38720134c4f949707e037e7164e0d922" "c41f8d7b4aa27f2420885facaa085e22" "0b639f349e657c86be92424c0b1de4c8" "8ed96dde77813b541927a435f34cc499" "85ebab0b3f8c3cfef49c61453101896c" "f6a2d0e9d3fc183c3579dd4b5f1f0ce3" "5037a27c1bbc6ba85c1e7361e9438e91" "436e5f612ea55d59e6d181b9a49c5cb9" "98543fd71cf56f79e0fdd16b681f0350" "a0e450b19d5b0b52200edb613740fe61" "176dffbb3818b1cd99380781ad286228" "cc0affd45872a0d69a74933766404b32" "31b318acc4e37c3d736c9339ebeeaaf6" "b6ca2b1f8835ea39f37a87f424cd90ec" "16d1411501327a5a983367ee45b85817" "8dbd65eb43c2c05af654b00a10e81249" "80576d126a9da03f07a69ac89ee1efce" "90e0e9b97ef1345ed778ec716574a8e8" "e3140692f87f85fd2805f6f4b260d1db" "5124bb2feccd9689ca22608439f04fc1" "abf93784c013da9177bd2fcfc4873936" "2fc317981de4d55d4d8bba402e10510b" "550286595444cc708fd586abb514fa5e" "e69805f129321ef82ef569157a18662f" "6286143dabbed9f0669574ff01dca5dd" "94f883d3f1580b4afe7acdb607ffc456" "c80445f2dd46f29d416d015c72f05d63" "363d2d39eaba72e28ef5851921547a76" "28ded2e5b3f16ae44a52b149369f2961" "2fc0204e7e0b43152a0a28c13d9c89b8" "83eb79425bd308c19c2f43b9a969a795" "148e537b2944c62bb1475b25f4eeeb91" "e65625110237e75ef5b2a7f43fd510a8" "1c763fd509e78553421e1efe39490336" "23f7d1a53fe0133b75a3c438c70eaad0" "d60bae2815af8779aa314f18c5aa5252" "9ba612461b8f9e547f0abc4d686ced3f" "08ebe97c907cc990cd72243da8de86cf" "f8e3f19ebf839ea885036d768c504b56" "fc813c06dedc89dacc30d6b1bafbc0c8" "87d64836d794ec089a225743c4ea3963" "444b42e5ea3bc8b002dc8d1023f6738a" "9076cec378e6f1adc1a0e5768350b817" "c7f710f3ba9684e66a402015f2fdf63c")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 450.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Maximum Slices")))   ((lambda (option) (if option ((gnc:option-setter option) 11.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 69 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" "ccf56c6913d39bee9b2ad0de2004c771" options)   (gnc:restore-report-by-guid 69 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" options)) )
+
+[Page 6]
+PageType=GncPluginPageReport
+PageName=RST2018
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "RST2018"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1543543200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1541041200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "e2a904499db5885bef7a3fd93ab083cb" "62ce7f52f65c4305f6178dd340be1264" "04b48f599d4355f7acdea9a492a69c18" "efdbdee312f96f9f7be31384f7a064fc" "673005b8af50c532dd697cbf2795707a" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "558de230e312c622697189d1e679ea4e" "d7cc4951b3c0c5b934eda9fa13fd012a" "6e34dc055b4af422b35f2ea19028d63a" "aaa8f45fc3085d5cb9ccbbf313afacda" "8e4ca59e22bd22f022adec72760c9b64" "c5a90f265a5781d73c4639de668bada9" "de7ac0478acce0234d5b19cb1ebf73f8" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "2ba7c75e9a5dd72743ea93c663aa4b35" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "b9573b233d546a16ee39012e216ca18c" "8ab207f14ff57e0420eed34fe5dce95e" "54ce029d27dde236a3fa6f3db0fd3572" "d3049f6af8dbb6188d0640501b773931" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "d0e42e62a854bec737cc1331621094cf" "a0480fcb0900b73b41921394895d5065" "04f2e7f655cf01b5d1653e3d297aaeba" "32f90b04cc3408d1fd87908827998651" "cc6762516b2f3c3a069f07e4d11ce438" "f73efd3a840b6adb626f3cd64ffb1e6d" "bc417ceda1989f477542ce5e80a5f958" "8cb3d65d17aa2149557ffb5117f89465" "60a4ecd13f311cd26f101a1d4c87ba4c" "18039ef68e5b1415fb45660a1f963dea" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "159e5f9838d9c86e6b8aa83f6ebbee68" "7684a8f8ee1fd40a87396683c224fd42" "f78eca3c0c989044c6a00eee7323f936" "7e62aec0559387fe9b64a468b5378927" "9c50e42c583dba613ee4ed8809f740d9" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "cfb5bd73e1413ce37bd155f253e63ca7" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "345f2f8a02c3e4fcbd2ff811f73d4b28" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 35 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "3550fab71c148892feae8b1fc95797d7" options)   (gnc:restore-report-by-guid 35 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 7]
+PageType=GncPluginPageReport
+PageName=RST2019
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "RST2019"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1577761200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546308000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "e2a904499db5885bef7a3fd93ab083cb" "62ce7f52f65c4305f6178dd340be1264" "04b48f599d4355f7acdea9a492a69c18" "efdbdee312f96f9f7be31384f7a064fc" "673005b8af50c532dd697cbf2795707a" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "558de230e312c622697189d1e679ea4e" "d7cc4951b3c0c5b934eda9fa13fd012a" "6e34dc055b4af422b35f2ea19028d63a" "aaa8f45fc3085d5cb9ccbbf313afacda" "8e4ca59e22bd22f022adec72760c9b64" "c5a90f265a5781d73c4639de668bada9" "de7ac0478acce0234d5b19cb1ebf73f8" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "2ba7c75e9a5dd72743ea93c663aa4b35" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "b9573b233d546a16ee39012e216ca18c" "8ab207f14ff57e0420eed34fe5dce95e" "54ce029d27dde236a3fa6f3db0fd3572" "d3049f6af8dbb6188d0640501b773931" "f30bbc01ee973828a831db75bf89e513" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "d0e42e62a854bec737cc1331621094cf" "a0480fcb0900b73b41921394895d5065" "04f2e7f655cf01b5d1653e3d297aaeba" "32f90b04cc3408d1fd87908827998651" "cc6762516b2f3c3a069f07e4d11ce438" "f73efd3a840b6adb626f3cd64ffb1e6d" "dd5d24234214e8a8ba8f223f5038596e" "1c49393b34fe1fb09ec777914b4fc7a9" "8e36d5af1c82081dd6a316a7862d5b99" "7e7f035a88b55b3f7af595778796b996" "ef89302bfb2c92d72c246d8ec6e711e6" "fb91e18bd623099b6e36f708bf391560" "1715ad755dd3aa61814450aa89a439b9" "e378b71046f3ae7e7f5b7bfb3a0b81fb" "fedd969e9af8712bf5d7defd2b93e80b" "533d31e1779da7b6cca4894c252f73f9" "bc417ceda1989f477542ce5e80a5f958" "8cb3d65d17aa2149557ffb5117f89465" "60a4ecd13f311cd26f101a1d4c87ba4c" "18039ef68e5b1415fb45660a1f963dea" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "159e5f9838d9c86e6b8aa83f6ebbee68" "7684a8f8ee1fd40a87396683c224fd42" "f78eca3c0c989044c6a00eee7323f936" "7e62aec0559387fe9b64a468b5378927" "9c50e42c583dba613ee4ed8809f740d9" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "cfb5bd73e1413ce37bd155f253e63ca7" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "345f2f8a02c3e4fcbd2ff811f73d4b28" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 261 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "63eccd1a6c38ca6f63c741e829230fab" options)   (gnc:restore-report-by-guid 261 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 8]
+PageType=GncPluginPageReport
+PageName=RST2020P
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "RST2020P"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1585623600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1577847600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "e2a904499db5885bef7a3fd93ab083cb" "62ce7f52f65c4305f6178dd340be1264" "04b48f599d4355f7acdea9a492a69c18" "efdbdee312f96f9f7be31384f7a064fc" "673005b8af50c532dd697cbf2795707a" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "558de230e312c622697189d1e679ea4e" "d7cc4951b3c0c5b934eda9fa13fd012a" "6e34dc055b4af422b35f2ea19028d63a" "aaa8f45fc3085d5cb9ccbbf313afacda" "8e4ca59e22bd22f022adec72760c9b64" "c5a90f265a5781d73c4639de668bada9" "de7ac0478acce0234d5b19cb1ebf73f8" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "2ba7c75e9a5dd72743ea93c663aa4b35" "a177eb30ab0376a2e1c7bf13a7e63a30" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "b9573b233d546a16ee39012e216ca18c" "8ab207f14ff57e0420eed34fe5dce95e" "b950a487c2f8b68293a1cd6eec3fa1d0" "54ce029d27dde236a3fa6f3db0fd3572" "d3049f6af8dbb6188d0640501b773931" "d4ecc6b55a8f25c78c45c7e29531686f" "f30bbc01ee973828a831db75bf89e513" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "d0e42e62a854bec737cc1331621094cf" "a0480fcb0900b73b41921394895d5065" "04f2e7f655cf01b5d1653e3d297aaeba" "32f90b04cc3408d1fd87908827998651" "cc6762516b2f3c3a069f07e4d11ce438" "f73efd3a840b6adb626f3cd64ffb1e6d" "dd5d24234214e8a8ba8f223f5038596e" "1c49393b34fe1fb09ec777914b4fc7a9" "8e36d5af1c82081dd6a316a7862d5b99" "7e7f035a88b55b3f7af595778796b996" "ef89302bfb2c92d72c246d8ec6e711e6" "fb91e18bd623099b6e36f708bf391560" "1715ad755dd3aa61814450aa89a439b9" "e378b71046f3ae7e7f5b7bfb3a0b81fb" "fedd969e9af8712bf5d7defd2b93e80b" "3cee8de78d8cc38a1cea84898e4e0d9b" "434d6433084b01c09898bc046b30b284" "443542ed955e19465dbcfca1352d025e" "533d31e1779da7b6cca4894c252f73f9" "bc417ceda1989f477542ce5e80a5f958" "8cb3d65d17aa2149557ffb5117f89465" "60a4ecd13f311cd26f101a1d4c87ba4c" "18039ef68e5b1415fb45660a1f963dea" "6ed0565d2e99932b12f4ee77f3ae8a80" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "159e5f9838d9c86e6b8aa83f6ebbee68" "7684a8f8ee1fd40a87396683c224fd42" "f78eca3c0c989044c6a00eee7323f936" "7e62aec0559387fe9b64a468b5378927" "9c50e42c583dba613ee4ed8809f740d9" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "cfb5bd73e1413ce37bd155f253e63ca7" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "345f2f8a02c3e4fcbd2ff811f73d4b28" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 7 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "63eccd1a6c38ca6f63c741e829230fab" options)   (gnc:restore-report-by-guid 7 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 9]
+PageType=GncPluginPageReport
+PageName=RST2004
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "RST2004"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1588215600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1585710000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "e2a904499db5885bef7a3fd93ab083cb" "62ce7f52f65c4305f6178dd340be1264" "04b48f599d4355f7acdea9a492a69c18" "efdbdee312f96f9f7be31384f7a064fc" "673005b8af50c532dd697cbf2795707a" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "558de230e312c622697189d1e679ea4e" "d7cc4951b3c0c5b934eda9fa13fd012a" "6e34dc055b4af422b35f2ea19028d63a" "aaa8f45fc3085d5cb9ccbbf313afacda" "8e4ca59e22bd22f022adec72760c9b64" "c5a90f265a5781d73c4639de668bada9" "de7ac0478acce0234d5b19cb1ebf73f8" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "2ba7c75e9a5dd72743ea93c663aa4b35" "a177eb30ab0376a2e1c7bf13a7e63a30" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "b9573b233d546a16ee39012e216ca18c" "8ab207f14ff57e0420eed34fe5dce95e" "b950a487c2f8b68293a1cd6eec3fa1d0" "54ce029d27dde236a3fa6f3db0fd3572" "d3049f6af8dbb6188d0640501b773931" "d4ecc6b55a8f25c78c45c7e29531686f" "f30bbc01ee973828a831db75bf89e513" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "d0e42e62a854bec737cc1331621094cf" "a0480fcb0900b73b41921394895d5065" "04f2e7f655cf01b5d1653e3d297aaeba" "32f90b04cc3408d1fd87908827998651" "cc6762516b2f3c3a069f07e4d11ce438" "f73efd3a840b6adb626f3cd64ffb1e6d" "dd5d24234214e8a8ba8f223f5038596e" "1c49393b34fe1fb09ec777914b4fc7a9" "8e36d5af1c82081dd6a316a7862d5b99" "7e7f035a88b55b3f7af595778796b996" "ef89302bfb2c92d72c246d8ec6e711e6" "fb91e18bd623099b6e36f708bf391560" "1715ad755dd3aa61814450aa89a439b9" "e378b71046f3ae7e7f5b7bfb3a0b81fb" "fedd969e9af8712bf5d7defd2b93e80b" "3cee8de78d8cc38a1cea84898e4e0d9b" "434d6433084b01c09898bc046b30b284" "443542ed955e19465dbcfca1352d025e" "a5ca28ba6d1cb2588c099eb31ca65beb" "533d31e1779da7b6cca4894c252f73f9" "bc417ceda1989f477542ce5e80a5f958" "8cb3d65d17aa2149557ffb5117f89465" "60a4ecd13f311cd26f101a1d4c87ba4c" "18039ef68e5b1415fb45660a1f963dea" "6ed0565d2e99932b12f4ee77f3ae8a80" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "159e5f9838d9c86e6b8aa83f6ebbee68" "7684a8f8ee1fd40a87396683c224fd42" "f78eca3c0c989044c6a00eee7323f936" "7e62aec0559387fe9b64a468b5378927" "9c50e42c583dba613ee4ed8809f740d9" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "cfb5bd73e1413ce37bd155f253e63ca7" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "345f2f8a02c3e4fcbd2ff811f73d4b28" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 6 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "63eccd1a6c38ca6f63c741e829230fab" options)   (gnc:restore-report-by-guid 6 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 10]
+PageType=GncPluginPageRegister
+PageName=2020InvestMASFatsPass
+RegisterType=Account
+AccountName=Passivos:InvestMASPas:2020InvestMASFatsPass
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 11]
+PageType=GncPluginPageRegister
+PageName=2020IntMast
+RegisterType=Account
+AccountName=Ativos:ResCPrz:IntMast:2020IntMast
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 12]
+PageType=GncPluginPageRegister
+PageName=2020AcsMast
+RegisterType=Account
+AccountName=Ativos:ResCPrz:IntMast:2020AcsMast
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 13]
+PageType=GncPluginPageRegister
+PageName=2019InvestMASFatsPass
+RegisterType=Account
+AccountName=Passivos:InvestMASPas:2019InvestMASFatsPass
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 14]
+PageType=GncPluginPageRegister
+PageName=2019ResBR1
+RegisterType=Account
+AccountName=Ativos:ResCPrz:Cash:ResRST1:2019ResBR1
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 15]
+PageType=GncPluginPageRegister
+PageName=20ResRST2
+RegisterType=Account
+AccountName=Ativos:ResCPrz:Cash:ResRST2:20ResRST2
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 16]
+PageType=GncPluginPageRegister
+PageName=2020ResEmgAtv
+RegisterType=Account
+AccountName=Ativos:ResEmgAtv:2020ResEmgAtv
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 17]
+PageType=GncPluginPageRegister
+PageName=InvestMASPlj
+RegisterType=Account
+AccountName=Ativos:ResCPrz:InvestMAS:2020InvestMAS:InvestMASPlj
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 18]
+PageType=GncPluginPageRegister
+PageName=2020InvestMASAtvFat05
+RegisterType=Account
+AccountName=Ativos:ResCPrz:InvestMAS:2020InvestMAS:2020InvestMASAtvFat05
+RegisterStyle=Ledger
+DoubleLineMode=false

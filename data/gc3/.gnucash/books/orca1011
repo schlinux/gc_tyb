@@ -1,0 +1,26 @@
+
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=1
+FirstPage=1
+PageOrder=1;
+WindowPosition=0;26;
+WindowGeometry=1280;602;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Órfão-BRL
+OpenAccount1=z*PLJ
+OpenAccount2=z*PLJ:z*Orca
+NumberOfOpenAccounts=2

@@ -1,0 +1,30 @@
+
+[Top]
+BookGuid=c8835263603c6d7a067adc88d7cf6c77
+WindowCount=1
+
+[Window 1]
+PageCount=2
+FirstPage=1
+PageOrder=1;2;
+WindowPosition=0;0;
+WindowGeometry=1366;631;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Despesas:Supermercado
+OpenAccount1=Despesas
+NumberOfOpenAccounts=1
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=Contas de Despesas
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts"))) (gnc:restore-report-by-guid 5 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" options))

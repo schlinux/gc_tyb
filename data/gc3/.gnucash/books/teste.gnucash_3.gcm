@@ -1,0 +1,30 @@
+[Top]
+BookGuid=bab5b5e3ca830d88ed5a44c44ffec3d7
+WindowCount=1
+
+[Window 1]
+PageCount=2
+FirstPage=1
+PageOrder=2;1;
+WindowPosition=0;0;
+WindowGeometry=1366;718;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+NumberOfOpenAccounts=0
+
+[Page 2]
+PageType=GncPluginPageRegister
+PageName=2014Receb
+RegisterType=Account
+AccountName=AReceb:Receb:2014Receb
+RegisterStyle=Ledger
+DoubleLineMode=true

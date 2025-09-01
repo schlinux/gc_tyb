@@ -1,0 +1,22 @@
+[Top]
+BookGuid=3020d01ad90c61d53d33672e4019cd45
+WindowCount=1
+
+[Window 1]
+PageCount=1
+FirstPage=1
+PageOrder=1;
+WindowPosition=0;0;
+WindowGeometry=1366;718;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+NumberOfOpenAccounts=0

@@ -1,0 +1,27 @@
+[Top]
+BookGuid=8b42b70b8413ae318c279704f8dea01a
+WindowCount=1
+
+[Window 1]
+PageCount=2
+FirstPage=1
+PageOrder=1;2;
+WindowPosition=0;0;
+WindowGeometry=1366;713;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+NumberOfOpenAccounts=0
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=FBMai18
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "FBMai18"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546221600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1262311200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("57e4033421a288e1ba83481ac32f20f8" "a56e4f6fedb93a6d8be522f31f652145" "a53d3c89a91acae04183bab75f46c13f" "30a445237f0278200f4a35da18a33f8f" "f34c09b5c38b987640a827e8d4232290" "29689a4499dfd7fa4cc1bea565c683ef" "708edd6bbc18e2acecc5b335b9470a9c" "833527e56414e3dfa716d219064f8ec3" "3028392012bbc0d04c221a1ff4fd66d6" "6f442f442c62446e7f695192df4f8938" "7a4c4acf9a2149b4f3ea24d054f650ed" "5dfc24a6a072792b5a4d1a6afcffadd9" "45b4f65f62707b7b6e2a6c20856f8fb8" "64e101d0794c372603fc5694eb620498" "53e13067988b1a3a5fe27783853354f5" "934b8dc4ab6b3cf0ed8915fc543d27eb" "a0d7bec3dc29f820327883ca67777b4c" "6eae6e0985ff747eb132f69069c43b34" "17944d4722d87dc53ded4e1c6645c247" "6e0f8994cb6a13c9c14e1725946877dd" "7b4c4ddbf5d901e24aa84a091f582f3e" "f06d4ec15af690795c7fdccc21731b71" "fa64a96664664552ac098dc6035bf7ba" "9c02291fec3cdc9322b2d6b5ec5c0c66" "90272af89c1201c24714e75902415887" "839b0e453bdd24f15e4b64328b185bad" "b01433d9e809cd1559aad12f2f08a9a6" "8bc09c63b8363a56b95692b298bedc40" "c18609f932ded3f04c93bf294611ffce" "98a55d4e052e2949fd5873111f7ff593" "97f2929e5a1fbf81d6675be295839a9c" "0d56b0bbcafc563674924a3a8c3078e7" "f2dc19f868cdd29cd5f7335c27cf2be9" "270501a8ba5ce7452575ae989a91c4b3" "395ccccc09e232863a520a6610bc313c")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Always show sub-accounts")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Include Trading Accounts in report")))   ((lambda (option) (if option ((gnc:option-setter option) #t))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 91 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "71f299e589d02cf6a674e4fbd6d60de0" options)   (gnc:restore-report-by-guid 91 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )

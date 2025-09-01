@@ -1,0 +1,633 @@
+[Top]
+BookGuid=3b3ff2fccc430c5edec22da2f80cf565
+WindowCount=1
+
+[Account Hierarchy]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;
+type_visible=false
+type_width=0
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=true
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=true
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=true
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=true
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=true
+name_width=395
+
+[Register 140c270674720194fdeb368929a2c654]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register cc0affd45872a0d69a74933766404b32]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2fd9fc1a8d576e1521311a5faa1c5be6]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 23f7d1a53fe0133b75a3c438c70eaad0]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 4ec93f886212e0353f63722c36402d1a]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register efdbdee312f96f9f7be31384f7a064fc]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 55bddbbd809fd0d5cf64c2e249d02001]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 00000000000000000000000000000000]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register d3049f6af8dbb6188d0640501b773931]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register a2246938239feed0188ca300985de857]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[dialogs/import/generic_matcher/account_matcher]
+column_order=name;type;commodity;account-code;description;lastnum;present;present_report;balance;balance_report;balance-period;cleared;cleared_report;reconciled;reconciled_report;last-recon-date;future_min;future_min_report;total;total_report;total-period;account-color;notes;tax-info;placeholder;online_id;
+type_visible=true
+commodity_visible=false
+commodity_width=0
+account-code_visible=false
+account-code_width=0
+description_visible=false
+description_width=0
+lastnum_visible=false
+lastnum_width=0
+present_visible=false
+present_width=0
+present_report_visible=false
+present_report_width=0
+balance_visible=false
+balance_width=0
+balance_report_visible=false
+balance_report_width=0
+balance-period_visible=false
+balance-period_width=0
+cleared_visible=false
+cleared_width=0
+cleared_report_visible=false
+cleared_report_width=0
+reconciled_visible=false
+reconciled_width=0
+reconciled_report_visible=false
+reconciled_report_width=0
+last-recon-date_visible=false
+last-recon-date_width=0
+future_min_visible=false
+future_min_width=0
+future_min_report_visible=false
+future_min_report_width=0
+total_visible=false
+total_width=0
+total_report_visible=false
+total_report_width=0
+total-period_visible=false
+total-period_width=0
+account-color_visible=false
+account-color_width=0
+notes_visible=false
+notes_width=0
+tax-info_visible=false
+tax-info_width=0
+placeholder_visible=false
+online_id_visible=true
+
+[Register 7c88d79663254fd56d4de79c48fef996]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 68a3d298354a57b59d78f253f4caf14e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b094219948e684c1c6a617f52a93dbe1]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 7e07147b897262046086e7e2c27ab203]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 4aabc00dc884eb14a6d5e4ae736caa83]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2d1f8ffee0472691098c37ba437b793d]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 20b0cadddf4264e11321372ad24324a8]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 572a7a581d1e56fa1a0adc70e4d56b9e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c66e4a9062f3a0de3eab9859d64c43e1]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8e4ca59e22bd22f022adec72760c9b64]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register b9815bd719e9624e3a7552df25d82b2c]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 558de230e312c622697189d1e679ea4e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 04b48f599d4355f7acdea9a492a69c18]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register dabb29db7892e350c654a7d52670b24b]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register f8b3c9d13d38e1188349524a7b6a320e]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 16d1411501327a5a983367ee45b85817]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register e3028ca29f138282745df7ae5bc5bcb3]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 5aff57eab3c75d5f8e1cdf30ae5f10e4]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 2867d787f814c9ba61be31c807ca2731]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 8bc4ee61155c14c9c133d5a3bf7b4458]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register a0480fcb0900b73b41921394895d5065]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 88b3ef532325589f10a2c72b3743ecb3]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 06b0d107dbf8d6d47675c801e1f03579]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register c1c2d128bb1f519fbdf3b6082a7db854]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register fffcbbaa9f73f38e9ea07527a98f9781]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 6e34dc055b4af422b35f2ea19028d63a]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register aee7817eaeb5e7ac8185b7ff1e12a1af]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 56131ed3a0dcec732e41bbf34b46c188]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Register 479f3cbb87f78f03cb6b414b827c4929]
+date_width=92
+num_width=45
+reconcile_width=17
+balance_width=79
+transfer_width=200
+debit_width=79
+credit_width=79
+
+[Window 1]
+PageCount=22
+FirstPage=1
+PageOrder=16;18;14;22;1;7;19;21;10;4;5;17;3;8;20;6;13;9;11;2;15;12;
+WindowPosition=0;0;
+WindowGeometry=1366;715;
+WindowMaximized=true
+ToolbarVisible=true
+SummarybarVisible=true
+StatusbarVisible=true
+
+[Page 1]
+PageType=GncPluginPageAccountTree
+PageName=Contas
+AccountTypes=-1
+ShowHidden=false
+ShowZeroTotal=true
+SelectedAccount=Despesas:Aliment:2018Restaurante
+OpenAccount1=Ativos
+OpenAccount2=Ativos:ResCPrz
+OpenAccount3=Ativos:ResCPrz:IntMast
+OpenAccount4=Ativos:ResEmgAtv
+OpenAccount5=Despesas
+OpenAccount6=Despesas:Aliment
+OpenAccount7=Passivos
+OpenAccount8=Passivos:ResFinPas
+OpenAccount9=Passivos:ResFinPas:ResEmergPas
+NumberOfOpenAccounts=9
+
+[Page 2]
+PageType=GncPluginPageReport
+PageName=HRec
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "HRec"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546221600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1514772000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Show Average")))   ((lambda (option) (if option ((gnc:option-setter option) 'MonthDelta))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("10e80b3aaf0626049d3c52b7bfc4279f" "f0ff080474c7419245b1aa7be069044d" "1558c54154620aab13cae7a762366f66" "e4dd22adfee7b3d71b17e0df96ea41dc" "8575997e584c2bbd70c2122c69e5e8ea" "1ba5f745955afe43d7d96dd54faf238d" "795d14170d753d9e7ec1fab981d38a65" "89cc241f49df5dc5ecc8ef4c4d55a197" "b80043bdc238a3f3a967d59336019ec9" "d3589c1cfac6aacd0a8cf3a3b5ab5f32" "7c2dea1442f4b7914ac01c232b23b545" "a500da1f29ad690c4f93ce54be20b608" "4358cb93ff0936908b4bf745d2edfcde" "e4b3bd5e5390b1fc1b4f2ea94c8dc751" "9e28f9ec94a4b2ea1415c8d37e786a75" "49dad26ac43762f72386635208c16e1d" "b82a7d460142c96c9f4c5ee677e73eb2" "bbb833a9d9ba3785e2999f9e206dbc5c" "5bd397dd9e34a7a5286a5bc51360cac9" "de6c06f79a80cd9c8fe3537532d30981" "968368ef0feed87ce8fc3acc3ebefad6" "e4f03bd658209f48e01a2fa8b1070135" "ff56791aaa5634b1ae75380a957e76aa" "185e83beac16bcc034fd0c20f5db06c3" "a50f9d441554e60919b5bb937ea3814d" "681112028af7454089e7db7f09068041" "e6f278801c2d354a3e31d4f1007c92d7" "3769044270824a70c384c7435d7d1015" "db82ef4f2be98bcf9e6404a312d8a254" "402f777795712a70b7219efd1a27f151" "77383e7785e0de738a22f914dfd4f79b" "6ccd33f8b6ba52697b51cd0588589998" "5738fcfbb4397887b9d369525acce4a2" "69e2d9d17b18b257647f7e3558bb551c" "3c1038e145daa79fefea393dd86a5f99" "9f6b3454ecbcaadcf8fd2f51a024d523" "a61982fb48b2deeb28063ca78a58866c" "725adc56bb8f696b63722812ad5db1c7" "d8668a53ef6de3f365d567fb32181861" "ed73968261796ab04be8052ceb5a5831" "9d5229d79539b42867fe3115d85df8ae" "2267eb355703777b6fe0a3e5242473fa" "a860cc237e6a65ab3b316488d2524074" "1aa5e440e43c59f28eae64f3de92eaf7" "d839fff854b245ff3caf1184a18872d3" "23d564278d34166d79c4877a0840ceca" "7891a7ab5a2e02876b567ee06080d1e3" "e3cf535ba739f9956b15427dc8e2e4e6" "ed64ce120ab473a5d5616fdae8c8593c" "304c96aa5122a640425072fdc3ddb119" "209d63962db4ebdf1fb33a04c8078e15" "a6cdd67c6905fef208cb4d1ddf3bd534" "1779682483915b96d34091adb20e2196" "13c866d6e9f44af922d5a470640dabbd" "eb8d2f770bc0c4813eda80ebb821984a" "9a870a47cf283dfae91c196115cd6470" "b3545616b72920002de58b2e98a099e5" "3c1b2e649a547d27837d722edabcc435" "169eedfa95f4f51c03df5afdb12f4e2a" "597b79f30284b67ef90d4bc8beedf2ef" "8f6450d8b359a6720afc01f91831c94d" "a78e3938a70afac34bd071d279747ea1" "e5a7abd438769127d7c6f929a74b07e4" "8175563aed0d40e8272710074c7acc49" "b6d943fd04614e38d7ecb68405154d19" "0adb0b1960cfb8b1c227ce03d46eeffc" "d4fde40392da83db911c6a31f14cf03b" "8f2483b1d116ddba5e7dbc1e71b76fe3" "13c93442d759e2648cf89ef7da08a86c" "8cf93e905d0fd7f6202a30cac0dd4faf" "a4f01eb593579a6ba7fcd1a30878df9e" "928dc80ad5af874d64ffa68a03b28699" "ecf89daaa3b6fc3f0a1d9934ccb8b8af" "a6422bca3428920cc53f50b721823a9c" "1b9f4824f13c4faeef6c02303ac14089" "ad39c18b82cd2424345ce1c9da188270" "d237b82c14c5248c0a90c8f7e5e65db7" "7a305c21a2cba73bfe9f01a2459021ef" "4a828875e4dba7cb2ed2e558b1cf6680" "36b4dd2d18e8505ed0601707b75c5af4" "2f9570c2f332fddd00d9fa8e285f8c16" "831fc79eb58e593d13f74e83fa6ccde7" "b47decfd4a6e218878320aee99e68a26" "f73c06c20b0f4500140bfb7683b48ca8" "c64404a35d670ffb38d46bd1ec3563d6" "4d1083601453ef1d911ff66b710cdf17" "500a30480f59c22081295f7f987c2ff5" "29be5c65af164bea21eb4d2bb47e2e9f" "657c77b004e5fe697749280976ea8bda" "519121b8abca3b32c4d149dede3687a4" "2e555df91f98b952f93f275392c10a17" "a4c32147b5e98bda544ea6ba385bd48d" "7c40012e98693ceb799f5e4cb4c30d3f" "61b64bef2d09d4d93e87c36a4346f5b7" "758c8de42a4811495f08c2326dd70564" "4073d027b2aa60ef895a879633b5d509" "b200e83245dc81f4f95ef79a4b9cb12c" "589588969cc80aa7f75bb610e3b41056" "f41cabf2d947942e0ca9dc279b07717e" "a3bf89e52f56aa6b44beaf01f8f619c4" "7c2d6294662d56ad2a2741be342941c8" "04134114d32ad51ebfac1b8ffb27b1f2" "a0240df42978a754cc75f862063220ce" "b3108ea74946d91fa8547d01c3b93d90" "30590a6d0fa452f9eb1be7067ae882ad" "22cecd1ede58189c7af9379f3532d940" "d636925e2abf981c458a14e47bcd9db0" "3565cc847f13fcfa937ca46f2ee17bea" "d34e90b8dfbac23bdf07b7853afd4401" "0b0b203be084580a1cadea3b95711418" "7a9a42ca600bc51884252be0c7704a66" "3e90d71f5d8137f49facf00bfb038d25" "bc86c0a84295f5ea0f5a3689c8b31b50" "434dd3bcfc9ce0fda58911a14b9afd6d" "409005f65c9683d0f748a4f74b7f32a0" "1e062a405ff21d4d273cbfb35153b31e" "ab52d1ef6586bad2fd0ccba0358825a7" "61af8517ce83af663b21b1e111527900" "7030521ab52b03d9da02c8c8aec599b8" "4200ad00c55006d167b1dc0354ec5d06" "185c494f7450b99578a5ed4abcb3dc5a" "d9e18006a32efd3eaf0efe323991c5e2" "8377b44fb059c80993eedb8c179c409c" "ddb25443caa1897e731388cf5dccdb22" "9cf30659cd851d70e3910b1049373ccd" "c50e351356b27d4906344d35d4e7f474" "6bdfd60425e4e5fef20e0b5e7a829a24" "28ece45ab5201405511ea9637d96182f" "09199cc23bf3afb0d5d1e6da8d546509" "ab8c8c3ef9227d4786e62437303d5a5c" "556268db3728c49e5a7f18586db8fb24" "37bc757227917cc0f94b4bfbd2568a05" "d1a4d65d8810992e6aa25cb93fd0e709" "52d1debb2966c2ea7c95e7e98cc5f219" "94241460f2b93282be539499540423ac" "611d4e1f7155295907f24317981314aa" "9eccfd25b2d4921f62aee957bef78e95" "cb2605021c438c25f923d58f4b4f8fa6" "45700a733694966f74863c8e8d340df3" "76086c28b5be803ae2e09262dd72f905" "64d95921d57614ad862bc1c5b5d57d91" "5e0cef4675dccc95eacce8249bb5f472" "58d83370107b985cf18a718ea837f7f4" "fff16ce937f0aa0f62d315e7176c40b1" "442bc79d750356586a4d911109ee6e38" "fa6b43ba4444cd1bd325465f81665ea5" "327c0c18f8341369ede941d24adaf35d" "b848c9ee5401092f46c238f40c05027c" "28e6b5f8ba7d55d80b19ebc76e27ce2b" "1ee13a0be8dff8d86bd76d1da759598e" "4e46b94e030e10ab5a81594c343c63ff" "c0454cdcc720ec00a55b3b8561bcfa7a" "5f7f5a7fea6f5efd4ca869bf4624d3af" "8882f2f9160abb432455bb62e65db8e1" "e9f50f4f04eeb47b16f9452a165c4657" "ff7228aaa8697ef6a9022562d99ca8dc" "b6be2f60dd33d4154a246bb734931330" "83384715da7d051eaac90b228fd87319" "d56ef00e8a370619e558cf2ff39a5486" "7d77c7a54be75bfa11b69c77a1be2973" "8dedbbf70bef26b668775311401577a5" "f7fdfe5bcda8226a1c261ccb2e19b247" "10c02d4a970d2f40a509b370d11ba4b1" "3b1f75a724987c77c4e1adad575df8fa" "c09602a35aaf6fd27848cd0c3c5a425b" "cc40caeb207009bcc2a89fa4b7662fd0" "afc16889fcc0ca864cfab546a52d4256" "6c0386b3b726505e6aa4b3cccdcc03e8" "2ba313611b640bdcc75cc5522338b6dd" "3314a17333fb1f2b6559f73775ddfaf3" "a88f27090974a72dfcde9373ae45d030" "20c62fc194f3ab685ff7908c208b608b" "d27fea4651ae5080af33bc6a00975c1e" "76e7f6a936a7915d750a1147e5c18d8f" "2c11c5a779b514935ba22289f124baec" "383c0e8dc729fb470d3c93693c4129ee" "0f3257d2747d36009f7382fb320ec2fb" "d82bb85938feea733d6bb2fb3214c526" "e571c3c916e0e5f8c2d2cd542e56a90b" "7e43003e19f2700d70115abef3a45634" "f6328d7b16dd0db038b29c76b38572b0" "c9fe0d4f258d36cf2eb11d6347f462ed" "112fe3c1de55158f61bc0b63ac5cffa4" "5b29a4595173cbf0ff43631aae0c7cc4" "74ea9770c5270418eff2cc2e68bc3ff5" "92239e9ba1b4a0490600a3037f1c5496" "835ad0a9bd31e3c6cb95a127d7fbc2e5" "e4e749d65a08e3c2fc286c83e3069554" "b8509708dd0cf7e678dc8cb5f6c4c840" "2160af4a3552619f40f78ef5c12fdb05" "e6c142e0875646bbae59c166ecbb6bcb" "860ccb04838f9be32741e1b5445f2af7" "af63ce03c7509b354d9c41086ce1c84a" "aeec43868ed0d660eed6570f98120dc8" "f67f9e226ad94a515de0d074676f29cf" "ad4af203d7262f9ff2c203d3d8c796da" "dd5297e34a765e1cce6c1dfd8745bfbe" "02a5f98e9d5aa45a121d48ac11ec0689" "95907874e79af567de3f14acc6ab0e92" "45b08f859b9fbb15564c138fa0e3e006" "2fba03a48049baad5ccfed822dcc02b4" "a4f0630207ad24777c929007bb96237f" "9e9bf411463a85093356220151cf64fe" "5dd11875a4e4031e7111387cb23a01b4" "da705653287c1b781a330c00630f91b8" "e9a10764d36c5c679c60c8ba341bc728" "c4f7dc7feb75fcccef1fbaa811697b3f" "0bc324e64cbdeb34f7f1647e1e306465" "364551233325256ab258833e1d4e1021" "e650e61b01406ef08c58c17fbc0f31b5" "4f1e8c81143c522a1c2016fe98ccd90a" "771ab3f1cc5c673efcdf39421287b260" "bcec96837eebfe76714a0985ec10ad47" "6656c1fca90b88d54f0abf15f48bfbed" "f624d2b8e4c488b8018ec026c730bc7d" "3812862e8186cf71e46d43e430293860" "782d7f1069035c524d953be73c518c0c" "4b4208a397de823935055099128a77a4" "2e1468e98c28a8dcaf76b76fd41cdbf2" "748f38e14e4e3e9ec8ed25ef72b8d2ae" "f52cd980a7d1bef2a0a7dee2cab5d174" "d1bf11fb8c43144897c1aff4b1b20b0d" "65c507d7045857990ca9e82863411a74" "0f858cf9c8b8ada5e874014d29e09b3e" "039f3909e287c33b7a1567bac8154ecf" "1ef6e2e82306435e1bddf45d27a7217c" "07c453529d86c786a34e6fb11077c6cf" "8c7205b1f975d761176fbc8831e60fe2" "1c4e7f03daf604b42da2e68200607a45" "7e96179d38079f82bcf404ea12f7295e" "ae904d8edfa7c637956000e75f7d4160" "80bddaef3ef54165612915eef768b522" "af563e477403b395977a3f90860aea79" "d43190b6e59deef29b820fd2cfe20b87" "1eab339043292d3c18667748c538564f" "a3a2d3ddbc39618594ac1f356f309d82" "573a1816ad27b1fa40dacc227e73d170" "10f9c2ed09a8a3773577643c861310ae" "b26fef0ed468d8f2374658e7d138a432" "af0a71b9322971a5a0437507dada84c2" "41a502b671118a12712382d7ca2dd45d" "0cc26447c59a545adeeb8a0c189d24e7" "55cc0a1bc55ecfbe6f4b086a91ff93e6" "9c0b8f450f76f51141a0025c32c9352b" "85d41413949b115a6be78ae8ff9c4de8" "c996d7de2b2e17535f66f065ab24d49e" "05c920a83c475ca4d2b7118ab217874b" "80b21403789309493776f633f3aef8c4" "e44e6eb4a6b166b97ced15885d5194c7" "b7665b82217dda247b0573e9bb224aee" "9f493bebbe06e9e1954def2a4ba46276" "fa92f85ef27ed879af3db07c2cc5e562" "571a23b836e1d06db047a920588e1cf3" "aaa3ad3c9478d075f094cf526b30c4c9" "635c611a1a73d937aba68f5c9f9aeb4d" "7311c24967c5408e6977d6d3f5e134c0" "2aa408669f175932e78ef1a88a38602a" "d0b6acb87c57b7045613a0d9432f43fe" "a62ea0c6bb9e9607682bec3a66a64093" "b1f5db7647b482b683eb0cbf6f8b9ad3" "6b25472933cd60872f24b4a69149d41c" "84743d6d8c56bacbb22256111abbdc28" "c92cea53b3c5e3a5e5dc334ceee9dc87" "39cfcbfc0215c5f50607cb6252a00567" "c3b19b700cef32c65f744802beb6dc1b" "84acd8d9034acb59fb7d0ddb51ab8f4d" "b3f4aecc3accd7941e7516c317406ce1" "3689c79ba810d6cc1b73d56e441703e2" "f5309c9b80a6879d9cc9e8adb5267aed" "cb6d0c0e58959710430f05040e111003" "6661b2317a1820060ddbb8a8f6c01d2c" "f5463edc4fc02e655a6df171896bfead" "07265dc2541b6977890ac7be5d0c4d3d" "e3a5edb99b3486b977b845e0fb312bf5" "99f6b5436c5159562e70f5c4f01956c5" "46b41171ff6be998dc8448185fe15aea" "a93547b1d3c00a5eb9b4ec15c71a0a60" "0b750bc5b812f615a63ec298aea95592" "51212b25c9a2656bce346d9915ecc58a" "f58e076a5ac2b7f084d47f71da6be03c" "1daa95142a0b95bef97126286c5ff923" "8278250df9465eebf463a418bae230de" "a3118ceaa866677c1d730b2e727701b7" "bdb6d4eb9e5990ac60f4c7a86c177433" "77fa3970a2b7f8c909e82b0572ab29bf" "db1b2ab526ad52033366450f424bb6b3" "0535f0f89e73bc9b2a33cfe6a06859a6" "7e36767418350a473d74353bfcbd1bf9" "3222bc6a30a1c4f6eef29af1e5163d18" "95f67e6d023390b814501748fcd1d040" "152ca5f98db657e1e4359770e76857cb" "9bc830250ef645a677cdee8a8374a342" "b723c8f452ac2428ad6fb93a172e2385" "ebcd7d3397e58ac6829cd581858c11da" "b7d572608069b449e562cea229a8ee20" "91abc1a298c34e35709871e77a171418" "ac8e1b5c555f20d3ab71c01d3b42963c" "56980f04f4c00f8e4a2afd3391594caf" "3a47f75112f699a4238167f68cc24112" "a9e5a6fedc8ee899e825024ccfa9e011" "bcf0773150b2777a690f7daeafe58570" "a044a90fa90f06978c4600501288d5cc" "afa0152cf993c34dc216e3dc23517924" "73c22a3fa867ee9412ede657de244265" "16bbdc24bf30514d1918268377e819b0" "4fd936cdfb9553e9579489989be30e42" "9f123f0bcadc053a9acdf59b65f620b1" "e1ae5ab828eb4df9b018af94f098c62a" "e0c10099db35752d449ab5f8616d16da" "a1bc807c1180345da2d8111201186f82" "d96e369bdfb22e972f1038a95341fd91" "bdb609bc176555dd7b2ecef09813e6de" "619c1c87579d846c12ef1b2567b7c8f3" "9b34196758c762dc791507811ec4ce8d" "1d1122b06bce34a40dc8bad7a971c17f" "8e634b5642ddfbbdd168e5924e988439" "30a76cda158baa086e81fcb499c257ee" "91f82245e5cfd214bc2fd85bd56595a8" "da1680392bd29d73ad72faf16901d5e2" "56071c876f9e7ee7ce4fa27a3810f7ac" "ebe3110c825284ca8ff45b434644a94d" "17ae64b8eb798c0f78dfec775e99b7c4" "13898ede2e5c2ac9d4c5cb0a28c94fdb" "1d79d0e2f1b3b824187da9e97f19e3aa" "5073e40180cd097697e6dc43f9776976" "d6669a6f54eae999db0cbca500ad818b" "e966ce034ad870d0f45d067c1073f2a1" "b1a4515c37e1b9af01fc8e043039ce6c" "dcb1acd038d3e00dc0a9450b937e3495" "381b30e36396df5844c2562f01e51ece" "309d51b79c5fc9d540e850c0c1c9d513" "c85084c37db029a2c6ab3ff72ba7fa36" "f4d2b8815a72a08571554821596757d0" "1533db2d313e9a141e1cb46f4cc723be" "d71a65c0c40b424c98b031edace6c3d3" "42f3088c9d7ec56654a43774be27bce6" "6364b38f2e6b96962c1d37ff3050eac4" "fa12900c6f0aa508e1f27c0ff7231d9d" "a2fa1545ece690f2dfa92795eb936b99" "ccf67a1aef98602b1c70b91d94711bcd" "fe83e1a19e36a76ed4f8bf67b117d3d5" "0fd4f779118dc9e49e57d53e53acf1ed" "ca42e0184b96526960820dcec6e3a150" "769f877882c48ee407caaa4f78eea5b3" "b68464b51aa4770bac49ca781227a689" "89317521342465424831c00fbb88f0aa" "88e32423574ede4a02173f3bbe8e4f02" "0a300c22ec1989e547cba92f44932cc8" "c55ce2acc65b0e79d3154433ab61db4b" "ec8274c8e1d2dc72e0445d3f8dac4a1a" "a2278dcd470bbf02522821de881e6e14" "5138bafed21860cb96b52cf0118285f2" "189f8a23836a0add5341778946d8445b" "4f5c0b0fa7359e12a513ad764669bd1f" "075f5b8f040332446f93801290da79b2" "169a4e918ab6eda2138aa10b5747ec48" "3a6f34d9b7fed991e14b21a620fb47f3" "eb7d872130743a6d293fc37b56f08a18" "c2c91e3b971e1920c24acf615a661bbf" "3171e321ab2d26c700e34ab8ea4141a3" "4adb0c920e1eac7e5b8db4a5f972ebe5" "a41967c58a1128e408f2f7401a319b0c" "f2c63d062fac38db8ebdaaa1ab356247" "0c423baa74cc73cc77af6aefc0ae95bd" "65f8070c0f223b30d414e12ce8dd3eaa" "ff090c51c029c313e658dbf9f1da2289" "6724f9fcd67564e5fb8acf666ccad353" "baeef30a428ab576a1b55255d64805ae" "c2342d3db7cc1136f4cb10a824530bb0" "fa66f7e25138a8648d8fd708e0ef50be" "dbb4fa142bc747ede05b25f3cec1d1f6" "5476e88bf18271ded96bb8abc3354dd6" "074cce454b841e3bd2a32641325e99da" "758b725b49324edea500001a036a3beb" "4bbc1010aa958d6b420d96559eb997b3" "f2bd329b8ab8896100bf4790fd7a1b0e" "3181e101f97d4b9ce913cf1594584865" "696cce39753244aa58fd0e66ec248935" "75481e6b310d0ecc1589a68cbb2f06d2" "3a6833c387bc3110de215cc65f8cd161" "04bdb06f367ff8bafef143971e2f766d" "d13f2f0ce744d0ce2cf67a1a20cf2917" "4f527e574ae95e137f1ed435f579b936" "ec1038f1c5f5d4325dbacbf2cd3e5746" "b3ffc7a61c7bf3d42ee79fbdad4d351f" "858ea3dd95dd5d90d7bb6836eefa494c" "8215ffc1fb23bb71cb47ab0ef4db0f5e" "e8b895269d69b8f799b04ee60d4379db" "3b07efb0e1cb249fda9b58cd050415f9" "c9e873c3db2af788b39991b3d21cad56" "371c848cf64dfcb1e93eea0733fe9cf8" "7341817087e64894db12a199409cde71" "8e842df6425229fb0a32cebeaba87983" "f024bed6de969bda48939e6e7dd7218c" "de0b80762a7e17fda97ecb4fcd9daf68" "f91b342da89782c059ba4c98ada33b1c" "97c4fe9ab9da80957d3ca55c751fbabf" "45b7252c90c15f2574ebe64b571db5e0" "435baa6d9acfc7c303571769b7c72a05" "53eb2b93976e665311fc245a571b2b9a" "ea4c7f361edaa9ca5cb83610795c2f6c" "58300bb961767da95482f3e9a9470a9a" "d74df6ee1d282ccf6b493663ed347153" "c2228cb8bdc08f6c286a832840ead790" "59e6a80a12c3e6a0a7d35e2e686295a4" "a84185831ce92d3c74e541450b7cd2a6" "603945d53dedcc8af2b8cf2b1727636d" "5cb6b6b9892ea5998957deaedf433378" "7ee4b64f0b56b8c9ed7d3ae44fe1af28" "187b56e308c863360e169de0a8f89d0b" "56cdc37371bd756809b536291aa849a2" "e5c365726e859ee75f124d82c1dcb93a" "c405dbefb3316ee352b8073569e5677f" "d807a7f63f2bd58e808ec3fa859a9b2b" "bd885c0266792430827ef9df2d4010c2" "9b5ef78207ed9de59a5fc1e26ce0e09b" "f56bed196f7a5db666899b9b63816256" "60b0b6dba2b8a2412cb30eab2d125058" "38437b5c4a7683173f02acc781b4c7d2" "60f9d0cb46afeef427e23307906c9058" "479b34614ad6d01e77294fe358513724" "154ee7091443ec6f83767368a20511e1" "f16050e313357213131913c9bc77faa6" "cf5db11a6611616b86fa886d4d551cf6" "07e676030c89ad6c672da4d50e416568" "fa9b17c203a025dee3ca2f0fdd887d42" "687de18bb847aeab192953c0cc7cddc1" "a43bb86baf301057107c279765f43638" "90ee135c8be703003506050f0c03da2f" "fefd0c5055199a7a24821edfd0c6d4c3" "e8908110a39298f66d2f786aa61afd1e" "d2c1767cd7d4f03343d585b4e94a6800" "21284a9f8e1503afaa2d29da528d2d35" "a0e5c5f6d6b698fb222a426f08f5dcdc" "27da992523955e8cc7b0a548508604ce" "f177a1b19319ccbb1efbe1702b667eda" "88558af21f9efb9205478769684cfbcc" "ee893f8ac455210ab597ef49966748e4" "6c27eda5bee7b5ad6f395f38d53c0bb9" "3b6535e74df90776974ca4e95b9a24ff" "166ab0fa229e367d47e9f3cbd667e5e1" "03643dccfa6c35051f981a9cd47653ab" "70290aa996cf5b47e450dfba83a74aef" "04c692517d1c4b8f08e2259f40ceff55" "4684587254e255ad600a9bbe4e3817a5" "bf095228c0221945bf16406c52597129" "43358a5ddc9634061cbd0d2a897bc7d7" "fd7c5a74e0907d8e5672b93b69195aca" "e2c166e5c085f0e7346ef24f9abe7cb1" "4965ab21be8d7b7ddcd4d81d0d9b18cc" "41df1f3f21a64b216300e5681fd7d780" "2d3b9ac89e6b4ea3c6e05ad45517acd6" "b7647558b71fe11ddf2f11bd07abbe14" "4a41cf9832662f5b052d9a715dc8c090" "12331f0bf5df8fefe31253ae99b9cb56" "e097794cb7021cac5b8746879e2301c4" "35eb91ac4822fd3c8bac86f0b738cb29" "7e055f8e84469864cfbd361b354e89f0" "b374afdc44693995b0090225bd545217" "0f8d2b3848a16194b8186b947f87cf98" "900cdef90313c74010f9e2a34aef0209" "ec082424c0406c38dc0fd3424453287a" "49a24c90e31128a0499e0533987dfca3" "da48c055fdbb01336186d2a04c5bf672" "c1f1d4027d1e5ea6abac8ff1b72a9611" "d7bbb69a6d3e5048ff4569fd8fb859cc" "777e3939b8ffbeb177c320792fc95ba6" "97b04640d078f462bc3191db1fb42bbe" "3fd6e3add96573e382c8573701097bf9" "bb57ec316c3b560553dd9ce98aaedaeb" "9ca2c612c56f7e213ceba27421c10a29" "d191cf444091e2a81f746af0c398cbca" "f50be98fdc6ec6225b404a23afd632f1" "79a18cff3c565a1c448beb5f2900f8ba" "d8df31e722ffafb7c402f7c5487ea3dd" "b9937e77bbf52f23e15e58b68aac8b22" "0887e8752919b52de5a8827edc505739" "98393100737034ec0154c681b77b15ce" "1453fd14a8a45446d8c4638c05e2707d" "c025ba6db145699afbe9a5d6e75ab771" "12ada1c8e88f4bf5c24d8ba7ae7066d0" "75faefed9d7baae295b2ffe7753fbd23" "cffa4e95853591ec683c46f6d0b96135" "c11703ee170f26013cb8a49e1502e6b9" "acd96c6585cabab0dee4b2733d0ba704" "596448d3bd3ad6146388eb8a1ee73950" "560737160d89f97a5d4b06c61517781b" "7b145bf344abd81abdb885be1d89137d" "c45e18a3b2bcf631fc516733de424832" "de224aecdbbdac6677e62687e09ed95a" "d190cfdb687c2b75c92213b68a5e3f37" "7853c4c7504314071298c6b8411ca666" "3f5334cbaa0ddd139272bfb809a6221e" "62a8503822580e3c9dc6f10f0eb1beb7" "c79704b3cd9661dc679b1f32a2d27344" "a21c83cb4ce3ee217836909a54ad2c56" "462524e72980f2e0ea23bd5252c3d278" "7c06046bc1d490ed784869314a3b379d" "6e565799c9d72b11509c50519a87f6b2" "f8b39b239d222c633da0d0d39a60bf66" "11a1061f0b5c1bfe007db3e318bd0185" "9fd381277f67daab0d9e86e0ea271080" "02a831a030630083cbd146f085ec2d9c" "4032b6d5a8d72a668bba1a624d01efce" "ae19ff0b19499a0a52052085a403ee5e" "1f9abebe836881c899d431348e039903" "ed353039c5a6817113c3435374f546d7" "32ab890f3934ec3b622af8087ea1f8f2" "a62a46e35c8f04bf22a69c4694c4b83a" "1d63139de3d37bf1cb8025d4377bef9e" "6ac717e42700a8281ea53214f46f7a4a" "eecde21cd76221508f51cf284831a248" "063cebe9237225d4239747ef22465a38" "97ec7da0afcc471378d53c1d11017180" "67157cd0ff1c18e879fc511428ac5434" "36f8dd1dfb645c2b4fa1715b2afffc38" "7894e73fdf5489186f88d2e3ebc66ced" "a49f053d253c33941f243885f4aa3bac" "aaacd7ff9ee794ffd4a52a991515942d" "7bd9df23a76c7e6ca2f3020ed4b66158" "2f683b0c6d90dbd2959ab6707a1a125d" "aee35070448896f714d6841b284301bd" "a12c6ff16a968b0ef7b91137fca9a313" "54cc92d9b5282a0a67ae96004a020e96" "3447bd3a676d06a72cbe1013aa66ef4d" "68a3d298354a57b59d78f253f4caf14e" "c99b70a6149f4929e54579e3f6e53438" "50d6b7154d480982ca1e2138c8472bb7" "d04357ddba28fcbf1779671afbb77023" "f8b3c9d13d38e1188349524a7b6a320e" "e407ce00e803de42d0bba4f0fd5a6148" "dafbe742fe758cf4b0712a7037bea2cc" "19ccae46796193ad64c27580562f98a1" "6f6ed7427e5991ec8c3965220b7af27c" "0c3440d2ad29dcaace0ed9184b056429" "8017a4a7410cb6a450cff152bc6703f5" "84d025fc1ac6be54fd4a98b8f7db39fd" "ebef52ec491fd3ad9c71cf8bb81e2651" "16a614d6fb3a3f780cf771b688ca7a46" "96f5b127f4d04e4ef8a2a8ec030feffd" "30aa3fa5d6ec82d4e82265b550d1bcfb" "aa07e7db70671863628d4fccab5f0268" "5bd38c59f2e40815e180ecb10fb06033" "2d09d22cfb977ec1b91deed72f043538" "7189d38bce05cdb2801aecdeec842bb9" "2c769d6db7de15b2e728245a2ff8db5e" "63adf919bb36b12c84c80cb981dd6c83" "70f7b01c310eaaf8c7f718158a945894" "d803d12a125539f8b7f9ce5594fefae6" "90066b55045dcc7a855654d63a072af8" "e197601a3f330d445f23fdf78157239b" "33960703c1af8fd12cd0eccb46f6306f" "a850a97618d72c22c03341aeb703c8c3" "d43c53c1e0af1e07dd72ca97409527c6" "9e318e269439e554a7df1adbdf5c0d07" "22851d4003cb54253b94cfb584d68441" "048fabe396eb22f3444170af18704476" "c1932a41fe3a9f05c9c7af5319de66cc" "3d5ed9ec06b53e01236c85d5b914a456" "aaf6f87c945f04c748a4f19e81d17863" "31305677b4ebb31792d80d9a3bb412a1" "f83f7bd25375bfbafe11e012da9b6965" "9e0ab40f278dc8241501eb2975d9d132" "6ddaba47572720ce5de5b8fd74f87d85" "d33759ff4cb7e1e0fc33c844e1d506ee" "4c59dd88f334540c0af6fa0d4c2b2974" "8ad7a53e6d8d398bf90d999ce3491e95" "27bc794e67e2a92547d6a7e01aab8bbf" "68e18b710ca9b1e5a68b5bc3dcdf42a2" "1a056030ef69bab067a73b49f46ced1b" "5f4ec1f256bf064ab6370e1c96455cf7" "10eadd0128c3215aebc8b5390f4ecd6e" "d4e28d54e305c40058ffec549169f2af" "4c50645692cdf07d93356cd2c6d3197c" "60902dc3c81c49e854bd4e38e21c5db0" "4419ac206b5427104efcd5fff477e1ac" "a7d77bc2dfd683a46cbe7a951bbdeac7" "36f52b92de090ed7ae6f45de7257e319" "bb555e40e3731e6e316c423452989095" "bcf7c99ba2fece3f13c18349e771946d" "424f156bf40ed84005ec9859603295e9" "d40a91168e12eb6c5ba7fca60b5df7b4" "d7a8918d6b615e2862cbd7de8316396b" "d740c7e0464637e807001c1e16185ba8" "d7943954552c5a650ec3e468d79e81ab" "d5fcd017155c15631a24e92c32f3bca4" "3f5f280371ff013e1c63d89ece307416" "20aa0aa142d496f004b5fa7b5649f480" "b66a3144ba9dd599a2bfd646ff183457" "9fd0d4682cf8cc6d904029fd8bdee965" "f3d7e21b5ad10b74eb0836f475cdd595" "2df55ff1c76772cc608cedc5abff8414" "00a72e16fdf3ffd1c3344e7548bac7a0" "b4d8defa8216f9edf5672ba63cb0c44f" "ba0f6ac9c8e0a11c33627342df9497d2" "3bffdc8496792e37f7737af55523e776" "adf45e6b427ed16e3276b82b7eaf8189" "81dd74b6db222b2d19a3ae9d7b2292c1" "80e2c4151959de3984b0c8bce23f8cab" "fb86d22e871f4248596078f5ad6bd39a" "00ae3757b3845892e4079ab89fd9389b" "1316ad04a6e09cae4d1580220af961eb" "917b7865e597129ea90b5b87a063c2f3" "5bf3101eacd5f1a9c74acca18aca46ff" "4c97c0a6cea185da492f9964b968760d" "0d0417f1d2c9bfe1041a05e31ef7a9d2" "1f7ba448b1713f3b86cfd61410a92771" "8e7ab1d391af5d1d105c1c83d5256d98" "eeb3abbb2a1e2a0d443a988b18a466fe" "245c52d0233f917e6a04bf0979216525" "a077b5a9b4f12e0c7b671ef926fedb9b" "5efe7532405e0c36157453477ec9123b" "ebc5b80e661ddfc6be635d99b3c6a76a" "6cd4da280891fa299c40408e4763cff6" "30b9da5c0753410398403937d3213fc5" "d880c31c51a0aa1733f46681d33e31a5" "f13834a56eef73dd5e78f6b6954bf144" "1e63bcfcd6cf471e99aca5c891e317eb" "4954a4ae2cf602d02cb2fe0d5704f2d6" "4b433160204838bdd770b84eb665e3d9" "5abbc36e796b1ef9dd5e7c11d7eb0e94" "2464f768a42a6fe5185a4ca6d6741e6c" "8e33a9e12e1e849208da01d030b26ea4" "615a68d68f9f74501b96a967f98039b3" "225a2887ebf659b854866e66cd12f430" "50a025f0abb7e3f8cdc04e0f0df9b486" "c419ffd425f3a8c6e9ec61e7dc37ddb2" "94d6de35e2e56aa3140d2f6381c0a319" "71cc789ba62b5da6585322068bb27578" "88dca3407a17413c03f4145f5e8ba64f" "b7eec32ea557c7e75dd44a493583ebf0" "60c9e3ab672da6ef6730b52523d9e7fd" "94dfd086e47b5546c5473c90abd5481f" "da04433d5202739b7c3f3c584a068d02" "77a14e54225a339fb85e69039489aedd" "49d55e2c92fa50ca5b06429aa87a600b" "1974830cf926a1421368e30c301392bb" "08e62152f52e9f033fc7fe6f524e9520" "a5b3d2efec90ecc0596f3add0d6a1a7d" "494df8f81f88665b9c35ab3b8be3b316" "59af9774b3ae1cdd4a2cea972819b62b" "bf3ecceb5e478cd5378463cbff8cbec7" "866fb4430b15b59f7a08db9ea9f5731d" "12701d890037d66a12cbc39de9fa854e" "1c815463f0b844bbec24db22955cd473" "cb1d8b23dc19fa7b290de53faf22f7a5" "07bee24e9aa6324703f461665f880170" "b2bf3a5ea99f188e854c92d52e07dfaa" "b40b6956fe74f8353dd4d56c687b2dfd" "5bd0e54c05edcec3f9bb40cdc4411f35" "a15e4a595351baed449c561ec4fa0f53" "1696995bd1e588e0eef0a9f260d1b4f5" "c57a35087ba54d45544e7aacb9a5a1f5" "ffd7935a0ba77e053a3ba1ef81ed8293" "e0b5e6f198560cd4ac3655ec191203aa" "832d664bbb562534b59ea21a19214f1d" "bf7d03482cdc9406134ad04da03a1cb4" "219af7924e1d3e98500dd5e9eb638e33" "99a964f9c7fb55dfeabf4fca7a8baba4" "4ec5f8aecd805ddfaef3190073ae4935" "4ec93f886212e0353f63722c36402d1a")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 400.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 25 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" "24a0b01e05a86055462a18c39148e9a0" options)   (gnc:restore-report-by-guid 25 "e1bd09b8a1dd49dd85760db9d82b045c" "Income Accounts" options)) )
+
+[Page 3]
+PageType=GncPluginPageReport
+PageName=DespBR101
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "DespBR101"))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Accounts")))   ((lambda (option) (if option ((gnc:option-setter option) '("e58d7925e0aa243edf0d41cc48e85d72" "140c270674720194fdeb368929a2c654" "27940a5eaae4bc51fda6eb44378f684b" "479f3cbb87f78f03cb6b414b827c4929" "2e18d055fb042d2ab587cba4a5fc732f" "a5f6ec85c6da04d1a5efe74f223c0f04" "35b67369faad041113de39d0485707a7" "30d49a59d4ad9db957f5380676cfb7ba" "c8224cc9fd1235cf688b4b315b4fa5bb" "048f718216972102f865d3e493487fbf" "e9248d5cb4aecc0b778e7823a6529401" "09552981182b59082e3ec97f729e5310" "c135b66526d769f03f93c1440bee3e96" "69fd5ee8f20a1ec7cc3ef1f41580d2da" "2b7d568d826dbf74a0a7292a751cb121" "6b62cbd4c39793e862dfbe17f7b075db" "911704b3382df277d714864466d4d8a2" "de4e4d15ea79dbb4e7522e70e93f0247" "ebf1540f965ca4622d1cb85069e61651" "53e0f0fa257cf0a7d7cfb7eadd563390" "fceeefa2c070626874a3ade77f31d47b" "b3a06adf6e0a95f43a2909561ea1663b" "9f669850bb1a489478e41013247f7d41" "da68f34998efe07d548c47d1b90a4028" "bd97ce5ab2572af26d9f86f293baa73d" "47a3c89e898b04510f00eba22c9a2d37" "e43890f7c8e16a7cc23907bb5380dad6" "bbaf1b8dfae27306c917c2ba37145fec" "ff1b79c07990caeb87b461bb70b0ede1" "6c62c1435442cb5f2d343389b47598f7" "301d2ee19a2733a7aa3b640a8b0d561e" "b2e7f7b1f12d93f9edd88b3ecabbc6aa" "eaab91c4a7ad374335e297eb35c67b7b" "60cfb20e561861ec62e3215a182e4d88" "892f2d0893ab8120006e5ddd9e825cf1" "f7d304cd024ecadcddb33f2cc8548f04" "fe55deacc71f5ccc28edaf4b7b9ccee3" "29bac590badd5103ab6ec629660eca01" "3fc7224f153e13f51b3707970c49e864" "68b771e91ffded8a125c84e5701baf28" "90c50fb903aca84778ddb3e16fc2657f" "1656b02119100e113302341bb8507e58" "0fe031060c27a0445904df3206214c15" "685660ab78d3d87c3a1bc90bfe66c5aa" "8463e3e7b73bcc789e81b5fc7050c467" "943224812b1a0134ba77d57d3283f234" "1a5ff3201f8c0c5ad8c7c159d461a385" "bc69f7c911e39644b18e03ecab620bd9" "4ddbcc330bb6a98c483c19cbecafa78f" "01fdd9c119918c99577cfc0494836ff8" "e15acd6daecb003ab16dbc87c195e3cb" "f88d066f0486f0a02421ca3919d3bded" "4edba5dde74aa49e81c4c1ee5d0ed7e8" "de5117f1575bfadbd404a32f1b7a8169" "6e11754e8dac7d8d44a229bf8a914ecf" "4a9d58ce14394619073194c08f2a9e6a" "d53711bf0adb1dc31022e66f368cea55" "3f7d11c56337dda73817a255eb0bfa78" "f6204184403b360dfb7037ceb4f93737" "1ee69ee706ca49cae9e6ad7bedab6381" "cc471e66675c86ec32b6f525512a8175" "607fba3e95e24e57f7463c8c4c33510f" "4c4ea6fd8b68fdad2765302a603bd66e" "69281bae3d66654560095a7655dbd39a" "adbb860c1808911147a2a1a177088804" "b725250ea5b45ca139347e347af283a4" "2d7ba1b568288318cbdb81ab3cf44b71" "05e128bebf9df77cb2a00736d272e359" "c7189ffe18dc4432668759008bca5a92" "f5a23215a07e771b80ebcea8fa73ace5" "52d958d2fd3da495a36bd45d7b2567e3" "0b852be79c3bb522181ae1cb30f64085" "e3a7c7cc04dfc00993848b4bf705fe59" "3430129d35a106a8a5c15983754b9323" "df3fb9e57e85ce28012020eb319d0e00" "f555dd3ae03cee1ce11638c3c9b8fdc1" "fab7550204eba7fe23a27886b74cae26" "9f289d615d884446895880970cb4189b" "98688891ea090efc47366556647e61a7" "5dccf963cb885630c6b012e0532862de" "4df955885ce52daf5e66ec5817db7e8a" "96b22ae528f7db909a6414e34e429b53" "fbf88065f2456c64ac56db12ef236fdd" "b61a728ae3888cfbc6c3bca523e72151" "fdbc3f71ec01e2687aeae9a95d154d3c" "19d77a1c5f24b4bb230206e29ee590ae" "c1c44f731355a9e588eb24ecb7d1569f" "78aa589e5f63a37b60f8b673ad9db33d" "4eccedd865b39b0ae2a6a73b2a4f386d" "1f86860743097ad6647dc0bd3c4efe65" "be9e3111f98e54c4908e7002943a45cd" "4993628708060ecb123821d49e502477" "c6387fa4390f2bc24ef501689bc13942" "1096abcf5bc0889ff5d3f8071dbe8326" "ba5a7db5d7a26a3a27cb560c19b855c4" "00b5204e79471109f5080e122064464a" "90eda1b6a4c4c70d6b948d49d9fac0a0" "bb339ea4b9aad72b70bef3451e601202" "ba42cd303c0fe6ec4f7eeddf222ab6e1" "c28191c78ee35e1a9ffbb768494c846f" "b9649cc4d40594e93f0d84d6fbd95698" "0af950981cec14ada16f12dbb41b4239" "458718eb7fbdc7c2a8fa21a0e28768d5" "ad05971eb39d0e2db9bff2cb0f86157c" "8e79061e933ee3de23e018b90df7d55d" "e7d82d72413674c31de20d1d9733bfc9" "40f9c4293b2f04afc0a99961ea775ce0" "f8020645bd0787a500de106c18d1b9ab" "9a6bbc6fd0218d6ee673565b6c9a4440" "af2c5c465369260eda47c5538c4e0625" "73541c88925eeb51cb061eaff3253535" "e88e0598f11116533fed189c224f116e" "e8c4467b0670deb0e44f20b6166325bf" "7307ffb2e1cd9a1e30e0a039226bc300" "7cee54d3211c35d697d420bb040c713f" "7260ccc7fcdd1849ab85e48ceef33f36" "c12e72f8585866803c2c111fc1d317cd" "bcf9ee6d4c96966ca53923cd0505c6ea" "239ca8f1f702e31d11a61965f76c5672" "041b29d2323b56ebca0eb4130dc54f0a" "40a366181b227babd42b4b0ca400749d" "23c07af5e4936e40095e8a61bdd65fc3" "08e212e3e4dcf1f062e039b714597424" "bd81275077e11388cb03200b285a71a5" "c9e81be06f57a6417557bc467c5b855b" "71d85a5430483c6758aa2bddfc0aba15" "b35fd069d2190dd8035fad5f41e78c88" "55b6145c084b6eeaedbc1db72878e409" "38720134c4f949707e037e7164e0d922" "6d73807a178367c7645c3602512ecf65" "c41f8d7b4aa27f2420885facaa085e22" "0b639f349e657c86be92424c0b1de4c8" "2d1f8ffee0472691098c37ba437b793d" "8ed96dde77813b541927a435f34cc499" "85ebab0b3f8c3cfef49c61453101896c" "303c3e6a4965d8dd958cec581a8a83cc" "3d54edaf785444548b8e404a0c532ebe" "f6a2d0e9d3fc183c3579dd4b5f1f0ce3" "5037a27c1bbc6ba85c1e7361e9438e91" "436e5f612ea55d59e6d181b9a49c5cb9" "98543fd71cf56f79e0fdd16b681f0350" "cc0affd45872a0d69a74933766404b32" "11185578f81ddd429165c0947ba4ae45" "55bddbbd809fd0d5cf64c2e249d02001" "31b318acc4e37c3d736c9339ebeeaaf6" "a2b2fe0c3e78480aed6c1412c6ef7468" "b6ca2b1f8835ea39f37a87f424cd90ec" "eb439d73dec0445580506e08cf161a3a" "2fd9fc1a8d576e1521311a5faa1c5be6" "16d1411501327a5a983367ee45b85817" "8dbd65eb43c2c05af654b00a10e81249" "80576d126a9da03f07a69ac89ee1efce" "747421dde42bb4c0923db2d75ddf3c08" "90e0e9b97ef1345ed778ec716574a8e8" "e3140692f87f85fd2805f6f4b260d1db" "5124bb2feccd9689ca22608439f04fc1" "9468fb455ed291d6d7d03edb4a558f3f" "abf93784c013da9177bd2fcfc4873936" "2fc317981de4d55d4d8bba402e10510b" "550286595444cc708fd586abb514fa5e" "a4a2d8b6cb897c6b676cd891f1e45edb" "e69805f129321ef82ef569157a18662f" "6286143dabbed9f0669574ff01dca5dd" "94f883d3f1580b4afe7acdb607ffc456" "5d85c315d57e33198607d033d165c4d6" "b53322c5945deb54c2013da68a19b0d2" "c80445f2dd46f29d416d015c72f05d63" "363d2d39eaba72e28ef5851921547a76" "28ded2e5b3f16ae44a52b149369f2961" "2fc0204e7e0b43152a0a28c13d9c89b8" "83eb79425bd308c19c2f43b9a969a795" "148e537b2944c62bb1475b25f4eeeb91" "572a7a581d1e56fa1a0adc70e4d56b9e" "e65625110237e75ef5b2a7f43fd510a8" "1c763fd509e78553421e1efe39490336" "3f7ef34f87bb10090d8efea00efe6f41" "23f7d1a53fe0133b75a3c438c70eaad0" "94feb89a6fa36877f07becfb1b337be4" "d60bae2815af8779aa314f18c5aa5252" "7769d2cfb31bbaf32996eadd9b7fd462" "3b2e3efc6f2f2dbf392e171037f00017" "9ba612461b8f9e547f0abc4d686ced3f" "a0e450b19d5b0b52200edb613740fe61" "060758c37a6cd6307543b3eaac670892" "10aff91f720a98efaf54de5c6311f750" "019eb96755437a3447f0579b041a4337" "20b0cadddf4264e11321372ad24324a8" "cc245f7cd87866b0fdbd427b3c4d29e9" "b8dca68e477d553006f0124f7d06ee73" "77fb86568cbdcf1478ee0e6adf63b10f" "111b03e6534ba1158571d6a44407e20d" "08ebe97c907cc990cd72243da8de86cf" "4ca72a2c6c95b360efb4955c11619540" "9076cec378e6f1adc1a0e5768350b817" "fffcbbaa9f73f38e9ea07527a98f9781" "c7f710f3ba9684e66a402015f2fdf63c" "fc813c06dedc89dacc30d6b1bafbc0c8")))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Height")))   ((lambda (option) (if option ((gnc:option-setter option) 450.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Maximum Slices")))   ((lambda (option) (if option ((gnc:option-setter option) 11.0))) option)) (let ((option (gnc:lookup-option options                                  "Display"                                  "Plot Width")))   ((lambda (option) (if option ((gnc:option-setter option) 1200.0))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" "4e59e3957b51e327859855571f915dad" options)   (gnc:restore-report-by-guid 0 "9bf1892805cb4336be6320fe48ce5446" "Expense Accounts" options)) )
+
+[Page 4]
+PageType=GncPluginPageReport
+PageName=FB2018
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "FB2018"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1543543200 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1514772000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "c5a90f265a5781d73c4639de668bada9" "04b48f599d4355f7acdea9a492a69c18" "d760bbee6d2e677cbc2489bb35210fc7" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "62ce7f52f65c4305f6178dd340be1264" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "545d4fdf9b56af72ca31b3b6069a99cf" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "558de230e312c622697189d1e679ea4e" "8ab207f14ff57e0420eed34fe5dce95e" "54ce029d27dde236a3fa6f3db0fd3572" "efdbdee312f96f9f7be31384f7a064fc" "d3049f6af8dbb6188d0640501b773931" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "a0480fcb0900b73b41921394895d5065" "bc417ceda1989f477542ce5e80a5f958" "8e4ca59e22bd22f022adec72760c9b64" "60a4ecd13f311cd26f101a1d4c87ba4c" "6e34dc055b4af422b35f2ea19028d63a" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "a7d5e9f5326eb4377a08a0251f7aabe1" "34a64b690049c1df4ac2d00718663255" "159e5f9838d9c86e6b8aa83f6ebbee68" "edd350ad9750e78408a1a3c5053bf35c" "fefaaa94169556d92cfd7e54ae4905b6" "e379dc2b33c2628b800a510c1b852f49" "6eb82bf89213099aaecbf05c1733dddf" "7684a8f8ee1fd40a87396683c224fd42" "fb34d6ebef3cfb090b78566fa1900947" "d7cc4951b3c0c5b934eda9fa13fd012a" "f78eca3c0c989044c6a00eee7323f936" "6067b931210fb3d2ff2c67c11763128b" "e193f96a45719ed2d3c43049adff971e" "1ea4d9bcb03fbd81b7ab6362a82e441e" "3c5ac96453c6680d1fc80b384f1b6d62" "15974632865ba98d2cdda03f99151a2e" "908694b2947daabd0279bcec0aeaf093" "d6647dd34830cbcb2cb215f24d2d9398" "b29ad73d84fad465dcfcd86ce63eb65a" "bacef4c900d256abc6bb5f612440bfbd" "75e9b13dde17ad95dae7179559fc2052" "baffc836f8af77502e62c56ed0666e1e" "e388e580bc9ddfeb6e35d1eb7a342602" "5a915bd256fe40315b302e08229f80e3" "d21a3d79903da788581f26801301bf06" "e4dc42c6d6e687818b668ed0d13f31e5" "d3ebd3ed3d9f5652f4999d6ec50a3470" "6ffb9eb3d9e74fe73fe5767202323c43" "132be4dbac59b8190a04e609ee8f9fc6" "9e24f55b61148e6398c03266da96ac29" "d99a08cb54e8c795a5b5a1813385589d" "78e87c765370ef6c0e61fa065bf7627c" "590c8eaf4871006505b81d8cbc416889" "504278b78a418517801c071e4ccaf000" "04d3cc2fd895867b7857da7140f96def" "7b8d3b704c2e3de24e0bcaf2630272c8" "40c35d046c39461a1a2524e1e52d41a4" "212dd1a89a36e1d044a65edff5aac713" "40196f3bb9db949ce9e698a096f30674" "3ac5aaf279cf1d473cdc2a9f085b0f16" "6385bd9b1957aaee29cf224a7da979f6" "73808b30abb28d33e412916a8e1c2763" "9a69e6e49c82be56f2171e9e634400ed" "a879e13230ea7a65e278c75baabfc75f" "d3fb57079a14e78d9a5d75c9a5519e4e" "912610d78268a8a17a3cd7e0fc16000b" "4650207e23f6ea7af34b091cfd01984a" "d191d40068b11455c510a9fa13ee08c4" "7c768e50496794b7acd82ddacb3402b9" "34835b54907afe52beb5f754dc40260e" "a37b339ba2f4455f017b427945a568f0" "6adba858d72fb4168f9ac59fc168f41c" "02ed72ab0892be9db338ea1e218642db" "0017d9ab6b95a9235f243f59cb81e15c" "c1653c12cad1e5d5fc76d3f318787af7" "5191af7072b2a31995a5a618b872959a" "e2d55d14f71d9f38fa89aa7872407122" "ac3bd6d2f0311f5ed0cd765f346c8843" "71b23f266c8726d4bb0932b2efaaf30b" "7e9dde3235e9d363eac2d32b83d8182b" "3fd64dc42afb0ed921983f757c0f42e9" "5af03b99b30a01eec954536336e8e4ec" "8902ca019e7aa4c8cc9422043614e479" "d902ee59692babacc2d0ca0ecc94b7f2" "b0b24484c31ccb777ba8861cc972059e" "a07c97410c1c50d4e88c19d661f00e50" "1ab4731a1dd83c442c89b08fc559a3a3" "adebe318841c3dbc7138a432761168d1" "8e08f4048fac1964b494b0ce4cbd7788" "1ebc19b2688b257bad16d8c1e71b4079" "6617b6f8f4752580f659ecd6f7bf3daf" "214477050cbb9079a4eb1c06d0b7a57a" "711d24bdf647d2a2d961690422b2183a" "5a0b16231f149e3b8f18a530b3c650e6" "8741d49054b80ff487d09944769a1e3c" "29c47de34790cc53a6d8581d4fd984f0" "8d83682267c12be54d9d5a50dd1ee6e8" "43155ade2fbc9b6c0dcfced7535170c0" "2fa906a8560431a46e3fbe21be2409f8" "e2a33a3a51fc08e7f148173dafcf5871" "4a56eea7508dd6ea55d716146e492d68" "5a182ca20592c0d6be93a84d648cc6da" "57007ebcc0758efb71c92d8d5deb955b" "e63de20919fa4f9af1441f92370991c5" "efa94cb46f390e918bdd39a10a4ffd73" "08a784e98aaa44e9e1ad3692a5c7963a" "78431667e91088dcd51a92bbdd5fb400" "a5eeea35252e05eb4492e175a7caaa09" "56227047abc1ba75c3892458f614eecd" "14be98855d17790d0a8b993640d5dc62" "baf0e310ee7bd9ddf9dad523e07adcde" "d264b78d0d047f0075d5f01d4d28855f" "5fb1f306a3d3f1d92efc6356b1e905ce" "22c3e25db4d593856880119c64abd2a8" "7fa179f1698030eb7045cd0119af28ae" "5ac3cb12ead8baba620edcd696d2de30" "dbfcb5f1d6fffaa0cd56e0b200484745" "2e7ca013010b09982f50ea51e5a29c42" "3d06650b138818a0fcd79d53ee50ddd4" "ccfae4c620b9201afb2b7964cab9dc8e" "23bab0b4b738cd0378fd2048d46cd9c3" "145da3d60f6ee8b4bb0d25b00b83d84f" "afeb38711f0160f6f7c0952ca871801e" "5b9177ceb90f92c74414a3e63a20627f" "1695a574cf84a7799a57b6807d5f4061" "0db8bcbcf2ba5fb17676903f5d5089e9" "553e87eac489134743301d41c31cf97f" "a3445fce572bf6a80b2cac714dc7a15f" "2c71137f1950efe3b42a3098d2312097" "3660f1d9143cc62f9ef47c67d621d952" "d5e949e8c9726f3b10500f06d60b82b1" "db5ae085259fe77cde55e3ab703af549" "12671f42aa979a3b355386565a6dba23" "c75851782bae281ce16b221e1647840e" "7be34e973f771b2c69cd3bc2a7f2d825" "1313c387eb52c52364ef63d14432a70c" "d719f55b8b27e9f67f10f376c9475b21" "35d8361ee27e1fd3b71e8ead8b4896b7" "03bcf0b47d3de3e34f79b877b333dffd" "7e3f4a98a1cea3c6816d6c54e0b2b36f" "78f16cc0a591b86e73fd9fc1ec0c4c79" "08d5ec7bd9940ab855d163745461bb6d" "c9e5ee63008efa5fb0b9d1ea14cd4b36" "4e89b84ebc02d45409b443b81809188a" "7ee24f8838e161349fed49ec00cdcaa9" "b0df05faf00d871125e24a1e9ace5036" "da565ce45183c495eac83ac9efe08cc2" "8211388544a81975ffc6851aa5273c0f" "d4e31f9d8561656298f02663f2bb7589" "47bd42be9745cdda3f9f53f9a00aa9b8" "67fe0e4060b320f150018fdd07818dea" "51d065622f28dde9c84b799acea94bf0" "41c4918efc99d90c78ea368d6205930d" "f3836d8ee48f0d7ad0ec124f6db81b29" "444b7721d2c73d6155040afe7e624b4b" "209a80a8a64758265a04117debed2d4f" "7d793b6eb60ef1456b7dd073c58fb460" "53217de4cb9f1eb6eeb99e01c836097b" "df2e735dfc0d2d84dbcf63c470aa8406" "f4bb848f94ac102b06e148f524097ab2" "5796f056323472d68df38d9c365925eb" "6359e261cb95ef36e0a6e0c2c6dbe38e" "9c50e42c583dba613ee4ed8809f740d9" "ec4e3ce42e14f5f4018c00dfd2e7e03a" "5c911dbadbb3e59f9b9fb0aba22baba6" "c2b94476674bfa5234062ef23f869082" "c6bb27e45dfac87d1e6ca1eaf47f7d45" "5264e95454130e1e237669a2247ddb0a" "217c3c6873537339df644e60427f0e2c" "3b1ea2651a8a0863f765042749783767" "c7bc745ce1f0ecc04ae027ac6c786185" "6169d71e28955ed4a5303b24ddb8446c" "db5cd52b9fccddf59ac1a06515bddfe2" "ab4f55cb1cf8f95bf78c4132f244d9a7" "ca8552cf2c2ce3e8917dfdd67964d2bc" "a4151fda6d59185551f7516bafc9cb53" "b25d3ad09922a480b87f5f04b657e951" "24c82a0daf4e71d4f2335423bcae98c6" "917bc0db8def7bcd77590512d2f1e4d8" "390707a3e3faab2cafbc78bae0c74c4f" "6b3fe5e6974ada0cb383a16e1695d26b" "70b486cc339c6f3a0e954629b0f40182" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "f91975c5b104f9b4acb3f9c3df05d68e" "59a9465cb5d6942583ae50fe58af7846" "61945b8bab5460a1662aed24ca11a3df" "3879273036c7896ee17cbad028f01d87" "a17c1b3184b7086820ff6e07fb5615b9" "f2c83d4a2d26ecaa38cdc40a44e9b863" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "e79668f5c8421ce17f46eda3e5d8022a" "494755f3df5ca83d5964131dc5837171" "fc756d9597284aa5ad37c73c1c363102" "e9f907609d32ca6acb571a8a22fefe77" "b137c79089ec2916043a5bff6bd33c62" "1f44a3bee662760f3fd4b6c319009d3b" "75e54c10f0c0bf4a78c530df533ec4c0" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "bc6b2033a63e4935f250e1a36abdf47f" "c89e5d7141afbfeaad0fc0b0c9ac78db" "248b1026d222898d5422c560b2c63157" "93520c7e8173592ecbfcca6aed6ec294" "6d651e1899b1c1dae3ce5f79cdf320a4" "84766270cfae54658c399c22bc48dcb1" "fabb3bfad37a8d3bc1a8fa7f3de97776" "5fe3de169ec2cf5a436796aa5e6ff522" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "93a1a2b173a068e722436d1fc54a492c" "77ad3cd3a090f538458ac6b11d9e8017" "53635f21661d0a9738e11c92df8ee2ea" "7de2308a7cf89eb961dc00943cb68842" "e859cda933b1d5425e2c93e27285da94" "91103ec6d321aa92277255e7111dca20" "af4ba5db0aefb431b62bb68453abcbc0" "ca27e250b0a6a35b213f2535a6b1f28e" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "664f80cd593fc04f93d2f430109db89f" "06bbc4c454354cde76e21f842c1964b6" "355d35992b37e0e072a99e238923ce2c" "1fa218b438b328e284978cc79415dd9d" "3e970a95c53fcbef14f1ef0c15aabaac" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "5c80da0951028df9c98b81b05ac836f2" "ef6f59ef927753e42274eca0e51260df" "fc7699e49fab29cf7426aa84c8ebb82d" "3c8b702deca2ca3df02daef3ecd1dda0" "65490413655987c49b0644f040b7528f" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "1202ab3a0144b293607e151efda26970" "023474611cd6ca3059281699579f7b54" "2de9dad5cc81a70e3310e53c846d2e6e" "c72cc24f371c89c54af39caac909c6c3" "d2d7c91aa1a1d019b7e33ebef66a0670" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "cc746b68f0e75de5079dc5fe0a52c5c7" "1d91dc2c24525befbccd219dd752c129" "f818a500835d6d1db376ccad3a904467" "94cf558cfeedc776a971b6531426beee" "bc9750a507509242bedc66842d70b6de" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "c85cf06395a9fe76a0b4056807382c7a" "7dd311992e2c135d2724d914165d758c" "86319f507f6f9d0e978372643b966bf5" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "8d3e070a3e0e8b730ad97dcd4dc00238" "cfb5bd73e1413ce37bd155f253e63ca7" "227c22fd3462aa56e828663398ff2508" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "7dfbc95690bda1c62d2bdd320bb61ef4" "345f2f8a02c3e4fcbd2ff811f73d4b28" "30f0f1d469bf8435d953a41275212219" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76" "fe2fbda168faea11da3052df64068a1b" "dabb29db7892e350c654a7d52670b24b")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 35 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "71f299e589d02cf6a674e4fbd6d60de0" options)   (gnc:restore-report-by-guid 35 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 5]
+PageType=GncPluginPageReport
+PageName=FBDez18
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "FBDez18"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546221600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1543629600 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "c5a90f265a5781d73c4639de668bada9" "04b48f599d4355f7acdea9a492a69c18" "d760bbee6d2e677cbc2489bb35210fc7" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "62ce7f52f65c4305f6178dd340be1264" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "545d4fdf9b56af72ca31b3b6069a99cf" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "558de230e312c622697189d1e679ea4e" "8ab207f14ff57e0420eed34fe5dce95e" "54ce029d27dde236a3fa6f3db0fd3572" "efdbdee312f96f9f7be31384f7a064fc" "d3049f6af8dbb6188d0640501b773931" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "a0480fcb0900b73b41921394895d5065" "bc417ceda1989f477542ce5e80a5f958" "8e4ca59e22bd22f022adec72760c9b64" "60a4ecd13f311cd26f101a1d4c87ba4c" "6e34dc055b4af422b35f2ea19028d63a" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "a7d5e9f5326eb4377a08a0251f7aabe1" "34a64b690049c1df4ac2d00718663255" "159e5f9838d9c86e6b8aa83f6ebbee68" "edd350ad9750e78408a1a3c5053bf35c" "fefaaa94169556d92cfd7e54ae4905b6" "e379dc2b33c2628b800a510c1b852f49" "6eb82bf89213099aaecbf05c1733dddf" "7684a8f8ee1fd40a87396683c224fd42" "fb34d6ebef3cfb090b78566fa1900947" "d7cc4951b3c0c5b934eda9fa13fd012a" "f78eca3c0c989044c6a00eee7323f936" "6067b931210fb3d2ff2c67c11763128b" "e193f96a45719ed2d3c43049adff971e" "1ea4d9bcb03fbd81b7ab6362a82e441e" "3c5ac96453c6680d1fc80b384f1b6d62" "15974632865ba98d2cdda03f99151a2e" "908694b2947daabd0279bcec0aeaf093" "d6647dd34830cbcb2cb215f24d2d9398" "b29ad73d84fad465dcfcd86ce63eb65a" "bacef4c900d256abc6bb5f612440bfbd" "75e9b13dde17ad95dae7179559fc2052" "baffc836f8af77502e62c56ed0666e1e" "e388e580bc9ddfeb6e35d1eb7a342602" "5a915bd256fe40315b302e08229f80e3" "d21a3d79903da788581f26801301bf06" "e4dc42c6d6e687818b668ed0d13f31e5" "d3ebd3ed3d9f5652f4999d6ec50a3470" "6ffb9eb3d9e74fe73fe5767202323c43" "132be4dbac59b8190a04e609ee8f9fc6" "9e24f55b61148e6398c03266da96ac29" "d99a08cb54e8c795a5b5a1813385589d" "78e87c765370ef6c0e61fa065bf7627c" "590c8eaf4871006505b81d8cbc416889" "504278b78a418517801c071e4ccaf000" "04d3cc2fd895867b7857da7140f96def" "7b8d3b704c2e3de24e0bcaf2630272c8" "40c35d046c39461a1a2524e1e52d41a4" "212dd1a89a36e1d044a65edff5aac713" "40196f3bb9db949ce9e698a096f30674" "3ac5aaf279cf1d473cdc2a9f085b0f16" "6385bd9b1957aaee29cf224a7da979f6" "73808b30abb28d33e412916a8e1c2763" "9a69e6e49c82be56f2171e9e634400ed" "a879e13230ea7a65e278c75baabfc75f" "d3fb57079a14e78d9a5d75c9a5519e4e" "912610d78268a8a17a3cd7e0fc16000b" "4650207e23f6ea7af34b091cfd01984a" "d191d40068b11455c510a9fa13ee08c4" "7c768e50496794b7acd82ddacb3402b9" "34835b54907afe52beb5f754dc40260e" "a37b339ba2f4455f017b427945a568f0" "6adba858d72fb4168f9ac59fc168f41c" "02ed72ab0892be9db338ea1e218642db" "0017d9ab6b95a9235f243f59cb81e15c" "c1653c12cad1e5d5fc76d3f318787af7" "5191af7072b2a31995a5a618b872959a" "e2d55d14f71d9f38fa89aa7872407122" "ac3bd6d2f0311f5ed0cd765f346c8843" "71b23f266c8726d4bb0932b2efaaf30b" "7e9dde3235e9d363eac2d32b83d8182b" "3fd64dc42afb0ed921983f757c0f42e9" "5af03b99b30a01eec954536336e8e4ec" "8902ca019e7aa4c8cc9422043614e479" "d902ee59692babacc2d0ca0ecc94b7f2" "b0b24484c31ccb777ba8861cc972059e" "a07c97410c1c50d4e88c19d661f00e50" "1ab4731a1dd83c442c89b08fc559a3a3" "adebe318841c3dbc7138a432761168d1" "8e08f4048fac1964b494b0ce4cbd7788" "1ebc19b2688b257bad16d8c1e71b4079" "6617b6f8f4752580f659ecd6f7bf3daf" "214477050cbb9079a4eb1c06d0b7a57a" "711d24bdf647d2a2d961690422b2183a" "5a0b16231f149e3b8f18a530b3c650e6" "8741d49054b80ff487d09944769a1e3c" "29c47de34790cc53a6d8581d4fd984f0" "8d83682267c12be54d9d5a50dd1ee6e8" "43155ade2fbc9b6c0dcfced7535170c0" "2fa906a8560431a46e3fbe21be2409f8" "e2a33a3a51fc08e7f148173dafcf5871" "4a56eea7508dd6ea55d716146e492d68" "5a182ca20592c0d6be93a84d648cc6da" "57007ebcc0758efb71c92d8d5deb955b" "e63de20919fa4f9af1441f92370991c5" "efa94cb46f390e918bdd39a10a4ffd73" "08a784e98aaa44e9e1ad3692a5c7963a" "78431667e91088dcd51a92bbdd5fb400" "a5eeea35252e05eb4492e175a7caaa09" "56227047abc1ba75c3892458f614eecd" "14be98855d17790d0a8b993640d5dc62" "baf0e310ee7bd9ddf9dad523e07adcde" "d264b78d0d047f0075d5f01d4d28855f" "5fb1f306a3d3f1d92efc6356b1e905ce" "22c3e25db4d593856880119c64abd2a8" "7fa179f1698030eb7045cd0119af28ae" "5ac3cb12ead8baba620edcd696d2de30" "dbfcb5f1d6fffaa0cd56e0b200484745" "2e7ca013010b09982f50ea51e5a29c42" "3d06650b138818a0fcd79d53ee50ddd4" "ccfae4c620b9201afb2b7964cab9dc8e" "23bab0b4b738cd0378fd2048d46cd9c3" "145da3d60f6ee8b4bb0d25b00b83d84f" "afeb38711f0160f6f7c0952ca871801e" "5b9177ceb90f92c74414a3e63a20627f" "1695a574cf84a7799a57b6807d5f4061" "0db8bcbcf2ba5fb17676903f5d5089e9" "553e87eac489134743301d41c31cf97f" "a3445fce572bf6a80b2cac714dc7a15f" "2c71137f1950efe3b42a3098d2312097" "3660f1d9143cc62f9ef47c67d621d952" "d5e949e8c9726f3b10500f06d60b82b1" "db5ae085259fe77cde55e3ab703af549" "12671f42aa979a3b355386565a6dba23" "c75851782bae281ce16b221e1647840e" "7be34e973f771b2c69cd3bc2a7f2d825" "1313c387eb52c52364ef63d14432a70c" "d719f55b8b27e9f67f10f376c9475b21" "35d8361ee27e1fd3b71e8ead8b4896b7" "03bcf0b47d3de3e34f79b877b333dffd" "7e3f4a98a1cea3c6816d6c54e0b2b36f" "78f16cc0a591b86e73fd9fc1ec0c4c79" "08d5ec7bd9940ab855d163745461bb6d" "c9e5ee63008efa5fb0b9d1ea14cd4b36" "4e89b84ebc02d45409b443b81809188a" "7ee24f8838e161349fed49ec00cdcaa9" "b0df05faf00d871125e24a1e9ace5036" "da565ce45183c495eac83ac9efe08cc2" "8211388544a81975ffc6851aa5273c0f" "d4e31f9d8561656298f02663f2bb7589" "47bd42be9745cdda3f9f53f9a00aa9b8" "67fe0e4060b320f150018fdd07818dea" "51d065622f28dde9c84b799acea94bf0" "41c4918efc99d90c78ea368d6205930d" "f3836d8ee48f0d7ad0ec124f6db81b29" "444b7721d2c73d6155040afe7e624b4b" "209a80a8a64758265a04117debed2d4f" "7d793b6eb60ef1456b7dd073c58fb460" "53217de4cb9f1eb6eeb99e01c836097b" "df2e735dfc0d2d84dbcf63c470aa8406" "f4bb848f94ac102b06e148f524097ab2" "5796f056323472d68df38d9c365925eb" "6359e261cb95ef36e0a6e0c2c6dbe38e" "9c50e42c583dba613ee4ed8809f740d9" "ec4e3ce42e14f5f4018c00dfd2e7e03a" "5c911dbadbb3e59f9b9fb0aba22baba6" "c2b94476674bfa5234062ef23f869082" "c6bb27e45dfac87d1e6ca1eaf47f7d45" "5264e95454130e1e237669a2247ddb0a" "217c3c6873537339df644e60427f0e2c" "3b1ea2651a8a0863f765042749783767" "c7bc745ce1f0ecc04ae027ac6c786185" "6169d71e28955ed4a5303b24ddb8446c" "db5cd52b9fccddf59ac1a06515bddfe2" "ab4f55cb1cf8f95bf78c4132f244d9a7" "ca8552cf2c2ce3e8917dfdd67964d2bc" "a4151fda6d59185551f7516bafc9cb53" "b25d3ad09922a480b87f5f04b657e951" "24c82a0daf4e71d4f2335423bcae98c6" "917bc0db8def7bcd77590512d2f1e4d8" "390707a3e3faab2cafbc78bae0c74c4f" "6b3fe5e6974ada0cb383a16e1695d26b" "70b486cc339c6f3a0e954629b0f40182" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "f91975c5b104f9b4acb3f9c3df05d68e" "59a9465cb5d6942583ae50fe58af7846" "61945b8bab5460a1662aed24ca11a3df" "3879273036c7896ee17cbad028f01d87" "a17c1b3184b7086820ff6e07fb5615b9" "f2c83d4a2d26ecaa38cdc40a44e9b863" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "e79668f5c8421ce17f46eda3e5d8022a" "494755f3df5ca83d5964131dc5837171" "fc756d9597284aa5ad37c73c1c363102" "e9f907609d32ca6acb571a8a22fefe77" "b137c79089ec2916043a5bff6bd33c62" "1f44a3bee662760f3fd4b6c319009d3b" "75e54c10f0c0bf4a78c530df533ec4c0" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "bc6b2033a63e4935f250e1a36abdf47f" "c89e5d7141afbfeaad0fc0b0c9ac78db" "248b1026d222898d5422c560b2c63157" "93520c7e8173592ecbfcca6aed6ec294" "6d651e1899b1c1dae3ce5f79cdf320a4" "84766270cfae54658c399c22bc48dcb1" "fabb3bfad37a8d3bc1a8fa7f3de97776" "5fe3de169ec2cf5a436796aa5e6ff522" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "93a1a2b173a068e722436d1fc54a492c" "77ad3cd3a090f538458ac6b11d9e8017" "53635f21661d0a9738e11c92df8ee2ea" "7de2308a7cf89eb961dc00943cb68842" "e859cda933b1d5425e2c93e27285da94" "91103ec6d321aa92277255e7111dca20" "af4ba5db0aefb431b62bb68453abcbc0" "ca27e250b0a6a35b213f2535a6b1f28e" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "664f80cd593fc04f93d2f430109db89f" "06bbc4c454354cde76e21f842c1964b6" "355d35992b37e0e072a99e238923ce2c" "1fa218b438b328e284978cc79415dd9d" "3e970a95c53fcbef14f1ef0c15aabaac" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "5c80da0951028df9c98b81b05ac836f2" "ef6f59ef927753e42274eca0e51260df" "fc7699e49fab29cf7426aa84c8ebb82d" "3c8b702deca2ca3df02daef3ecd1dda0" "65490413655987c49b0644f040b7528f" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "1202ab3a0144b293607e151efda26970" "023474611cd6ca3059281699579f7b54" "2de9dad5cc81a70e3310e53c846d2e6e" "c72cc24f371c89c54af39caac909c6c3" "d2d7c91aa1a1d019b7e33ebef66a0670" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "cc746b68f0e75de5079dc5fe0a52c5c7" "1d91dc2c24525befbccd219dd752c129" "f818a500835d6d1db376ccad3a904467" "94cf558cfeedc776a971b6531426beee" "bc9750a507509242bedc66842d70b6de" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "c85cf06395a9fe76a0b4056807382c7a" "7dd311992e2c135d2724d914165d758c" "86319f507f6f9d0e978372643b966bf5" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "8d3e070a3e0e8b730ad97dcd4dc00238" "cfb5bd73e1413ce37bd155f253e63ca7" "227c22fd3462aa56e828663398ff2508" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "7dfbc95690bda1c62d2bdd320bb61ef4" "345f2f8a02c3e4fcbd2ff811f73d4b28" "30f0f1d469bf8435d953a41275212219" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76" "fe2fbda168faea11da3052df64068a1b" "dabb29db7892e350c654a7d52670b24b")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 23 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "71f299e589d02cf6a674e4fbd6d60de0" options)   (gnc:restore-report-by-guid 23 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 6]
+PageType=GncPluginPageReport
+PageName=FBJan19
+SchemeOptions=(let ((options (gnc:report-template-new-options/report-guid "f8748b813fab4220ba26e743aedf38da" "Cash Flow"))) (let ((option (gnc:lookup-option options                                  "General"                                  "Stylesheet")))   ((lambda (option) (if option ((gnc:option-setter option) 'Technicolor))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Report name")))   ((lambda (option) (if option ((gnc:option-setter option) "FBJan19"))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "End Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1548900000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "General"                                  "Start Date")))   ((lambda (option) (if option ((gnc:option-setter option) '(absolute 1546308000 . 0)))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account")))   ((lambda (option) (if option ((gnc:option-setter option) '("59deff021fa9ae71e32a824c12d397ef" "c5a90f265a5781d73c4639de668bada9" "04b48f599d4355f7acdea9a492a69c18" "d760bbee6d2e677cbc2489bb35210fc7" "b9815bd719e9624e3a7552df25d82b2c" "0a1c2c0bb8175ee0870b3c6ccf853a4b" "62ce7f52f65c4305f6178dd340be1264" "39de1c73228329265f771a49f82e5b66" "9083d7b45e1bc91d3c8b96e0c3527808" "545d4fdf9b56af72ca31b3b6069a99cf" "2f61efef9ed16a345b1109990f597229" "e3028ca29f138282745df7ae5bc5bcb3" "c4e00c36a5b12d5780332818cd0857b5" "4fe265f53025abe3efcc5511fcccb48f" "b17674c38b908d9cbb2a5c4f5b32e882" "44a3baeb80f85520ad36f3c5e95e9b49" "64a02c3c6fb22c7301a2a589c332bb01" "558de230e312c622697189d1e679ea4e" "8ab207f14ff57e0420eed34fe5dce95e" "54ce029d27dde236a3fa6f3db0fd3572" "efdbdee312f96f9f7be31384f7a064fc" "d3049f6af8dbb6188d0640501b773931" "73e6a00c1bcbfd81fa36ce7a8eb3c6b9" "7c88d79663254fd56d4de79c48fef996" "4aabc00dc884eb14a6d5e4ae736caa83" "c66e4a9062f3a0de3eab9859d64c43e1" "a0480fcb0900b73b41921394895d5065" "bc417ceda1989f477542ce5e80a5f958" "8e4ca59e22bd22f022adec72760c9b64" "60a4ecd13f311cd26f101a1d4c87ba4c" "2221ec4ca1713b9a8ff2291ff36fac57" "6e34dc055b4af422b35f2ea19028d63a" "071685fea5b98c74cf1d379643b6620b" "0f3d546fa17171cf40498617c1a5354d" "a7d5e9f5326eb4377a08a0251f7aabe1" "34a64b690049c1df4ac2d00718663255" "159e5f9838d9c86e6b8aa83f6ebbee68" "edd350ad9750e78408a1a3c5053bf35c" "fefaaa94169556d92cfd7e54ae4905b6" "e379dc2b33c2628b800a510c1b852f49" "6eb82bf89213099aaecbf05c1733dddf" "7684a8f8ee1fd40a87396683c224fd42" "fb34d6ebef3cfb090b78566fa1900947" "d7cc4951b3c0c5b934eda9fa13fd012a" "f78eca3c0c989044c6a00eee7323f936" "6067b931210fb3d2ff2c67c11763128b" "e193f96a45719ed2d3c43049adff971e" "1ea4d9bcb03fbd81b7ab6362a82e441e" "3c5ac96453c6680d1fc80b384f1b6d62" "15974632865ba98d2cdda03f99151a2e" "908694b2947daabd0279bcec0aeaf093" "d6647dd34830cbcb2cb215f24d2d9398" "b29ad73d84fad465dcfcd86ce63eb65a" "bacef4c900d256abc6bb5f612440bfbd" "75e9b13dde17ad95dae7179559fc2052" "baffc836f8af77502e62c56ed0666e1e" "e388e580bc9ddfeb6e35d1eb7a342602" "5a915bd256fe40315b302e08229f80e3" "d21a3d79903da788581f26801301bf06" "e4dc42c6d6e687818b668ed0d13f31e5" "d3ebd3ed3d9f5652f4999d6ec50a3470" "6ffb9eb3d9e74fe73fe5767202323c43" "132be4dbac59b8190a04e609ee8f9fc6" "9e24f55b61148e6398c03266da96ac29" "d99a08cb54e8c795a5b5a1813385589d" "78e87c765370ef6c0e61fa065bf7627c" "590c8eaf4871006505b81d8cbc416889" "504278b78a418517801c071e4ccaf000" "04d3cc2fd895867b7857da7140f96def" "7b8d3b704c2e3de24e0bcaf2630272c8" "40c35d046c39461a1a2524e1e52d41a4" "212dd1a89a36e1d044a65edff5aac713" "40196f3bb9db949ce9e698a096f30674" "3ac5aaf279cf1d473cdc2a9f085b0f16" "6385bd9b1957aaee29cf224a7da979f6" "73808b30abb28d33e412916a8e1c2763" "9a69e6e49c82be56f2171e9e634400ed" "a879e13230ea7a65e278c75baabfc75f" "d3fb57079a14e78d9a5d75c9a5519e4e" "912610d78268a8a17a3cd7e0fc16000b" "4650207e23f6ea7af34b091cfd01984a" "d191d40068b11455c510a9fa13ee08c4" "7c768e50496794b7acd82ddacb3402b9" "34835b54907afe52beb5f754dc40260e" "a37b339ba2f4455f017b427945a568f0" "6adba858d72fb4168f9ac59fc168f41c" "02ed72ab0892be9db338ea1e218642db" "0017d9ab6b95a9235f243f59cb81e15c" "c1653c12cad1e5d5fc76d3f318787af7" "5191af7072b2a31995a5a618b872959a" "e2d55d14f71d9f38fa89aa7872407122" "ac3bd6d2f0311f5ed0cd765f346c8843" "71b23f266c8726d4bb0932b2efaaf30b" "7e9dde3235e9d363eac2d32b83d8182b" "3fd64dc42afb0ed921983f757c0f42e9" "5af03b99b30a01eec954536336e8e4ec" "8902ca019e7aa4c8cc9422043614e479" "d902ee59692babacc2d0ca0ecc94b7f2" "b0b24484c31ccb777ba8861cc972059e" "a07c97410c1c50d4e88c19d661f00e50" "1ab4731a1dd83c442c89b08fc559a3a3" "adebe318841c3dbc7138a432761168d1" "8e08f4048fac1964b494b0ce4cbd7788" "1ebc19b2688b257bad16d8c1e71b4079" "6617b6f8f4752580f659ecd6f7bf3daf" "214477050cbb9079a4eb1c06d0b7a57a" "711d24bdf647d2a2d961690422b2183a" "5a0b16231f149e3b8f18a530b3c650e6" "8741d49054b80ff487d09944769a1e3c" "29c47de34790cc53a6d8581d4fd984f0" "8d83682267c12be54d9d5a50dd1ee6e8" "43155ade2fbc9b6c0dcfced7535170c0" "2fa906a8560431a46e3fbe21be2409f8" "e2a33a3a51fc08e7f148173dafcf5871" "4a56eea7508dd6ea55d716146e492d68" "5a182ca20592c0d6be93a84d648cc6da" "57007ebcc0758efb71c92d8d5deb955b" "e63de20919fa4f9af1441f92370991c5" "efa94cb46f390e918bdd39a10a4ffd73" "08a784e98aaa44e9e1ad3692a5c7963a" "78431667e91088dcd51a92bbdd5fb400" "a5eeea35252e05eb4492e175a7caaa09" "56227047abc1ba75c3892458f614eecd" "14be98855d17790d0a8b993640d5dc62" "baf0e310ee7bd9ddf9dad523e07adcde" "d264b78d0d047f0075d5f01d4d28855f" "5fb1f306a3d3f1d92efc6356b1e905ce" "22c3e25db4d593856880119c64abd2a8" "7fa179f1698030eb7045cd0119af28ae" "5ac3cb12ead8baba620edcd696d2de30" "dbfcb5f1d6fffaa0cd56e0b200484745" "2e7ca013010b09982f50ea51e5a29c42" "3d06650b138818a0fcd79d53ee50ddd4" "ccfae4c620b9201afb2b7964cab9dc8e" "23bab0b4b738cd0378fd2048d46cd9c3" "145da3d60f6ee8b4bb0d25b00b83d84f" "afeb38711f0160f6f7c0952ca871801e" "5b9177ceb90f92c74414a3e63a20627f" "1695a574cf84a7799a57b6807d5f4061" "0db8bcbcf2ba5fb17676903f5d5089e9" "553e87eac489134743301d41c31cf97f" "a3445fce572bf6a80b2cac714dc7a15f" "2c71137f1950efe3b42a3098d2312097" "3660f1d9143cc62f9ef47c67d621d952" "d5e949e8c9726f3b10500f06d60b82b1" "db5ae085259fe77cde55e3ab703af549" "12671f42aa979a3b355386565a6dba23" "c75851782bae281ce16b221e1647840e" "7be34e973f771b2c69cd3bc2a7f2d825" "1313c387eb52c52364ef63d14432a70c" "d719f55b8b27e9f67f10f376c9475b21" "35d8361ee27e1fd3b71e8ead8b4896b7" "03bcf0b47d3de3e34f79b877b333dffd" "7e3f4a98a1cea3c6816d6c54e0b2b36f" "78f16cc0a591b86e73fd9fc1ec0c4c79" "08d5ec7bd9940ab855d163745461bb6d" "c9e5ee63008efa5fb0b9d1ea14cd4b36" "4e89b84ebc02d45409b443b81809188a" "7ee24f8838e161349fed49ec00cdcaa9" "b0df05faf00d871125e24a1e9ace5036" "da565ce45183c495eac83ac9efe08cc2" "8211388544a81975ffc6851aa5273c0f" "d4e31f9d8561656298f02663f2bb7589" "47bd42be9745cdda3f9f53f9a00aa9b8" "67fe0e4060b320f150018fdd07818dea" "51d065622f28dde9c84b799acea94bf0" "41c4918efc99d90c78ea368d6205930d" "f3836d8ee48f0d7ad0ec124f6db81b29" "444b7721d2c73d6155040afe7e624b4b" "209a80a8a64758265a04117debed2d4f" "7d793b6eb60ef1456b7dd073c58fb460" "53217de4cb9f1eb6eeb99e01c836097b" "df2e735dfc0d2d84dbcf63c470aa8406" "f4bb848f94ac102b06e148f524097ab2" "5796f056323472d68df38d9c365925eb" "6359e261cb95ef36e0a6e0c2c6dbe38e" "9c50e42c583dba613ee4ed8809f740d9" "ec4e3ce42e14f5f4018c00dfd2e7e03a" "5c911dbadbb3e59f9b9fb0aba22baba6" "c2b94476674bfa5234062ef23f869082" "c6bb27e45dfac87d1e6ca1eaf47f7d45" "5264e95454130e1e237669a2247ddb0a" "217c3c6873537339df644e60427f0e2c" "3b1ea2651a8a0863f765042749783767" "c7bc745ce1f0ecc04ae027ac6c786185" "6169d71e28955ed4a5303b24ddb8446c" "db5cd52b9fccddf59ac1a06515bddfe2" "ab4f55cb1cf8f95bf78c4132f244d9a7" "ca8552cf2c2ce3e8917dfdd67964d2bc" "a4151fda6d59185551f7516bafc9cb53" "b25d3ad09922a480b87f5f04b657e951" "24c82a0daf4e71d4f2335423bcae98c6" "917bc0db8def7bcd77590512d2f1e4d8" "390707a3e3faab2cafbc78bae0c74c4f" "6b3fe5e6974ada0cb383a16e1695d26b" "70b486cc339c6f3a0e954629b0f40182" "ff411dc724543b687d0e6f952036ce47" "f98adebdb77c6b42604d33d2a990d3bc" "f56da372412fd0b3e9b0de3e5f5f6cb0" "60fe8bfa5d106d7f5c5571401ef01467" "01885e8ae6c603bd2c92862a09f95d1c" "f91975c5b104f9b4acb3f9c3df05d68e" "59a9465cb5d6942583ae50fe58af7846" "61945b8bab5460a1662aed24ca11a3df" "3879273036c7896ee17cbad028f01d87" "a17c1b3184b7086820ff6e07fb5615b9" "f2c83d4a2d26ecaa38cdc40a44e9b863" "8750971a779b1368d69cfccd87b078c1" "4f2109dc6291925536d9933449268fff" "103db60a7759e862ce1b4b2cde28efee" "e79668f5c8421ce17f46eda3e5d8022a" "494755f3df5ca83d5964131dc5837171" "fc756d9597284aa5ad37c73c1c363102" "e9f907609d32ca6acb571a8a22fefe77" "b137c79089ec2916043a5bff6bd33c62" "1f44a3bee662760f3fd4b6c319009d3b" "75e54c10f0c0bf4a78c530df533ec4c0" "d2a2ca9d1ff0a0223d616f7e50750fde" "ae90211529cae2336f79f1bcc526bb49" "31403fa93912bdb4e668cb6f5e195f09" "d449870fbbd28d223fe264490e9213bf" "6cf29353fcadee2bb3013d38cad44cd4" "919dfb65ccbcd21cf4b72a1a95a3e8f4" "bc6b2033a63e4935f250e1a36abdf47f" "c89e5d7141afbfeaad0fc0b0c9ac78db" "248b1026d222898d5422c560b2c63157" "93520c7e8173592ecbfcca6aed6ec294" "6d651e1899b1c1dae3ce5f79cdf320a4" "84766270cfae54658c399c22bc48dcb1" "fabb3bfad37a8d3bc1a8fa7f3de97776" "5fe3de169ec2cf5a436796aa5e6ff522" "b5b103daa95be68ecd78bb63dd46921e" "a3e2e77f579970e5b4e7797c780f7a8f" "dac87df54cbe2e28ae64c6674b1fc098" "93a1a2b173a068e722436d1fc54a492c" "77ad3cd3a090f538458ac6b11d9e8017" "53635f21661d0a9738e11c92df8ee2ea" "7de2308a7cf89eb961dc00943cb68842" "e859cda933b1d5425e2c93e27285da94" "91103ec6d321aa92277255e7111dca20" "af4ba5db0aefb431b62bb68453abcbc0" "ca27e250b0a6a35b213f2535a6b1f28e" "9604638459e63a82a988a1de49343907" "d6f4edc5b1cecafede69ae937cfe55b2" "d722aea0116687d2cd63a34f13ccb4d8" "c027a5a4168bcf6e7b994c432fa5304c" "664f80cd593fc04f93d2f430109db89f" "06bbc4c454354cde76e21f842c1964b6" "355d35992b37e0e072a99e238923ce2c" "1fa218b438b328e284978cc79415dd9d" "3e970a95c53fcbef14f1ef0c15aabaac" "ef8b51d65c9fc0faa5dcd9205efeb348" "71cb8e44f505f27c270b884852006baf" "c2a12c2a06118b738517432405ca12b2" "5c80da0951028df9c98b81b05ac836f2" "ef6f59ef927753e42274eca0e51260df" "fc7699e49fab29cf7426aa84c8ebb82d" "3c8b702deca2ca3df02daef3ecd1dda0" "65490413655987c49b0644f040b7528f" "c257346f24d46d3a9ea38558716438e0" "a1f848cb7cf662133048cc3869d3b532" "183d0e6776766f34f8dacd9a5d31b3dc" "5a845264add56d4fadd350a2ea697517" "c419c23facd5b46b52062acb9fa9186c" "cd97865d3d4856c05042e13c1493174e" "1a9c17ad81e852f1c07410aa27746aaa" "1202ab3a0144b293607e151efda26970" "023474611cd6ca3059281699579f7b54" "2de9dad5cc81a70e3310e53c846d2e6e" "c72cc24f371c89c54af39caac909c6c3" "d2d7c91aa1a1d019b7e33ebef66a0670" "c64bceec3dbe1fcd48910dfd8e35f630" "4c5f9589f7594f5591bffa0babef0eb6" "bd67f84a36ec5962b07290fc03198d1c" "cc746b68f0e75de5079dc5fe0a52c5c7" "1d91dc2c24525befbccd219dd752c129" "f818a500835d6d1db376ccad3a904467" "94cf558cfeedc776a971b6531426beee" "bc9750a507509242bedc66842d70b6de" "7f324fd2b3c94fb10c79ba0342232566" "b8853caab7cf03217fb2b072da5eb0f7" "c85cf06395a9fe76a0b4056807382c7a" "7dd311992e2c135d2724d914165d758c" "86319f507f6f9d0e978372643b966bf5" "fa48436768831720dfd4f4944ba4bc66" "201d325c889d491ca9066dea8daeee23" "7b6205dd88fae84a16e3d8b633327f21" "716a5d7fd325b1748f33293ddc043972" "c8f5d698dfb0bb46f0cbb836475c4de7" "1fff5dbbe95e9f94ceb731ef78e58735" "37a5afb2b41864b2ab60bd6decc73d7f" "1126356cfb2559ceb08200f5128a05f3" "937db93307e0de5e36be83581849dc9f" "958a18533d9a3d61c5f3cae11bd9adfc" "8d3e070a3e0e8b730ad97dcd4dc00238" "cfb5bd73e1413ce37bd155f253e63ca7" "227c22fd3462aa56e828663398ff2508" "21dcf86ef96908ef8f6731d7e5be80ad" "e6edfa91f0c1c5972fb1daae8be20efc" "7dfbc95690bda1c62d2bdd320bb61ef4" "345f2f8a02c3e4fcbd2ff811f73d4b28" "30f0f1d469bf8435d953a41275212219" "a09fad73fcfe70d7b54897acc468593d" "2b254995ead3c66ec83a90b094209c06" "4da0724c3ed4e3614b4763d3dffd5458" "722e0d19b22c23b5c14236b0048b8c76" "fe2fbda168faea11da3052df64068a1b" "dabb29db7892e350c654a7d52670b24b")))) option)) (let ((option (gnc:lookup-option options                                  "Accounts"                                  "Account Display Depth")))   ((lambda (option) (if option ((gnc:option-setter option) '1))) option)) (if (defined? 'gnc:restore-report-by-guid-with-custom-template)   (gnc:restore-report-by-guid-with-custom-template 24 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" "71f299e589d02cf6a674e4fbd6d60de0" options)   (gnc:restore-report-by-guid 24 "f8748b813fab4220ba26e743aedf38da" "Cash Flow" options)) )
+
+[Page 7]
+PageType=GncPluginPageRegister
+PageName=2018IntMast
+RegisterType=Account
+AccountName=Ativos:ResCPrz:IntMast:2018IntMast
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 8]
+PageType=GncPluginPageRegister
+PageName=2018Estq
+RegisterType=Account
+AccountName=Ativos:Estq:2018Estq
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 9]
+PageType=GncPluginPageRegister
+PageName=2018InvestMASAtvFat3
+RegisterType=Account
+AccountName=Ativos:ResCPrz:InvestMAS:2018InvestMASAtvFat3
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 10]
+PageType=GncPluginPageRegister
+PageName=2018ResBR1
+RegisterType=Account
+AccountName=Ativos:ResCPrz:Cash:ResBR1:2018ResBR1
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 11]
+PageType=GncPluginPageRegister
+PageName=2018Vendas
+RegisterType=Account
+AccountName=Ativos:ResCPrz:Vendas:2018Vendas
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 12]
+PageType=GncPluginPageRegister
+PageName=2018AjMenAtv
+RegisterType=Account
+AccountName=Ativos:AjMenAtv:2018AjMenAtv
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 13]
+PageType=GncPluginPageRegister
+PageName=2018AjMenPas
+RegisterType=Account
+AccountName=Passivos:AjMenPas:2018AjMenPas
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 14]
+PageType=GncPluginPageRegister
+PageName=2018TransPasA+1
+RegisterType=Account
+AccountName=Passivos:TransPas:2018TransPasA+1
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 15]
+PageType=GncPluginPageRegister
+PageName=2019TransPasA-1
+RegisterType=Account
+AccountName=Passivos:TransPas:2019TransPasA-1
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 16]
+PageType=GncPluginPageRegister
+PageName=2019InvestMASAtvFat1
+RegisterType=Account
+AccountName=Ativos:ResCPrz:InvestMAS:2019InvestMASAtvFat1
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 17]
+PageType=GncPluginPageRegister
+PageName=2018MatPerm
+RegisterType=Account
+AccountName=Despesas:MatPerm:2018MatPerm
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 18]
+PageType=GncPluginPageRegister
+PageName=2019IntMast
+RegisterType=Account
+AccountName=Ativos:ResCPrz:IntMast:2019IntMast
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 19]
+PageType=GncPluginPageRegister
+PageName=2018InvestMASAtvFat2
+RegisterType=Account
+AccountName=Ativos:ResCPrz:InvestMAS:2018InvestMASAtvFat2
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 20]
+PageType=GncPluginPageRegister
+PageName=2018BRendasFatuPas
+RegisterType=Account
+AccountName=Passivos:EmpreendPas:2018BRendasFatuPas
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 21]
+PageType=GncPluginPageRegister
+PageName=2018InvestMASFatsPass
+RegisterType=Account
+AccountName=Passivos:InvestMASPas:2018InvestMASFatsPass
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 22]
+PageType=GncPluginPageRegister
+PageName=2018Restaurante
+RegisterType=Account
+AccountName=Despesas:Aliment:2018Restaurante
+RegisterStyle=Ledger
+DoubleLineMode=false
