@@ -11,10 +11,14 @@
             "id": "64e458a3309c2ea1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
+              "type": "markdown",
+              "state": {
+                "file": "data/gc3/_gc3_2509010815a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_gc3_2509010815a"
             }
           },
           {
@@ -181,6 +185,7 @@
   },
   "active": "64e458a3309c2ea1",
   "lastOpenFiles": [
+    "_gc_tyb.md",
     "data/gc3/cash03.xml.gnucash.20250901090245.log",
     "data/gc3/cash03.xml.gnucash.tmp-vbwCvZ",
     "data/gc3/cash03.xml.gnucash.20250901090245.gnucash",
@@ -189,13 +194,11 @@
     "data/gc3/cash03.xml.gnucash.LCK",
     "data/gc3/cash03.xml.gnucash.20250901085819.log",
     "criacao_gc_tyb_2509090830a.md",
-    "_gc_tyb.md",
     "data/clip/_clip_2509010816a.md",
     "data/gc3/_gc3_2509010815a.md",
     "data/clip/clip1.txt~",
     "data/clip/clip1.txt",
     "data/clip",
-    "data/gc3/clip.txt~",
     "README.md",
     "gc_tyb.md",
     "_gotacaja2.md"
