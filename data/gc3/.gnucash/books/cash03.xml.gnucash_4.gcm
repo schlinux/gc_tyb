@@ -3,10 +3,10 @@ BookGuid=4b8ce1a38a50a446ad7d6a1e9007549d
 WindowCount=1
 
 [Window 1]
-PageCount=8
+PageCount=10
 FirstPage=1
-PageOrder=4;1;6;5;7;8;2;3;
-WindowPosition=8;0;
+PageOrder=7;5;10;4;6;9;1;8;2;3;
+WindowPosition=-33;0;
 WindowGeometry=1590;850;
 WindowMaximized=false
 ToolbarVisible=true
@@ -19,6 +19,7 @@ PageName=Accounts
 AccountTypes=-1
 ShowHidden=false
 ShowZeroTotal=true
+SelectedAccount=Liabilities:Itaucard2025:ItaucardPG25
 OpenAccount1=Assets
 OpenAccount2=Equity
 OpenAccount3=Liabilities
@@ -78,5 +79,21 @@ PageType=GncPluginPageRegister
 PageName=Reserva
 RegisterType=Account
 AccountName=Assets:Current Assets:Reserva
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 9]
+PageType=GncPluginPageRegister
+PageName=ItaucardPG25
+RegisterType=Account
+AccountName=Liabilities:Itaucard2025:ItaucardPG25
+RegisterStyle=Ledger
+DoubleLineMode=false
+
+[Page 10]
+PageType=GncPluginPageRegister
+PageName=Basicas25
+RegisterType=Account
+AccountName=Expenses:Basicas25
 RegisterStyle=Ledger
 DoubleLineMode=false

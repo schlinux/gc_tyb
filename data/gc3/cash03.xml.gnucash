@@ -34,7 +34,7 @@
 <book:id type="guid">4b8ce1a38a50a446ad7d6a1e9007549d</book:id>
 <gnc:count-data cd:type="commodity">1</gnc:count-data>
 <gnc:count-data cd:type="account">57</gnc:count-data>
-<gnc:count-data cd:type="transaction">1042</gnc:count-data>
+<gnc:count-data cd:type="transaction">1052</gnc:count-data>
 <gnc:commodity version="2.0.0">
   <cmdty:space>ISO4217</cmdty:space>
   <cmdty:id>BRL</cmdty:id>
@@ -1222,7 +1222,7 @@
     </slot>
     <slot>
       <slot:key>last-num</slot:key>
-      <slot:value type="string">21</slot:value>
+      <slot:value type="string">31</slot:value>
     </slot>
     <slot>
       <slot:key>online_id</slot:key>
@@ -1754,7 +1754,7 @@
     </slot>
     <slot>
       <slot:key>last-num</slot:key>
-      <slot:value type="string">12</slot:value>
+      <slot:value type="string">13</slot:value>
     </slot>
   </act:slots>
   <act:parent type="guid">a226e1d32bda864b082768a7f8a07cff</act:parent>
@@ -10563,44 +10563,6 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
-  <trn:id type="guid">4401a2065e755ba906e51ecede0198b7</trn:id>
-  <trn:currency>
-    <cmdty:space>ISO4217</cmdty:space>
-    <cmdty:id>BRL</cmdty:id>
-  </trn:currency>
-  <trn:num>7</trn:num>
-  <trn:date-posted>
-    <ts:date>2025-08-18 00:00:00 -0300</ts:date>
-  </trn:date-posted>
-  <trn:date-entered>
-    <ts:date>2025-08-16 06:09:38 -0300</ts:date>
-  </trn:date-entered>
-  <trn:description>Transferencia Pix Des: Mauro Afonso Schipani 16/08 - ref 2508160524a.jpg</trn:description>
-  <trn:slots>
-    <slot>
-      <slot:key>notes</slot:key>
-      <slot:value type="string">OFX ext. info: |Trans type:Generic debit</slot:value>
-    </slot>
-  </trn:slots>
-  <trn:splits>
-    <trn:split>
-      <split:id type="guid">89ea3afdaf7e4a393cb26f8c2264577a</split:id>
-      <split:memo>Transferencia Pix Des: Mauro Afonso Schipani 11/08</split:memo>
-      <split:reconciled-state>c</split:reconciled-state>
-      <split:value>20000/100</split:value>
-      <split:quantity>20000/100</split:quantity>
-      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
-    </trn:split>
-    <trn:split>
-      <split:id type="guid">d5ef0539ac01479990adddce06b31b9e</split:id>
-      <split:reconciled-state>c</split:reconciled-state>
-      <split:value>-20000/100</split:value>
-      <split:quantity>-20000/100</split:quantity>
-      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
-    </trn:split>
-  </trn:splits>
-</gnc:transaction>
-<gnc:transaction version="2.0.0">
   <trn:id type="guid">8fdd96bd56b88e3699e2555786439dc1</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
@@ -10681,19 +10643,63 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
-  <trn:id type="guid">e40665ce9d0424fe78f6f4aa211410a1</trn:id>
+  <trn:id type="guid">4401a2065e755ba906e51ecede0198b7</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
     <cmdty:id>BRL</cmdty:id>
   </trn:currency>
-  <trn:num>10</trn:num>
+  <trn:num>7</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-27 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-08-16 06:09:38 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Transferencia Pix Des: Mauro Afonso Schipani 16/08 - ref ??2508160524a.jpg</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-08-27</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string">OFX ext. info: |Trans type:Generic debit</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">d5ef0539ac01479990adddce06b31b9e</split:id>
+      <split:reconciled-state>c</split:reconciled-state>
+      <split:value>50000/100</split:value>
+      <split:quantity>50000/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">89ea3afdaf7e4a393cb26f8c2264577a</split:id>
+      <split:memo>Transferencia Pix Des: Mauro Afonso Schipani 11/08</split:memo>
+      <split:reconciled-state>c</split:reconciled-state>
+      <split:value>-50000/100</split:value>
+      <split:quantity>-50000/100</split:quantity>
+      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">2eff99cef535c4d66a9b47071c79c39f</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>1</trn:num>
   <trn:date-posted>
     <ts:date>2025-08-29 00:00:00 -0300</ts:date>
   </trn:date-posted>
   <trn:date-entered>
-    <ts:date>2025-04-17 03:40:47 -0300</ts:date>
+    <ts:date>2025-04-17 03:30:34 -0300</ts:date>
   </trn:date-entered>
-  <trn:description>Ferracioli Set25 - fechado</trn:description>
+  <trn:description>Credito Itaucard Set25 BradMas - pg</trn:description>
   <trn:slots>
     <slot>
       <slot:key>notes</slot:key>
@@ -10702,17 +10708,17 @@
   </trn:slots>
   <trn:splits>
     <trn:split>
-      <split:id type="guid">d0010b00cdf60de74a63c61d0dd516b8</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>50000/100</split:value>
-      <split:quantity>50000/100</split:quantity>
-      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+      <split:id type="guid">82c518555c1fd387f6c1c407353accde</split:id>
+      <split:reconciled-state>c</split:reconciled-state>
+      <split:value>500000/100</split:value>
+      <split:quantity>500000/100</split:quantity>
+      <split:account type="guid">4392473a3083bff77d636f1263ded71d</split:account>
     </trn:split>
     <trn:split>
-      <split:id type="guid">344fe16d418a062875592cf4a618d058</split:id>
-      <split:reconciled-state>c</split:reconciled-state>
-      <split:value>-50000/100</split:value>
-      <split:quantity>-50000/100</split:quantity>
+      <split:id type="guid">d2837dd231404a7f18f51d5771fc2cd1</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-500000/100</split:value>
+      <split:quantity>-500000/100</split:quantity>
       <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
     </trn:split>
   </trn:splits>
@@ -10761,20 +10767,26 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
-  <trn:id type="guid">2eff99cef535c4d66a9b47071c79c39f</trn:id>
+  <trn:id type="guid">e40665ce9d0424fe78f6f4aa211410a1</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
     <cmdty:id>BRL</cmdty:id>
   </trn:currency>
-  <trn:num>11</trn:num>
+  <trn:num>15</trn:num>
   <trn:date-posted>
     <ts:date>2025-08-29 00:00:00 -0300</ts:date>
   </trn:date-posted>
   <trn:date-entered>
-    <ts:date>2025-04-17 03:30:34 -0300</ts:date>
+    <ts:date>2025-04-17 03:40:47 -0300</ts:date>
   </trn:date-entered>
-  <trn:description>Credito Itaucard Set25 BradMas - plj</trn:description>
+  <trn:description>Ferracioli Set25 - fechado</trn:description>
   <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-08-29</gdate>
+      </slot:value>
+    </slot>
     <slot>
       <slot:key>notes</slot:key>
       <slot:value type="string"></slot:value>
@@ -10782,17 +10794,17 @@
   </trn:slots>
   <trn:splits>
     <trn:split>
-      <split:id type="guid">82c518555c1fd387f6c1c407353accde</split:id>
+      <split:id type="guid">d0010b00cdf60de74a63c61d0dd516b8</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>600000/100</split:value>
-      <split:quantity>600000/100</split:quantity>
-      <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
+      <split:value>50000/100</split:value>
+      <split:quantity>50000/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
-      <split:id type="guid">d2837dd231404a7f18f51d5771fc2cd1</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-600000/100</split:value>
-      <split:quantity>-600000/100</split:quantity>
+      <split:id type="guid">344fe16d418a062875592cf4a618d058</split:id>
+      <split:reconciled-state>c</split:reconciled-state>
+      <split:value>-50000/100</split:value>
+      <split:quantity>-50000/100</split:quantity>
       <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
     </trn:split>
   </trn:splits>
@@ -11204,15 +11216,15 @@
     <trn:split>
       <split:id type="guid">4f68afe544708cc765dc606d4ad79e85</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>300000/100</split:value>
-      <split:quantity>300000/100</split:quantity>
+      <split:value>582700/100</split:value>
+      <split:quantity>582700/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">f30e02aae84fae8a99cc64382ee3e641</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-300000/100</split:value>
-      <split:quantity>-300000/100</split:quantity>
+      <split:value>-582700/100</split:value>
+      <split:quantity>-582700/100</split:quantity>
       <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
     </trn:split>
   </trn:splits>
@@ -20712,6 +20724,12 @@
   </trn:date-entered>
   <trn:description>Assungui575 Out25  -  plj</trn:description>
   <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-11-10</gdate>
+      </slot:value>
+    </slot>
     <slot>
       <slot:key>notes</slot:key>
       <slot:value type="string"></slot:value>
@@ -30661,6 +30679,7 @@
     <cmdty:space>ISO4217</cmdty:space>
     <cmdty:id>BRL</cmdty:id>
   </trn:currency>
+  <trn:num>a1</trn:num>
   <trn:date-posted>
     <ts:date>2025-08-11 00:00:00 -0300</ts:date>
   </trn:date-posted>
@@ -30707,6 +30726,7 @@
     <cmdty:space>ISO4217</cmdty:space>
     <cmdty:id>BRL</cmdty:id>
   </trn:currency>
+  <trn:num>a2</trn:num>
   <trn:date-posted>
     <ts:date>2025-08-11 00:00:00 -0300</ts:date>
   </trn:date-posted>
@@ -30794,6 +30814,359 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
+  <trn:id type="guid">627a6d42b636a9882190e7c025922a80</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>23</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-22 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 08:55:32 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Paroquia Santa Rita de Cassia - fechado - pg -ref ???2508030700a.jpg</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-08-22</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string">OFX ext. info: |Trans type:Electronic payment</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">814efa4a322c2453c0c1e50019ea045f</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>400/100</split:value>
+      <split:quantity>400/100</split:quantity>
+      <split:account type="guid">b5a461dfffddd4a1c5c15b56a2a3fe0b</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">759dbc566239d1ca0e1aa2bd49e60ba6</split:id>
+      <split:memo>Paroquia Nossa Senhora Ap Do Ipiranga</split:memo>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-400/100</split:value>
+      <split:quantity>-400/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">e92bb23bff4cf0b482ad1bb98a13c64d</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>24</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-23 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:00:58 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Paroquia Nossa Senhora Ap Do Ipiranga - fechado - pg -ref ???2508030700a.jpg</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string">OFX ext. info: |Trans type:Electronic payment</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">1168075d4c3165c17276aa924cc247f7</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>400/100</split:value>
+      <split:quantity>400/100</split:quantity>
+      <split:account type="guid">b5a461dfffddd4a1c5c15b56a2a3fe0b</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">97572c6d9a6022766b0e1335005802bf</split:id>
+      <split:memo>Paroquia Nossa Senhora Ap Do Ipiranga</split:memo>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-400/100</split:value>
+      <split:quantity>-400/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">2e2839f12eaa2b8386bec64da84bb7a4</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>25</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-26 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:02:20 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Taxi Unifesp - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">e2d174e2d3629e45142a82717c4f7ff9</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>3663/100</split:value>
+      <split:quantity>3663/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">f00235d90f6d155a794c6451e4efe597</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-3663/100</split:value>
+      <split:quantity>-3663/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">97788ee3c6583ba0b986e95e45d54498</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>26</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-26 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:03:34 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Livros Prof Walter Fajardo Unifesp - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">cbb93f763db040df646eda3dd7a8e78d</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>2000/100</split:value>
+      <split:quantity>2000/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">0a58b3ca2c6b2f1795b624492a7c22ca</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-2000/100</split:value>
+      <split:quantity>-2000/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">af61c8f23b0f4a4fcf318821038a2705</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>27</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-26 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:04:45 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Livros Prof Walter Fajardo Unifesp - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-08-26</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">84d08fbe8b1adcfee993ab8eead4e6a7</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>4000/100</split:value>
+      <split:quantity>4000/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">afbac3b22baab33d2f8f3c6a4eaa2f84</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-4000/100</split:value>
+      <split:quantity>-4000/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">e071ba2416d681962c54c26ce2137e32</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>28</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-28 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:05:43 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Taxi Fire dia 28ago - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-08-28</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">210f9f21d69f7a5ef01456caf3bd5846</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>3657/100</split:value>
+      <split:quantity>3657/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">4922769f64f4d2374dbe06a85fe8d609</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-3657/100</split:value>
+      <split:quantity>-3657/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">77d246f022662c870c86dc2c8c601160</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>29</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-29 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:13:13 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Taxi Fire dia 28ago - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">49ce46f40868090104af3de8e1bfda64</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>3807/100</split:value>
+      <split:quantity>3807/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">e3170c604408f35c4b368c449c7bdcb7</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-3807/100</split:value>
+      <split:quantity>-3807/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">6df1344007497266e332a48546f87a0f</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>30</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-30 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:14:25 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Taxi Fire dia 30ago - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">0eb3e442a4fd8f989c7245faa41eb78c</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>2370/100</split:value>
+      <split:quantity>2370/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">35c7e57314cad43c1c8ba820a05d0d8f</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-2370/100</split:value>
+      <split:quantity>-2370/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">d31e2087de78499cddafa86f6f8980a9</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>31</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-30 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 09:15:03 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Taxi Fire dia 30ago - ref ???2507081305a</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">0efc8af26a2198877b7466fb3363d360</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>5745/100</split:value>
+      <split:quantity>5745/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">fd8898d372e3b961aa264b5fba123ea4</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-5745/100</split:value>
+      <split:quantity>-5745/100</split:quantity>
+      <split:account type="guid">de76bdc4cd3a7425ab069fa77171de6c</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
   <trn:id type="guid">374bcb20ceb33f8e1b17c15a77fa6f71</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
@@ -30801,7 +31174,7 @@
   </trn:currency>
   <trn:num>10000</trn:num>
   <trn:date-posted>
-    <ts:date>2025-08-19 00:00:00 -0300</ts:date>
+    <ts:date>2025-09-30 00:00:00 -0300</ts:date>
   </trn:date-posted>
   <trn:date-entered>
     <ts:date>2025-08-04 09:08:26 -0300</ts:date>
@@ -30811,7 +31184,7 @@
     <slot>
       <slot:key>date-posted</slot:key>
       <slot:value type="gdate">
-        <gdate>2025-08-19</gdate>
+        <gdate>2025-09-30</gdate>
       </slot:value>
     </slot>
   </trn:slots>
@@ -42886,6 +43259,43 @@ SCHIPANI</trn:description>
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
+  <trn:id type="guid">f126aa38b598f6a5da32cecfb708c81c</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>2</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-08-29 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-09-04 08:41:32 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Credito Itaucard Set25 BradMas - pg</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">bd63382365845689ee5e819b9a2a8a33</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>500000/100</split:value>
+      <split:quantity>500000/100</split:quantity>
+      <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">0dd8bba8f2d9804bd2fd2bcede80e544</split:id>
+      <split:reconciled-state>c</split:reconciled-state>
+      <split:value>-500000/100</split:value>
+      <split:quantity>-500000/100</split:quantity>
+      <split:account type="guid">4392473a3083bff77d636f1263ded71d</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
   <trn:id type="guid">bab30be44be4d7fade4c1fb34eed05ef</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
@@ -42915,15 +43325,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">bf1c169bc7731a96fcc22c9a5ef19263</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>0/100</split:value>
-      <split:quantity>0/100</split:quantity>
+      <split:value>582700/100</split:value>
+      <split:quantity>582700/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">05d36f4e2d4536a5072549ffa3f51b14</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>0/100</split:value>
-      <split:quantity>0/100</split:quantity>
+      <split:value>-582700/100</split:value>
+      <split:quantity>-582700/100</split:quantity>
       <split:account type="guid">4392473a3083bff77d636f1263ded71d</split:account>
     </trn:split>
   </trn:splits>
@@ -42958,15 +43368,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">a7e1bd54ffd8ff21d6938f6b34475a5d</split:id>
       <split:reconciled-state>c</split:reconciled-state>
-      <split:value>0/100</split:value>
-      <split:quantity>0/100</split:quantity>
+      <split:value>582700/100</split:value>
+      <split:quantity>582700/100</split:quantity>
       <split:account type="guid">4392473a3083bff77d636f1263ded71d</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">62df7076426788bc357ac742eaba5782</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>0/100</split:value>
-      <split:quantity>0/100</split:quantity>
+      <split:value>-582700/100</split:value>
+      <split:quantity>-582700/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43378,15 +43788,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">9a24224058b0518a8aeca608c95ccb2d</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>843700/100</split:value>
-      <split:quantity>843700/100</split:quantity>
+      <split:value>582700/100</split:value>
+      <split:quantity>582700/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">a374c8f79e573115c33db5c75cbc710f</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-843700/100</split:value>
-      <split:quantity>-843700/100</split:quantity>
+      <split:value>-582700/100</split:value>
+      <split:quantity>-582700/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43415,15 +43825,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">e6721d08c5ab75f79419408e2c9bb226</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>56300/100</split:value>
-      <split:quantity>56300/100</split:quantity>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">91f1fe4a5f1bd86710da7c602d0bc429</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-56300/100</split:value>
-      <split:quantity>-56300/100</split:quantity>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43600,15 +44010,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">072d85b9324a0d32cf762920aa426572</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>268500/100</split:value>
-      <split:quantity>268500/100</split:quantity>
+      <split:value>291400/100</split:value>
+      <split:quantity>291400/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">7020a56f125cfa84e69ace8a1726959b</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-268500/100</split:value>
-      <split:quantity>-268500/100</split:quantity>
+      <split:value>-291400/100</split:value>
+      <split:quantity>-291400/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43637,15 +44047,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">af9218fc09126bb21a491ebf2c1d4128</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>441500/100</split:value>
-      <split:quantity>441500/100</split:quantity>
+      <split:value>418600/100</split:value>
+      <split:quantity>418600/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">a89ce88c0a2986eb9d58921fbd4a10f9</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-441500/100</split:value>
-      <split:quantity>-441500/100</split:quantity>
+      <split:value>-418600/100</split:value>
+      <split:quantity>-418600/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43711,15 +44121,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">bde894ab0dee5d3dcabe1a72230c46f1</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>149400/100</split:value>
-      <split:quantity>149400/100</split:quantity>
+      <split:value>172400/100</split:value>
+      <split:quantity>172400/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">5dd64e7b75bce0fc9027c73fff12cfe1</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-149400/100</split:value>
-      <split:quantity>-149400/100</split:quantity>
+      <split:value>-172400/100</split:value>
+      <split:quantity>-172400/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43748,15 +44158,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">43449740c51832ab28201686043d560a</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>550600/100</split:value>
-      <split:quantity>550600/100</split:quantity>
+      <split:value>527600/100</split:value>
+      <split:quantity>527600/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">421f6b19ce7718ff1026703b1b3fc5fa</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-550600/100</split:value>
-      <split:quantity>-550600/100</split:quantity>
+      <split:value>-527600/100</split:value>
+      <split:quantity>-527600/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43822,15 +44232,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">0f377f04ead25d46dcf44188199a9b05</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>72500/100</split:value>
-      <split:quantity>72500/100</split:quantity>
+      <split:value>81200/100</split:value>
+      <split:quantity>81200/100</split:quantity>
       <split:account type="guid">c11353c55b0b2669593c0d8ae7bcafc8</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">2350faf98b6281d8411ff865952a3770</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-72500/100</split:value>
-      <split:quantity>-72500/100</split:quantity>
+      <split:value>-81200/100</split:value>
+      <split:quantity>-81200/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
@@ -43859,15 +44269,15 @@ SCHIPANI</trn:description>
     <trn:split>
       <split:id type="guid">1a3b960b890d492e4a66e5bd01bf9530</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>627500/100</split:value>
-      <split:quantity>627500/100</split:quantity>
+      <split:value>618800/100</split:value>
+      <split:quantity>618800/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">ab01c120dbca75b84d9522c20ebbe06a</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-627500/100</split:value>
-      <split:quantity>-627500/100</split:quantity>
+      <split:value>-618800/100</split:value>
+      <split:quantity>-618800/100</split:quantity>
       <split:account type="guid">a226e1d32bda864b082768a7f8a07cff</split:account>
     </trn:split>
   </trn:splits>
