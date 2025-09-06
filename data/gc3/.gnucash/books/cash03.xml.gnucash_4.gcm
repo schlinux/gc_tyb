@@ -5,8 +5,8 @@ WindowCount=1
 [Window 1]
 PageCount=10
 FirstPage=1
-PageOrder=7;5;10;4;6;9;1;8;2;3;
-WindowPosition=-33;0;
+PageOrder=9;4;5;7;10;6;1;8;2;3;
+WindowPosition=0;0;
 WindowGeometry=1590;850;
 WindowMaximized=false
 ToolbarVisible=true

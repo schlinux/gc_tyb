@@ -10921,86 +10921,6 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
-  <trn:id type="guid">a73cfc6762d5194a58bf2d496ca1a23b</trn:id>
-  <trn:currency>
-    <cmdty:space>ISO4217</cmdty:space>
-    <cmdty:id>BRL</cmdty:id>
-  </trn:currency>
-  <trn:num>18</trn:num>
-  <trn:date-posted>
-    <ts:date>2025-09-02 00:00:00 -0300</ts:date>
-  </trn:date-posted>
-  <trn:date-entered>
-    <ts:date>2025-08-19 19:20:21 -0300</ts:date>
-  </trn:date-entered>
-  <trn:description>Boleto Agatha -PLJ</trn:description>
-  <trn:slots>
-    <slot>
-      <slot:key>date-posted</slot:key>
-      <slot:value type="gdate">
-        <gdate>2025-09-02</gdate>
-      </slot:value>
-    </slot>
-    <slot>
-      <slot:key>notes</slot:key>
-      <slot:value type="string"></slot:value>
-    </slot>
-  </trn:slots>
-  <trn:splits>
-    <trn:split>
-      <split:id type="guid">76b1813539da609cfb55df7daedfe649</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>80000/100</split:value>
-      <split:quantity>80000/100</split:quantity>
-      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
-    </trn:split>
-    <trn:split>
-      <split:id type="guid">8ed423be35f134dfb543952f2009756a</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-80000/100</split:value>
-      <split:quantity>-80000/100</split:quantity>
-      <split:account type="guid">d1a43450ef8e088b7cc6dff00ddf0ed4</split:account>
-    </trn:split>
-  </trn:splits>
-</gnc:transaction>
-<gnc:transaction version="2.0.0">
-  <trn:id type="guid">f597cbfd746e93e013d720dc5a9099e9</trn:id>
-  <trn:currency>
-    <cmdty:space>ISO4217</cmdty:space>
-    <cmdty:id>BRL</cmdty:id>
-  </trn:currency>
-  <trn:num>20</trn:num>
-  <trn:date-posted>
-    <ts:date>2025-09-02 00:00:00 -0300</ts:date>
-  </trn:date-posted>
-  <trn:date-entered>
-    <ts:date>2025-08-19 19:28:08 -0300</ts:date>
-  </trn:date-entered>
-  <trn:description>Boleto Kilma -PLJ</trn:description>
-  <trn:slots>
-    <slot>
-      <slot:key>notes</slot:key>
-      <slot:value type="string"></slot:value>
-    </slot>
-  </trn:slots>
-  <trn:splits>
-    <trn:split>
-      <split:id type="guid">4af07704df71d11fb768a8eb5cf455d3</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>60000/100</split:value>
-      <split:quantity>60000/100</split:quantity>
-      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
-    </trn:split>
-    <trn:split>
-      <split:id type="guid">ef811b6a34bb62bbed890729c7478410</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-60000/100</split:value>
-      <split:quantity>-60000/100</split:quantity>
-      <split:account type="guid">d1a43450ef8e088b7cc6dff00ddf0ed4</split:account>
-    </trn:split>
-  </trn:splits>
-</gnc:transaction>
-<gnc:transaction version="2.0.0">
   <trn:id type="guid">0b0365b31c05e71ab8f3b10aae7567a5</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
@@ -11050,7 +10970,7 @@
   <trn:date-entered>
     <ts:date>2025-07-01 05:10:55 -0300</ts:date>
   </trn:date-entered>
-  <trn:description>Amortizacao Itaucard Asaas  Sabrina 2b/3- Plj</trn:description>
+  <trn:description>Amortizacao Itaucard Asaas  Sabrina 2b/3- Pg</trn:description>
   <trn:slots>
     <slot>
       <slot:key>date-posted</slot:key>
@@ -11067,15 +10987,101 @@
     <trn:split>
       <split:id type="guid">e3bd37aa43983bf0b02942e038235d10</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>10000/100</split:value>
-      <split:quantity>10000/100</split:quantity>
+      <split:value>16600/100</split:value>
+      <split:quantity>16600/100</split:quantity>
       <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">0deb25e33c17dcb880012f435836661b</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-10000/100</split:value>
-      <split:quantity>-10000/100</split:quantity>
+      <split:value>-16600/100</split:value>
+      <split:quantity>-16600/100</split:quantity>
+      <split:account type="guid">d1a43450ef8e088b7cc6dff00ddf0ed4</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">f597cbfd746e93e013d720dc5a9099e9</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>20</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-09-08 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-08-19 19:28:08 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Boleto Kilma -PLJ</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-09-08</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">4af07704df71d11fb768a8eb5cf455d3</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>60000/100</split:value>
+      <split:quantity>60000/100</split:quantity>
+      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">ef811b6a34bb62bbed890729c7478410</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-60000/100</split:value>
+      <split:quantity>-60000/100</split:quantity>
+      <split:account type="guid">d1a43450ef8e088b7cc6dff00ddf0ed4</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">a73cfc6762d5194a58bf2d496ca1a23b</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>18</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-09-09 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-08-19 19:20:21 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Boleto Agatha -PLJ</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-09-09</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">76b1813539da609cfb55df7daedfe649</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>80000/100</split:value>
+      <split:quantity>80000/100</split:quantity>
+      <split:account type="guid">df617e5456705a11458f0edbbc3d330d</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">8ed423be35f134dfb543952f2009756a</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-80000/100</split:value>
+      <split:quantity>-80000/100</split:quantity>
       <split:account type="guid">d1a43450ef8e088b7cc6dff00ddf0ed4</split:account>
     </trn:split>
   </trn:splits>
@@ -11093,7 +11099,7 @@
   <trn:date-entered>
     <ts:date>2025-04-17 03:43:28 -0300</ts:date>
   </trn:date-entered>
-  <trn:description>Pagto Cobranca CMSP - fechado - </trn:description>
+  <trn:description>Pagto Cobranca CMSP - fechado - ag - 2509050920a_set25-cmsp.pdf</trn:description>
   <trn:slots>
     <slot>
       <slot:key>notes</slot:key>
@@ -20055,43 +20061,6 @@
   </trn:splits>
 </gnc:transaction>
 <gnc:transaction version="2.0.0">
-  <trn:id type="guid">adf6ec10103fb0d319455759603c1826</trn:id>
-  <trn:currency>
-    <cmdty:space>ISO4217</cmdty:space>
-    <cmdty:id>BRL</cmdty:id>
-  </trn:currency>
-  <trn:num>11</trn:num>
-  <trn:date-posted>
-    <ts:date>2025-09-08 00:00:00 -0300</ts:date>
-  </trn:date-posted>
-  <trn:date-entered>
-    <ts:date>2025-04-17 03:52:22 -0300</ts:date>
-  </trn:date-entered>
-  <trn:description>Assungui575 Agol25  -  plj</trn:description>
-  <trn:slots>
-    <slot>
-      <slot:key>notes</slot:key>
-      <slot:value type="string"></slot:value>
-    </slot>
-  </trn:slots>
-  <trn:splits>
-    <trn:split>
-      <split:id type="guid">bb9f4a4300dcae0d984f3bafed87d14b</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>292782/100</split:value>
-      <split:quantity>292782/100</split:quantity>
-      <split:account type="guid">353f8363596c10036fef44d9cd671c03</split:account>
-    </trn:split>
-    <trn:split>
-      <split:id type="guid">4bd5b15425e04dfaae9f9093c7087e93</split:id>
-      <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-292782/100</split:value>
-      <split:quantity>-292782/100</split:quantity>
-      <split:account type="guid">6ad1ac039a9d3dd0db4b831b0aa16aa0</split:account>
-    </trn:split>
-  </trn:splits>
-</gnc:transaction>
-<gnc:transaction version="2.0.0">
   <trn:id type="guid">ec5b65e48e1bd654d2e6541940f7b89c</trn:id>
   <trn:currency>
     <cmdty:space>ISO4217</cmdty:space>
@@ -20125,6 +20094,49 @@
       <split:reconciled-state>n</split:reconciled-state>
       <split:value>-12975/100</split:value>
       <split:quantity>-12975/100</split:quantity>
+      <split:account type="guid">6ad1ac039a9d3dd0db4b831b0aa16aa0</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">adf6ec10103fb0d319455759603c1826</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>BRL</cmdty:id>
+  </trn:currency>
+  <trn:num>11</trn:num>
+  <trn:date-posted>
+    <ts:date>2025-09-10 00:00:00 -0300</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2025-04-17 03:52:22 -0300</ts:date>
+  </trn:date-entered>
+  <trn:description>Assungui575 Setl25  -  fechado - ag - 2509050905a_assungui575_set25.pdf</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2025-09-10</gdate>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>notes</slot:key>
+      <slot:value type="string"></slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">bb9f4a4300dcae0d984f3bafed87d14b</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>293655/100</split:value>
+      <split:quantity>293655/100</split:quantity>
+      <split:account type="guid">353f8363596c10036fef44d9cd671c03</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">4bd5b15425e04dfaae9f9093c7087e93</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-293655/100</split:value>
+      <split:quantity>-293655/100</split:quantity>
       <split:account type="guid">6ad1ac039a9d3dd0db4b831b0aa16aa0</split:account>
     </trn:split>
   </trn:splits>
@@ -20239,16 +20251,16 @@
     <trn:split>
       <split:id type="guid">8dd660278432d49b1d36f46e5add6960</split:id>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>98935/100</split:value>
-      <split:quantity>98935/100</split:quantity>
+      <split:value>98062/100</split:value>
+      <split:quantity>98062/100</split:quantity>
       <split:account type="guid">e9a49e44df4cb1b5f0422fc45ce77d63</split:account>
     </trn:split>
     <trn:split>
       <split:id type="guid">c457de34f5c6540d19e36eef181bd59d</split:id>
       <split:memo>Pagto Cobranca 2412020604a-cmsp</split:memo>
       <split:reconciled-state>n</split:reconciled-state>
-      <split:value>-98935/100</split:value>
-      <split:quantity>-98935/100</split:quantity>
+      <split:value>-98062/100</split:value>
+      <split:quantity>-98062/100</split:quantity>
       <split:account type="guid">6ad1ac039a9d3dd0db4b831b0aa16aa0</split:account>
     </trn:split>
   </trn:splits>

@@ -69,4 +69,6 @@ sudo zfs destroy -R -f schpool-te5@SNAP_ONLINE_BACKUP_HOME_WORK_TGR  2>&1
 2508191853a_pix_quitacao_claro_netcombo.pdf
 2508211551a_DAS_ago25.pdf
 2508260625a_contracheque_ago25.pdf
+2509050905a_assungui575_set25.pdf
+2509050920a_set25-cmsp.pdf
 
